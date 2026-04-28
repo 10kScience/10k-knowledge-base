@@ -108,39 +108,24 @@ pre code {
   color: var(--ink);
   display: inline-flex;
   flex: 1 1 auto;
-  gap: 10px;
-  min-width: 210px;
+  gap: 12px;
+  min-width: 240px;
   text-decoration: none;
 }
 
-.brand-mark {
-  align-items: center;
-  background: var(--teal);
-  border-radius: 50%;
-  color: #ffffff;
-  display: inline-flex;
-  font-weight: 800;
-  height: 38px;
-  justify-content: center;
-  letter-spacing: 0;
-  width: 38px;
-}
-
-.brand-text {
-  display: flex;
-  flex-direction: column;
-  gap: 1px;
+.brand-logo {
+  display: block;
+  height: 42px;
+  width: auto;
 }
 
 .brand-title {
+  border-left: 1px solid var(--line);
+  color: var(--muted);
+  font-size: 0.94rem;
   font-weight: 760;
   line-height: 1.05;
-}
-
-.brand-subtitle {
-  color: var(--muted);
-  font-size: 0.82rem;
-  line-height: 1.15;
+  padding-left: 12px;
 }
 
 .site-links {
@@ -573,8 +558,12 @@ blockquote {
     padding: 22px 18px;
   }
 
-  .brand-subtitle {
-    display: none;
+  .brand {
+    min-width: 0;
+  }
+
+  .brand-logo {
+    height: 36px;
   }
 
   .hero-media {
