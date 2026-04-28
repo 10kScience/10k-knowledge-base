@@ -1,0 +1,17 @@
+---
+layout: null
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% for page in site.pages %}
+  {% unless page.noindex %}
+  <url>
+    <loc>{{ site.url }}{{ site.baseurl }}{{ page.url | replace: 'index.html', '' }}</loc>
+    {% if page.last_reviewed %}<lastmod>{{ page.last_reviewed }}</lastmod>{% endif %}
+    <changefreq>monthly</changefreq>
+    <priority>{% if page.url == '/' %}1.0{% elsif page.url contains '/content/discovery/' %}0.8{% else %}0.6{% endif %}</priority>
+  </url>
+  {% endunless %}
+  {% endfor %}
+</urlset>

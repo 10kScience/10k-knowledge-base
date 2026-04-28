@@ -1,0 +1,18 @@
+title: 10k Corpus
+description: Public knowledge corpus for Dynamoid and 10k Science, including LLM-readable facts, category pages, source links, and machine-readable chunks.
+url: "https://10kscience.github.io"
+baseurl: "/10k-corpus"
+timezone: America/Los_Angeles
+lang: en-US
+markdown: kramdown
+permalink: pretty
+exclude:
+  - reference/
+  - node_modules/
+  - vendor/
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+      image: "https://images.squarespace-cdn.com/content/v1/66787249ee3c1d153670fd0d/1723677858326-V7UVJXMQ7V2SV3SG3C6L/landscape.png"

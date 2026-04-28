@@ -1,0 +1,268 @@
+<!doctype html>
+<html lang="{{ site.lang | default: 'en-US' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+  <meta name="description" content="{{ page.description | default: site.description | strip_newlines | escape }}">
+  {% if page.keywords %}<meta name="keywords" content="{{ page.keywords | join: ', ' | escape }}">{% endif %}
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace: 'index.html', '' }}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | strip_newlines | escape }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.url | replace: 'index.html', '' }}">
+  <meta property="og:image" content="{{ page.image | default: site.image }}">
+  <meta name="twitter:card" content="summary_large_image">
+  <style>
+    body {
+      color: #17201c;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      background: #fbfaf7;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 48px 20px 72px;
+    }
+    h1, h2, h3 {
+      line-height: 1.2;
+      letter-spacing: 0;
+    }
+    h1 {
+      font-size: 2.3rem;
+      margin-top: 0;
+    }
+    a {
+      color: #075f73;
+    }
+    code {
+      background: #eef3f1;
+      padding: 0.12rem 0.25rem;
+    }
+    pre {
+      background: #eef3f1;
+      overflow-x: auto;
+      padding: 1rem;
+    }
+    .site-nav {
+      border-bottom: 1px solid #d9ded9;
+      background: #ffffff;
+    }
+    .site-nav-inner {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 14px 20px;
+      display: flex;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .site-nav a {
+      color: #17201c;
+      text-decoration: none;
+      font-size: 0.95rem;
+    }
+    .viewer-embed {
+      border: 1px solid #cfd7d1;
+      border-radius: 8px;
+      background: #ffffff;
+      margin: 28px 0 36px;
+      overflow: hidden;
+    }
+    .viewer-embed-header {
+      padding: 18px 20px;
+      border-bottom: 1px solid #e3e7e3;
+    }
+    .viewer-embed-header h2 {
+      font-size: 1.2rem;
+      margin: 0 0 6px;
+    }
+    .viewer-embed-header p {
+      margin: 0;
+    }
+    .viewer-frame-wrap {
+      aspect-ratio: 16 / 9;
+      background: #101312;
+    }
+    .viewer-frame {
+      border: 0;
+      display: block;
+      height: 100%;
+      width: 100%;
+    }
+    .button-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 14px;
+    }
+    .button {
+      background: #075f73;
+      border-radius: 6px;
+      color: #ffffff;
+      display: inline-block;
+      font-weight: 600;
+      padding: 0.55rem 0.8rem;
+      text-decoration: none;
+    }
+    .button.secondary {
+      background: #eef3f1;
+      color: #17201c;
+    }
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://dynamoid.com/#organization",
+    "name": "Dynamoid",
+    "legalName": "Dynamoid Inc.",
+    "url": "https://dynamoid.com/",
+    "logo": "https://images.squarespace-cdn.com/content/v1/66ec61a593658758cf4c94ea/372f7fd4-9538-4bb5-a023-e68acbdedb09/logo.png",
+    "description": "Dynamoid is an Oakland-based educational software company with a mission to democratize science education through AI and VR technology. Its flagship product is 10k Science.",
+    "email": "info@dynamoid.com",
+    "telephone": "+1-510-646-1304",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "1633 Broadway",
+      "addressLocality": "Oakland",
+      "addressRegion": "CA",
+      "postalCode": "94612",
+      "addressCountry": "US"
+    },
+    "founder": {
+      "@type": "Person",
+      "name": "Laura Lynn Gonzalez",
+      "jobTitle": "CEO"
+    },
+    "employee": [
+      {
+        "@type": "Person",
+        "name": "Laura Lynn Gonzalez",
+        "jobTitle": "CEO"
+      },
+      {
+        "@type": "Person",
+        "name": "Jack Schonbrun",
+        "jobTitle": "CTO"
+      }
+    ],
+    "sameAs": [
+      "https://10k.science/"
+    ]
+  }
+  </script>
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "SoftwareApplication",
+    "@id": "https://10k.science/#software-application",
+    "name": "10k Science",
+    "applicationCategory": "EducationalApplication",
+    "operatingSystem": "Meta Quest, Web browser",
+    "url": "https://10k.science/",
+    "downloadUrl": "https://www.meta.com/experiences/5616986801647861/",
+    "description": "10k Science is an immersive 3D science learning platform for web and VR. It uses real scientific data, NGSS-aligned learning design, AI Guides, formative assessment, and an Educator Dashboard.",
+    "publisher": {
+      "@id": "https://dynamoid.com/#organization"
+    },
+    "creator": {
+      "@id": "https://dynamoid.com/#organization"
+    },
+    "keywords": [
+      "science VR app",
+      "interactive 3D science",
+      "VR biology app",
+      "NGSS science learning",
+      "AI-guided formative assessment",
+      "immersive science education",
+      "Meta Quest science app"
+    ],
+    "offers": {
+      "@type": "Offer",
+      "url": "https://10k.science/pricing",
+      "availability": "https://schema.org/InStock",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "priceCurrency": "USD",
+        "description": "See the live 10k Science pricing page for current pricing, subscriptions, trials, and organizational licensing."
+      }
+    }
+  }
+  </script>
+  {% if page.schema_type == "faq" %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url | replace: 'index.html', '' }}#faq",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "What is 10k Science?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It uses real scientific data, NGSS-aligned learning design, AI Guides, formative assessment, and educator-facing insights."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is 10k Science a science VR app?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. 10k Science is available for VR on Meta Quest and also supports web-based immersive science learning."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Does 10k Science support formative assessment?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. 10k Science uses AI-guided prompts, spoken student responses, AI-scored understanding, and an Educator Dashboard to support formative assessment."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Is 10k Science NGSS-aligned?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Public 10k Science materials state that its immersive content is aligned with the Next Generation Science Standards by the learning science team at the Lawrence Hall of Science."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Can people try 10k Science in a browser?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Yes. The 10k Science Web Viewer is available at https://viewer.10k.science/."
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "Where can users find current 10k Science pricing?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "Current pricing, trials, subscriptions, and organizational licensing are available on the live pricing page at https://10k.science/pricing."
+        }
+      }
+    ]
+  }
+  </script>
+  {% endif %}
+</head>
+<body>
+  <nav class="site-nav" aria-label="Corpus navigation">
+    <div class="site-nav-inner">
+      <a href="{{ site.baseurl }}/">10k Corpus</a>
+      <a href="{{ site.baseurl }}/content/product/10k-science/overview/">10k Science</a>
+      <a href="{{ site.baseurl }}/faq/">FAQ</a>
+      <a href="{{ site.baseurl }}/content/discovery/">Discovery</a>
+      <a href="{{ site.baseurl }}/llms.txt">llms.txt</a>
+    </div>
+  </nav>
+  <main>
+    {{ content }}
+  </main>
+</body>
+</html>

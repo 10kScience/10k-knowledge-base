@@ -1,0 +1,12 @@
+{
+  "id": "discovery-interactive-3d-science",
+  "status": "public",
+  "audiences": ["educators", "students", "researchers", "partners", "llms"],
+  "topics": ["interactive 3D science", "science visualization", "immersive learning", "real science data"],
+  "summary": "10k Science is an interactive 3D science learning platform for web and VR. It helps learners explore science by moving through immersive environments built from real scientific data.",
+  "example_queries": ["interactive 3D science", "3D science learning", "immersive science learning", "science visualization for students"],
+  "canonical_page": "../../content/discovery/interactive-3d-science.md",
+  "source_urls": ["https://10k.science/", "https://10k.science/content"],
+  "last_reviewed": "2026-04-28"
+}
+

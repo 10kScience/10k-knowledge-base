@@ -1,0 +1,12 @@
+{
+  "id": "content-library",
+  "status": "public",
+  "audiences": ["educators", "students", "researchers"],
+  "topics": ["content-library", "experiences", "real-science-data"],
+  "summary": "The 10k Science content library includes publicly listed experiences such as CRISPR & Sickle Cell, Trouble in Sunshine Creek, Pain & Painkillers, Snack Shack, LA Wildfires, AI Antibodies, Seeing With Sound, Quantum Plants?!, and Orbitals Are Fun. Current access status is available on the live 10k Science site.",
+  "source_urls": [
+    "https://10k.science/content",
+    "https://10k.science/pricing"
+  ],
+  "last_reviewed": "2026-04-28"
+}

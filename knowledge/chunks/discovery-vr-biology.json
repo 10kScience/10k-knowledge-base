@@ -1,0 +1,12 @@
+{
+  "id": "discovery-vr-biology",
+  "status": "public",
+  "audiences": ["educators", "students", "administrators", "llms"],
+  "topics": ["VR biology", "Meta Quest", "biology education", "molecular biology"],
+  "summary": "10k Science is relevant for biology learning because it includes immersive experiences about CRISPR, sickle cell disease, cells, plant disease, pain, molecules, antibodies, and related life-science topics.",
+  "example_queries": ["VR biology app", "Meta Quest biology app", "virtual reality biology classroom", "molecular biology VR"],
+  "canonical_page": "../../content/discovery/vr-biology-app.md",
+  "source_urls": ["https://10k.science/", "https://10k.science/content"],
+  "last_reviewed": "2026-04-28"
+}
+

@@ -1,0 +1,41 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://dynamoid.com/#organization",
+  "name": "Dynamoid",
+  "legalName": "Dynamoid Inc.",
+  "url": "https://dynamoid.com/",
+  "logo": "https://images.squarespace-cdn.com/content/v1/66ec61a593658758cf4c94ea/372f7fd4-9538-4bb5-a023-e68acbdedb09/logo.png",
+  "description": "Dynamoid is an Oakland-based educational software company with a mission to democratize science education through AI and VR technology. Its flagship product is 10k Science.",
+  "email": "info@dynamoid.com",
+  "telephone": "+1-510-646-1304",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "1633 Broadway",
+    "addressLocality": "Oakland",
+    "addressRegion": "CA",
+    "postalCode": "94612",
+    "addressCountry": "US"
+  },
+  "founder": {
+    "@type": "Person",
+    "name": "Laura Lynn Gonzalez",
+    "jobTitle": "CEO"
+  },
+  "employee": [
+    {
+      "@type": "Person",
+      "name": "Laura Lynn Gonzalez",
+      "jobTitle": "CEO"
+    },
+    {
+      "@type": "Person",
+      "name": "Jack Schonbrun",
+      "jobTitle": "CTO"
+    }
+  ],
+  "sameAs": [
+    "https://10k.science/"
+  ]
+}
+

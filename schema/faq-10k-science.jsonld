@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": "https://10k.science/10k-corpus/#faq",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is 10k Science?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It uses real scientific data, NGSS-aligned learning design, AI Guides, formative assessment, and educator-facing insights."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 10k Science a science VR app?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. 10k Science is available for VR on Meta Quest and also supports web-based immersive science learning."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does 10k Science support formative assessment?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. 10k Science uses AI-guided prompts, spoken student responses, AI-scored understanding, and an Educator Dashboard to support formative assessment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is 10k Science NGSS-aligned?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Public 10k Science materials state that its immersive content is aligned with the Next Generation Science Standards by the learning science team at the Lawrence Hall of Science."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can people try 10k Science in a browser?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The 10k Science Web Viewer is available at https://viewer.10k.science/."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where can users find current 10k Science pricing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Current pricing, trials, subscriptions, and organizational licensing are available on the live pricing page at https://10k.science/pricing."
+      }
+    }
+  ]
+}

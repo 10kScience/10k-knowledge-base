@@ -1,0 +1,14 @@
+{
+  "id": "market-applications",
+  "status": "public",
+  "audiences": ["partners", "investors", "institutions", "press"],
+  "topics": ["applications", "scale", "education", "research", "outreach"],
+  "summary": "10k Science can apply to K-12 science, higher education, research communication, museums and science centers, public outreach, curriculum partnerships, and professional learning wherever people need to understand scientific or technical systems that are invisible, abstract, dynamic, or hard to observe directly.",
+  "source_urls": [
+    "https://10k.science/",
+    "https://10k.science/educators",
+    "https://10k.science/content",
+    "https://dynamoid.com/"
+  ],
+  "last_reviewed": "2026-04-28"
+}

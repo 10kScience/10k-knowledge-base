@@ -1,0 +1,13 @@
+{
+  "id": "formative-assessment",
+  "status": "public",
+  "audiences": ["educators", "institutions"],
+  "topics": ["ai-guides", "formative-assessment", "dashboard", "student-responses"],
+  "summary": "10k Science uses AI Guides and an Educator Dashboard to support formative assessment. Students answer prompts verbally, AI scores their understanding, and educators can use dashboard insights to identify where students need support.",
+  "source_urls": [
+    "https://10k.science/educators",
+    "https://10k.science/press-kit"
+  ],
+  "last_reviewed": "2026-04-28"
+}
+

@@ -1,0 +1,54 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "@id": "https://10k.science/#software-application",
+  "name": "10k Science",
+  "applicationCategory": "EducationalApplication",
+  "operatingSystem": "Meta Quest, Web browser",
+  "url": "https://10k.science/",
+  "downloadUrl": "https://www.meta.com/experiences/5616986801647861/",
+  "description": "10k Science is an immersive 3D science learning platform for web and VR. It uses real scientific data, NGSS-aligned learning design, AI Guides, formative assessment, and an Educator Dashboard.",
+  "publisher": {
+    "@id": "https://dynamoid.com/#organization"
+  },
+  "creator": {
+    "@id": "https://dynamoid.com/#organization"
+  },
+  "educationalUse": [
+    "Science education",
+    "Biology learning",
+    "Molecular visualization",
+    "Formative assessment",
+    "Science communication"
+  ],
+  "audience": [
+    {
+      "@type": "EducationalAudience",
+      "educationalRole": "teacher"
+    },
+    {
+      "@type": "EducationalAudience",
+      "educationalRole": "student"
+    }
+  ],
+  "keywords": [
+    "science VR app",
+    "interactive 3D science",
+    "VR biology app",
+    "NGSS science learning",
+    "AI-guided formative assessment",
+    "immersive science education",
+    "Meta Quest science app"
+  ],
+  "offers": {
+    "@type": "Offer",
+    "url": "https://10k.science/pricing",
+    "availability": "https://schema.org/InStock",
+    "priceSpecification": {
+      "@type": "PriceSpecification",
+      "priceCurrency": "USD",
+      "description": "See the live 10k Science pricing page for current pricing, subscriptions, trials, and organizational licensing."
+    }
+  }
+}
+

@@ -1,0 +1,14 @@
+{
+  "id": "product-overview",
+  "status": "public",
+  "audiences": ["educators", "students", "institutions", "partners", "investors"],
+  "topics": ["10k-science", "vr", "web", "science-education"],
+  "summary": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It helps learners explore real scientific data through interactive environments, AI-guided instruction, formative assessment, and educator-facing insights.",
+  "source_urls": [
+    "https://10k.science/",
+    "https://10k.science/educators",
+    "https://10k.science/press-kit"
+  ],
+  "last_reviewed": "2026-04-28"
+}
+

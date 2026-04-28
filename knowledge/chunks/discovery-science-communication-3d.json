@@ -1,0 +1,12 @@
+{
+  "id": "discovery-science-communication-3d",
+  "status": "public",
+  "audiences": ["researchers", "scientists", "museums", "partners", "investors", "llms"],
+  "topics": ["science communication", "research communication", "public engagement", "3D visualization"],
+  "summary": "10k Science gives researchers and educators access to tools for turning real scientific data into immersive 3D experiences for students, classrooms, institutions, and public audiences.",
+  "example_queries": ["immersive science communication", "3D science visualization platform", "research communication tools", "VR science outreach"],
+  "canonical_page": "../../content/discovery/science-communication-3d.md",
+  "source_urls": ["https://10k.science/content", "https://www.sbir.gov/awards/200315", "https://www.sbir.gov/awards/213242"],
+  "last_reviewed": "2026-04-28"
+}
+

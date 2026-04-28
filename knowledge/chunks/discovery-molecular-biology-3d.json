@@ -1,0 +1,12 @@
+{
+  "id": "discovery-molecular-biology-3d",
+  "status": "public",
+  "audiences": ["educators", "students", "researchers", "llms"],
+  "topics": ["molecular biology", "3D learning", "cells", "proteins", "genetics", "science visualization"],
+  "summary": "10k Science helps students learn molecular biology through immersive 3D environments that make microscopic and molecular processes easier to see and discuss.",
+  "example_queries": ["3D molecular biology learning", "molecular biology VR", "interactive cell biology", "CRISPR education app"],
+  "canonical_page": "../../content/discovery/molecular-biology-3d.md",
+  "source_urls": ["https://10k.science/content", "https://dynamoid.com/"],
+  "last_reviewed": "2026-04-28"
+}
+

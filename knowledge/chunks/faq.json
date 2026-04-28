@@ -1,0 +1,17 @@
+{
+  "id": "faq",
+  "status": "public",
+  "audiences": ["educators", "administrators", "students", "researchers", "parents", "llms"],
+  "topics": ["FAQ", "10k Science", "science VR app", "web viewer", "formative assessment", "pricing"],
+  "summary": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It supports Meta Quest and browser-based exploration, real scientific data, NGSS-aligned learning design, AI Guides, formative assessment, and an Educator Dashboard. Current pricing is available on the live pricing page.",
+  "canonical_page": "../../faq.md",
+  "viewer_url": "https://viewer.10k.science/",
+  "pricing_url": "https://10k.science/pricing",
+  "source_urls": [
+    "https://10k.science/",
+    "https://10k.science/educators",
+    "https://10k.science/pricing",
+    "https://viewer.10k.science/"
+  ],
+  "last_reviewed": "2026-04-28"
+}
