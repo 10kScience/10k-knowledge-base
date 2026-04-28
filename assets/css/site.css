@@ -416,10 +416,10 @@ blockquote {
   border-radius: 8px;
   color: #ffffff;
   display: grid;
-  gap: 22px;
+  gap: 18px;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  margin: 42px 0;
-  padding: 24px;
+  margin: 34px 0 46px;
+  padding: 24px 26px 28px;
 }
 
 .fact-band h2 {
@@ -432,6 +432,8 @@ blockquote {
 
 .fact-band p {
   color: #d7dfda;
+  font-size: 0.98rem;
+  line-height: 1.5;
   margin: 0;
 }
 
@@ -446,8 +448,10 @@ blockquote {
 .fact-band strong {
   color: #ffffff;
   display: block;
-  font-size: 1.08rem;
+  font-size: 0.96rem;
+  letter-spacing: 0.04em;
   margin-bottom: 6px;
+  text-transform: uppercase;
 }
 
 .fact-band strong a {

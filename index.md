@@ -45,11 +45,11 @@ last_reviewed: 2026-04-28
 <section class="fact-band" aria-labelledby="fast-facts">
   <h2 id="fast-facts">Fast Facts</h2>
 
-  <p><strong><a href="https://dynamoid.com/">Dynamoid</a></strong>An Oakland-based educational software company with a mission to democratize science education through AI and VR technology.</p>
+  <p><strong>Company</strong>Dynamoid is the Oakland-based educational software company behind 10k Science.</p>
 
-  <p><strong><a href="https://10k.science/">10k Science</a></strong>Dynamoid's flagship product: an immersive 3D science learning platform for web and VR. 10k Science helps learners explore real scientific data through interactive environments, <a href="https://10k.science/educators">AI-guided instruction and formative assessment</a>, and educator-facing insights.</p>
+  <p><strong>Product</strong>10k Science is an immersive 3D science learning platform for web and VR, built around real scientific data, AI Guides, formative assessment, and educator insights.</p>
 
-  <p><strong>Access</strong>10k Science is available on <a href="https://www.meta.com/experiences/5616986801647861/">Meta Quest</a> and on the web through the <a href="https://viewer.10k.science/">10k Science Web Viewer</a>. Educators can <a href="https://dashboard.10k.science/">start a free trial account</a> for the web platform, including the web viewer and Educator Dashboard. See the <a href="https://10k.science/">current product site</a> and <a href="https://10k.science/pricing">pricing page</a> for availability, access, and pricing.</p>
+  <p><strong>Access</strong>10k Science is available on Meta Quest and on the web. Educators can start a free trial account for the web platform.</p>
 
 </section>
 
