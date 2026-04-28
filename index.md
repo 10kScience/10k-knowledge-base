@@ -7,7 +7,8 @@ last_reviewed: 2026-04-28
 
 <section class="hero">
   <div class="hero-copy">
-    <p>Explore public information about Dynamoid and 10k Science, including the company's mission, the 10k Science platform, classroom uses, research evidence, funding history, and ways to experience immersive 3D science on the web and in VR.</p>
+    <h1>About 10k Science</h1>
+    <p>Find documentation and reference materials for Dynamoid and 10k Science. Start with the product overview, classroom use, research evidence, company background, or web and VR access.</p>
     <div class="hero-actions">
       <a class="button" href="https://viewer.10k.science/" target="_blank" rel="noopener">Open Viewer</a>
       <a class="button" href="https://dashboard.10k.science/" target="_blank" rel="noopener">Start Free Trial</a>
