@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://10kscience.github.io/10k-knowledge-base/schema/corpus.schema.json",
+  "title": "10k Knowledge Base Corpus",
+  "type": "object",
+  "required": ["name", "version", "status", "base_url", "chunks"],
+  "properties": {
+    "name": { "type": "string" },
+    "version": { "type": "string" },
+    "status": { "const": "public" },
+    "base_url": { "type": "string", "format": "uri" },
+    "generated_from": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "chunks": {
+      "type": "array",
+      "items": { "$ref": "chunk.schema.json" }
+    }
+  },
+  "additionalProperties": true
+}

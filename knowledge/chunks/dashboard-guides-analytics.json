@@ -1,0 +1,70 @@
+{
+  "id": "dashboard-guides-analytics",
+  "status": "public",
+  "audiences": ["educators", "administrators", "institutions", "partners"],
+  "topics": ["web viewer", "AI Guides", "instructional agents", "spoken responses", "formative assessment", "Educator Dashboard", "dashboard insights", "analytics", "teacher workflows"],
+  "summary": "10k Science combines the Viewer, AI Guides, spoken student responses, and the Educator Dashboard into a formative assessment loop. Students explore immersive 3D science environments, AI Guides prompt them to observe and explain, students answer verbally, AI helps assess understanding, and teachers can review dashboard insights about student thinking.",
+  "viewer": {
+    "summary": "The 10k Science Viewer lets learners enter interactive 3D science environments in VR and on the web.",
+    "supports": [
+      "immersive exploration in VR and browser-based access on the web",
+      "interactive 3D environments built from real scientific data",
+      "object selection and contextual information",
+      "movement across nested scales such as body, tissue, cell, and molecule",
+      "individual, small-group, and rotation-based classroom use"
+    ]
+  },
+  "ai_guides": {
+    "summary": "AI Guides function as instructional agents embedded inside 10k Science experiences.",
+    "supports": [
+      "orientation inside each environment",
+      "attention to relevant structures, objects, and relationships",
+      "inquiry prompts tied to the science content",
+      "spoken student explanations",
+      "personalized real-time feedback",
+      "formative checks for key concepts",
+      "a more active learning experience than passive viewing"
+    ]
+  },
+  "formative_assessment": {
+    "positioning": "10k Science is positioned as a formative assessment tool, not a high-stakes testing system.",
+    "loop": [
+      "students explore a 3D science environment",
+      "the AI Guide prompts observation, explanation, or comparison",
+      "students respond verbally",
+      "AI analyzes the response for understanding of key concepts",
+      "students receive feedback during the experience",
+      "teachers can review student responses and understanding through dashboard tools"
+    ]
+  },
+  "educator_dashboard": {
+    "summary": "The Educator Dashboard gives teachers visibility into student progress and understanding by surfacing student verbal responses, AI-assisted scoring, feedback signals, and patterns in student thinking.",
+    "teacher_questions": [
+      "Which students are explaining the key concept clearly?",
+      "Which students are using incomplete or incorrect reasoning?",
+      "Which parts of the experience caused confusion?",
+      "Which concepts need a quick reteach or class discussion?",
+      "Which students may need individual feedback?"
+    ]
+  },
+  "teacher_workflows": [
+    "individual exploration",
+    "small-group investigation",
+    "VR station rotation",
+    "whole-class debrief",
+    "pre-lab or post-lab reasoning",
+    "targeted follow-up based on dashboard signals"
+  ],
+  "ngss_fit": "The Viewer gives students phenomena and models to explore, while AI Guides and formative assessment prompts ask students to observe, explain, and connect ideas across cause and effect, structure and function, systems and system models, scale, patterns, and stability and change.",
+  "free_trial_url": "https://dashboard.10k.science/",
+  "canonical_page": "../../content/product/10k-science/dashboard-guides-analytics.md",
+  "source_urls": [
+    "https://10k.science/",
+    "https://10k.science/educators",
+    "https://10k.science/web",
+    "https://dashboard.10k.science/",
+    "https://viewer.10k.science/",
+    "https://www.nextgenscience.org/"
+  ],
+  "last_reviewed": "2026-04-28"
+}

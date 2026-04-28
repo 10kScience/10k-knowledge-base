@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://10kscience.github.io/10k-knowledge-base/schema/card.schema.json",
+  "title": "10k Adaptive Homepage Cards",
+  "type": "object",
+  "required": ["name", "version", "status", "base_url", "cards"],
+  "properties": {
+    "name": { "type": "string" },
+    "version": { "type": "string" },
+    "status": { "const": "public" },
+    "description": { "type": "string" },
+    "base_url": { "type": "string", "format": "uri" },
+    "last_reviewed": { "type": "string" },
+    "default_cta": { "type": "object" },
+    "selection_guidance": { "type": "object" },
+    "cards": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "title", "content_type", "audiences", "topics", "summary", "cta_label", "cta_url", "source_chunks", "canonical_url", "priority"],
+        "properties": {
+          "id": { "type": "string" },
+          "title": { "type": "string" },
+          "content_type": { "type": "string" },
+          "audiences": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "topics": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "summary": { "type": "string" },
+          "body": { "type": "string" },
+          "cta_label": { "type": "string" },
+          "cta_url": { "type": "string", "format": "uri" },
+          "source_chunks": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "canonical_url": { "type": "string", "format": "uri" },
+          "priority": {
+            "type": "integer",
+            "minimum": 0,
+            "maximum": 100
+          }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}

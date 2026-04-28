@@ -1,0 +1,113 @@
+{
+  "name": "10k Science Retrieval And Response Policies",
+  "version": "2026-04-28",
+  "status": "public",
+  "description": "Public guidance for systems that retrieve, summarize, adapt, or present content from the 10k Knowledge Base.",
+  "canonical_naming": {
+    "company": "Dynamoid",
+    "product": "10k Science",
+    "rules": [
+      "Dynamoid is the company.",
+      "10k Science is the flagship product and platform.",
+      "Use 10k Science as the product name in public-facing copy."
+    ]
+  },
+  "primary_urls": {
+    "knowledge_base": "https://10kscience.github.io/10k-knowledge-base/",
+    "product_site": "https://10k.science/",
+    "web_viewer": "https://viewer.10k.science/",
+    "free_trial": "https://dashboard.10k.science/",
+    "pricing": "https://10k.science/pricing",
+    "contact": "https://10k.science/contact"
+  },
+  "call_to_action_policy": {
+    "default_cta": {
+      "label": "Start Free Trial",
+      "url": "https://dashboard.10k.science/"
+    },
+    "viewer_cta": {
+      "label": "Open Web Viewer",
+      "url": "https://viewer.10k.science/"
+    },
+    "pricing_cta": {
+      "label": "See Pricing",
+      "url": "https://10k.science/pricing"
+    },
+    "notes": [
+      "Use https://dashboard.10k.science/ for the public free trial account CTA.",
+      "Use https://10k.science/pricing for current pricing, subscription, trial, and licensing details.",
+      "Do not copy fixed pricing into generated answers unless it appears on the live pricing page."
+    ]
+  },
+  "retrieval_guidance": {
+    "first_load": [
+      "knowledge/index.json",
+      "knowledge/policies.json",
+      "knowledge/cards.json"
+    ],
+    "for_general_answers": [
+      "llms.txt",
+      "knowledge/corpus.json",
+      "knowledge/queries.json"
+    ],
+    "for_homepage_adaptation": [
+      "knowledge/cards.json",
+      "knowledge/queries.json",
+      "knowledge/chunks/product-overview.json",
+      "knowledge/chunks/formative-assessment.json",
+      "knowledge/chunks/content-library.json",
+      "knowledge/chunks/faq.json"
+    ],
+    "ranking_hints": [
+      "Match audience first when audience is known.",
+      "Match topic and query intent second.",
+      "When a query intent includes recommended_cards, use those cards as the first adaptive homepage candidates.",
+      "Prefer cards for homepage modules and chunks for detailed answers.",
+      "Prefer FAQ answers for direct product questions.",
+      "Use source_chunks and canonical_url fields for attribution and follow-up links."
+    ]
+  },
+  "audience_guidance": [
+    {
+      "audience": "educators",
+      "emphasize": ["free trial", "web viewer", "Educator Dashboard", "AI Guides", "formative assessment", "NGSS alignment", "classroom workflows"]
+    },
+    {
+      "audience": "administrators",
+      "emphasize": ["web and VR access", "dashboard insights", "classroom implementation", "budget-aware headset use", "trial and pricing links"]
+    },
+    {
+      "audience": "students",
+      "emphasize": ["interactive 3D science", "web viewer", "VR biology", "real scientific data", "content library"]
+    },
+    {
+      "audience": "researchers",
+      "emphasize": ["real scientific data", "researcher bootcamps", "creator workflows", "science communication", "visualization"]
+    },
+    {
+      "audience": "partners",
+      "emphasize": ["market applications", "scientific visualization", "medical and healthcare communication", "research communication", "platform strengths"]
+    },
+    {
+      "audience": "investors",
+      "emphasize": ["company background", "funding and support", "evidence signals", "market applications", "platform strengths"],
+      "limits": ["Do not invent market-size numbers, financial performance, financing status, or customer commitments."]
+    }
+  ],
+  "accuracy_guardrails": [
+    "Do not describe Dynamoid as the product.",
+    "Do not describe 10k Science as the company.",
+    "Do not invent pricing, customer names, market-size numbers, financial performance, financing status, or unpublished roadmap details.",
+    "Do not expose source material that is not already published in this knowledge base or on Dynamoid and 10k Science websites.",
+    "Do not imply that 10k Science is a high-stakes testing system.",
+    "Describe 10k Science as a formative assessment tool when discussing assessment.",
+    "For NGSS, use: 10k Science content is developed to align with the Next Generation Science Standards in partnership with the Lawrence Hall of Science.",
+    "For pricing and availability, refer users to https://10k.science/pricing.",
+    "For free trial account access to the web platform, use https://dashboard.10k.science/."
+  ],
+  "freshness_policy": {
+    "last_reviewed": "2026-04-28",
+    "review_cadence": "Review public claims, URLs, pricing links, free trial links, team information, and content availability whenever the product website changes or at least quarterly.",
+    "high_churn_fields": ["pricing", "trial availability", "content availability", "dashboard features", "AI Guide features", "Meta Quest listing", "team information"]
+  }
+}

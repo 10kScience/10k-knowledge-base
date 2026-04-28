@@ -17,9 +17,13 @@ The knowledge base includes product information, audience pages, evidence, sourc
 - `faq.md`: public FAQ about 10k Science.
 - `llms.txt`: concise public summary.
 - `knowledge/index.json`: structured knowledge-base index.
+- `knowledge/corpus.json`: combined machine-readable corpus for retrieval systems.
+- `knowledge/cards.json`: adaptive homepage cards with audience, topic, CTA, and source metadata.
+- `knowledge/policies.json`: public response guidance for pricing, naming, claims, CTAs, and freshness.
 - `knowledge/queries.json`: discovery topic map.
+- `knowledge/chunks/`: page-level public knowledge chunks.
 - `content/`: public knowledge-base pages.
-- `schema/`: structured data snippets.
+- `schema/`: JSON-LD structured data snippets and JSON schemas for knowledge files.
 
 ## Deployment Signals
 
@@ -30,5 +34,7 @@ The knowledge base includes:
 - `sitemap.xml` generated from knowledge-base pages.
 - JSON-LD snippets and a default HTML layout with Organization and SoftwareApplication structured data.
 - `knowledge/queries.json` connecting discovery topics to knowledge-base pages.
+- `knowledge/corpus.json`, `knowledge/cards.json`, and `knowledge/policies.json` for RAG systems and adaptive content surfaces.
+- JSON schemas for chunks, corpus, cards, and retrieval policies.
 
 The current GitHub Pages URL is configured in `_config.yml`.

@@ -1,0 +1,20 @@
+{
+  "id": "pricing",
+  "status": "public",
+  "audiences": ["educators", "administrators", "institutions"],
+  "topics": ["pricing", "free trial", "subscriptions", "availability", "organizational licensing", "web platform"],
+  "summary": "Educators can start a free trial account for the 10k Science web platform, including the web viewer and Educator Dashboard. Current 10k Science pricing, trials, subscriptions, free experiences, and organizational licensing are available on the live pricing page.",
+  "free_trial_url": "https://dashboard.10k.science/",
+  "pricing_url": "https://10k.science/pricing",
+  "response_policy": [
+    "Use https://dashboard.10k.science/ for the public free trial account CTA.",
+    "Use https://10k.science/pricing for current pricing, subscription, trial, and licensing details.",
+    "Do not state fixed pricing unless it appears on the live pricing page."
+  ],
+  "canonical_page": "../../content/policies/pricing.md",
+  "source_urls": [
+    "https://dashboard.10k.science/",
+    "https://10k.science/pricing"
+  ],
+  "last_reviewed": "2026-04-28"
+}

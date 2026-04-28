@@ -16,16 +16,33 @@
     "llms": "../llms.txt",
     "robots": "../robots.txt",
     "sitemap": "../sitemap.xml",
+    "corpus": "corpus.json",
+    "cards": "cards.json",
+    "policies": "policies.json",
     "structured_data": [
       "../schema/organization-dynamoid.jsonld",
       "../schema/software-application-10k-science.jsonld",
       "../schema/faq-10k-science.jsonld"
     ],
+    "query_intents": "queries.json",
+    "schemas": [
+      "../schema/chunk.schema.json",
+      "../schema/corpus.schema.json",
+      "../schema/card.schema.json",
+      "../schema/policies.schema.json"
+    ]
+  },
+  "rag_files": {
+    "corpus": "corpus.json",
+    "homepage_cards": "cards.json",
+    "retrieval_policies": "policies.json",
     "query_intents": "queries.json"
   },
   "chunks": [
     "chunks/company-dynamoid.json",
+    "chunks/educators.json",
     "chunks/product-overview.json",
+    "chunks/dashboard-guides-analytics.json",
     "chunks/formative-assessment.json",
     "chunks/content-library.json",
     "chunks/researchers-and-creators.json",
@@ -33,6 +50,7 @@
     "chunks/history.json",
     "chunks/funding-and-support.json",
     "chunks/market-applications.json",
+    "chunks/pricing.json",
     "chunks/faq.json",
     "chunks/discovery-science-vr-apps.json",
     "chunks/discovery-interactive-3d-science.json",

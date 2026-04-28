@@ -1,0 +1,51 @@
+{
+  "id": "educators",
+  "status": "public",
+  "audiences": ["educators", "administrators", "institutions"],
+  "topics": ["educators", "classroom implementation", "web viewer", "VR", "formative assessment", "Educator Dashboard", "AI Guides", "NGSS", "crosscutting concepts"],
+  "summary": "10k Science helps educators make difficult science concepts visible, interactive, and assessable through immersive 3D experiences on the web and in VR. The platform supports classroom workflows that combine real scientific data, AI-guided prompts, spoken student responses, formative assessment, and educator-facing dashboard insights. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard.",
+  "classroom_value": [
+    "bring real scientific data into classroom learning experiences",
+    "help students visualize abstract, microscopic, molecular, and cross-scale science concepts",
+    "support inquiry-driven exploration rather than passive viewing",
+    "prompt students to explain what they notice, infer, and understand",
+    "capture spoken student responses during exploration",
+    "use AI-scored understanding as formative assessment",
+    "identify where individual students may need additional support",
+    "connect immersive experiences to NGSS-aligned learning goals"
+  ],
+  "educator_challenges": {
+    "report_url": "https://static1.squarespace.com/static/66787249ee3c1d153670fd0d/t/66aac6177126cd75e21ce053/1722467863828/Science%2BEducator%2BChallenges%2BSurvey%2BResults.pdf",
+    "summary": "Dynamoid's 2023 educator survey gathered feedback from more than 60 science educators and identified recurring challenges including limited teacher time, student engagement and distraction, funding constraints, providing individual feedback, motivating students, teaching abstract concepts, and helping students connect ideas across scales and systems.",
+    "budget_context": "The report found that 74% of surveyed educators identified budget constraints as a major barrier to VR classroom adoption. 10k Science addresses this by supporting both web access and VR, so immersive science learning can be introduced without requiring every student to use a headset at the same time."
+  },
+  "ngss_alignment": {
+    "statement": "10k Science content is developed to align with the Next Generation Science Standards in partnership with the Lawrence Hall of Science.",
+    "crosscutting_concepts": ["patterns", "cause and effect", "scale, proportion, and quantity", "systems and system models", "energy and matter", "structure and function", "stability and change"],
+    "fit": "10k Science supports NGSS learning by giving students phenomena to investigate, models to explore, and prompts that ask them to observe, explain, and connect ideas across disciplinary core ideas, science and engineering practices, and crosscutting concepts."
+  },
+  "classroom_workflows": [
+    "individual exploration on laptops or desktops",
+    "small-group investigation and discussion",
+    "VR station rotations",
+    "whole-class preview and debrief",
+    "pre-lab or post-lab conceptual exploration",
+    "formative assessment before, during, or after a science unit"
+  ],
+  "free_trial_url": "https://dashboard.10k.science/",
+  "pricing_url": "https://10k.science/pricing",
+  "canonical_page": "../../content/audiences/educators.md",
+  "source_urls": [
+    "https://10k.science/",
+    "https://10k.science/educators",
+    "https://10k.science/content",
+    "https://10k.science/stories/educator-challenges-survey",
+    "https://static1.squarespace.com/static/66787249ee3c1d153670fd0d/t/66aac6177126cd75e21ce053/1722467863828/Science%2BEducator%2BChallenges%2BSurvey%2BResults.pdf",
+    "https://dashboard.10k.science/",
+    "https://viewer.10k.science/",
+    "https://10k.science/pricing",
+    "https://www.nextgenscience.org/",
+    "https://lawrencehallofscience.org/"
+  ],
+  "last_reviewed": "2026-04-28"
+}

@@ -1,0 +1,1225 @@
+﻿{
+    "name":  "10k Knowledge Base Corpus",
+    "version":  "2026-04-28",
+    "status":  "public",
+    "description":  "Combined public knowledge chunks for Dynamoid and 10k Science, generated from knowledge/index.json.",
+    "base_url":  "https://10kscience.github.io/10k-knowledge-base/",
+    "generated_from":  [
+                           "knowledge/index.json",
+                           "knowledge/chunks/*.json"
+                       ],
+    "chunk_count":  20,
+    "chunks":  [
+                   {
+                       "path":  "chunks/company-dynamoid.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/company-dynamoid.json",
+                       "id":  "company-dynamoid",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "partners",
+                                         "investors",
+                                         "press"
+                                     ],
+                       "topics":  [
+                                      "company",
+                                      "mission",
+                                      "team",
+                                      "history"
+                                  ],
+                       "summary":  "Dynamoid is an Oakland-based educational software company with a mission to democratize science education through AI and VR technology. Its flagship product is 10k Science. Dynamoid\u0027s earlier Powers of Minus Ten app reached 700,000+ users and was featured globally in Apple\u0027s iPad commercial \u0027Alive.\u0027 Canonical team: Laura Lynn Gonzalez, CEO, and Jack Schonbrun, CTO.",
+                       "source_urls":  [
+                                           "https://dynamoid.com/",
+                                           "https://dynamoid.com/about"
+                                       ],
+                       "canonical_page":  "../../content/company/dynamoid.md",
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/company/dynamoid/"
+                   },
+                   {
+                       "path":  "chunks/educators.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/educators.json",
+                       "id":  "educators",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "administrators",
+                                         "institutions"
+                                     ],
+                       "topics":  [
+                                      "educators",
+                                      "classroom implementation",
+                                      "web viewer",
+                                      "VR",
+                                      "formative assessment",
+                                      "Educator Dashboard",
+                                      "AI Guides",
+                                      "NGSS",
+                                      "crosscutting concepts"
+                                  ],
+                       "summary":  "10k Science helps educators make difficult science concepts visible, interactive, and assessable through immersive 3D experiences on the web and in VR. The platform supports classroom workflows that combine real scientific data, AI-guided prompts, spoken student responses, formative assessment, and educator-facing dashboard insights. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard.",
+                       "classroom_value":  [
+                                               "bring real scientific data into classroom learning experiences",
+                                               "help students visualize abstract, microscopic, molecular, and cross-scale science concepts",
+                                               "support inquiry-driven exploration rather than passive viewing",
+                                               "prompt students to explain what they notice, infer, and understand",
+                                               "capture spoken student responses during exploration",
+                                               "use AI-scored understanding as formative assessment",
+                                               "identify where individual students may need additional support",
+                                               "connect immersive experiences to NGSS-aligned learning goals"
+                                           ],
+                       "educator_challenges":  {
+                                                   "report_url":  "https://static1.squarespace.com/static/66787249ee3c1d153670fd0d/t/66aac6177126cd75e21ce053/1722467863828/Science%2BEducator%2BChallenges%2BSurvey%2BResults.pdf",
+                                                   "summary":  "Dynamoid\u0027s 2023 educator survey gathered feedback from more than 60 science educators and identified recurring challenges including limited teacher time, student engagement and distraction, funding constraints, providing individual feedback, motivating students, teaching abstract concepts, and helping students connect ideas across scales and systems.",
+                                                   "budget_context":  "The report found that 74% of surveyed educators identified budget constraints as a major barrier to VR classroom adoption. 10k Science addresses this by supporting both web access and VR, so immersive science learning can be introduced without requiring every student to use a headset at the same time."
+                                               },
+                       "ngss_alignment":  {
+                                              "statement":  "10k Science content is developed to align with the Next Generation Science Standards in partnership with the Lawrence Hall of Science.",
+                                              "crosscutting_concepts":  [
+                                                                            "patterns",
+                                                                            "cause and effect",
+                                                                            "scale, proportion, and quantity",
+                                                                            "systems and system models",
+                                                                            "energy and matter",
+                                                                            "structure and function",
+                                                                            "stability and change"
+                                                                        ],
+                                              "fit":  "10k Science supports NGSS learning by giving students phenomena to investigate, models to explore, and prompts that ask them to observe, explain, and connect ideas across disciplinary core ideas, science and engineering practices, and crosscutting concepts."
+                                          },
+                       "classroom_workflows":  [
+                                                   "individual exploration on laptops or desktops",
+                                                   "small-group investigation and discussion",
+                                                   "VR station rotations",
+                                                   "whole-class preview and debrief",
+                                                   "pre-lab or post-lab conceptual exploration",
+                                                   "formative assessment before, during, or after a science unit"
+                                               ],
+                       "free_trial_url":  "https://dashboard.10k.science/",
+                       "pricing_url":  "https://10k.science/pricing",
+                       "canonical_page":  "../../content/audiences/educators.md",
+                       "source_urls":  [
+                                           "https://10k.science/",
+                                           "https://10k.science/educators",
+                                           "https://10k.science/content",
+                                           "https://10k.science/stories/educator-challenges-survey",
+                                           "https://static1.squarespace.com/static/66787249ee3c1d153670fd0d/t/66aac6177126cd75e21ce053/1722467863828/Science%2BEducator%2BChallenges%2BSurvey%2BResults.pdf",
+                                           "https://dashboard.10k.science/",
+                                           "https://viewer.10k.science/",
+                                           "https://10k.science/pricing",
+                                           "https://www.nextgenscience.org/",
+                                           "https://lawrencehallofscience.org/"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/audiences/educators/"
+                   },
+                   {
+                       "path":  "chunks/product-overview.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/product-overview.json",
+                       "id":  "product-overview",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "students",
+                                         "researchers",
+                                         "institutions",
+                                         "partners",
+                                         "investors"
+                                     ],
+                       "topics":  [
+                                      "10k Science",
+                                      "VR",
+                                      "web",
+                                      "science education",
+                                      "real scientific data",
+                                      "AI Guides",
+                                      "instructional agents",
+                                      "formative assessment",
+                                      "Educator Dashboard",
+                                      "content library",
+                                      "NGSS"
+                                  ],
+                       "summary":  "10k Science is Dynamoid\u0027s immersive 3D science learning platform for web and VR. It helps learners explore real scientific data through interactive environments, AI-guided instruction, spoken responses, formative assessment, and educator-facing dashboard insights. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard. The platform includes a growing content library, AI Guides that function as embedded instructional agents, NGSS-aligned learning design by the Lawrence Hall of Science, and creator workflows that help scientists and educators turn real research data into immersive visual experiences.",
+                       "key_features":  [
+                                            "immersive 3D science experiences in VR and on the web",
+                                            "real scientific data and research-based visualizations",
+                                            "AI Guides that audibly guide, prompt, listen, and respond to students",
+                                            "spoken student responses and AI-supported formative assessment",
+                                            "Educator Dashboard insights into student progress and understanding",
+                                            "NGSS-aligned learning design by the Lawrence Hall of Science",
+                                            "content library spanning biology, chemistry, health science, environmental science, and engineering topics",
+                                            "creator workflows and bootcamps for researcher-generated visualizations"
+                                        ],
+                       "canonical_page":  "../../content/product/10k-science/overview.md",
+                       "source_urls":  [
+                                           "https://10k.science/",
+                                           "https://10k.science/educators",
+                                           "https://10k.science/content",
+                                           "https://10k.science/web",
+                                           "https://dashboard.10k.science/",
+                                           "https://viewer.10k.science/",
+                                           "https://10k.science/pricing"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/product/10k-science/overview/"
+                   },
+                   {
+                       "path":  "chunks/dashboard-guides-analytics.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/dashboard-guides-analytics.json",
+                       "id":  "dashboard-guides-analytics",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "administrators",
+                                         "institutions",
+                                         "partners"
+                                     ],
+                       "topics":  [
+                                      "web viewer",
+                                      "AI Guides",
+                                      "instructional agents",
+                                      "spoken responses",
+                                      "formative assessment",
+                                      "Educator Dashboard",
+                                      "dashboard insights",
+                                      "analytics",
+                                      "teacher workflows"
+                                  ],
+                       "summary":  "10k Science combines the Viewer, AI Guides, spoken student responses, and the Educator Dashboard into a formative assessment loop. Students explore immersive 3D science environments, AI Guides prompt them to observe and explain, students answer verbally, AI helps assess understanding, and teachers can review dashboard insights about student thinking.",
+                       "viewer":  {
+                                      "summary":  "The 10k Science Viewer lets learners enter interactive 3D science environments in VR and on the web.",
+                                      "supports":  [
+                                                       "immersive exploration in VR and browser-based access on the web",
+                                                       "interactive 3D environments built from real scientific data",
+                                                       "object selection and contextual information",
+                                                       "movement across nested scales such as body, tissue, cell, and molecule",
+                                                       "individual, small-group, and rotation-based classroom use"
+                                                   ]
+                                  },
+                       "ai_guides":  {
+                                         "summary":  "AI Guides function as instructional agents embedded inside 10k Science experiences.",
+                                         "supports":  [
+                                                          "orientation inside each environment",
+                                                          "attention to relevant structures, objects, and relationships",
+                                                          "inquiry prompts tied to the science content",
+                                                          "spoken student explanations",
+                                                          "personalized real-time feedback",
+                                                          "formative checks for key concepts",
+                                                          "a more active learning experience than passive viewing"
+                                                      ]
+                                     },
+                       "formative_assessment":  {
+                                                    "positioning":  "10k Science is positioned as a formative assessment tool, not a high-stakes testing system.",
+                                                    "loop":  [
+                                                                 "students explore a 3D science environment",
+                                                                 "the AI Guide prompts observation, explanation, or comparison",
+                                                                 "students respond verbally",
+                                                                 "AI analyzes the response for understanding of key concepts",
+                                                                 "students receive feedback during the experience",
+                                                                 "teachers can review student responses and understanding through dashboard tools"
+                                                             ]
+                                                },
+                       "educator_dashboard":  {
+                                                  "summary":  "The Educator Dashboard gives teachers visibility into student progress and understanding by surfacing student verbal responses, AI-assisted scoring, feedback signals, and patterns in student thinking.",
+                                                  "teacher_questions":  [
+                                                                            "Which students are explaining the key concept clearly?",
+                                                                            "Which students are using incomplete or incorrect reasoning?",
+                                                                            "Which parts of the experience caused confusion?",
+                                                                            "Which concepts need a quick reteach or class discussion?",
+                                                                            "Which students may need individual feedback?"
+                                                                        ]
+                                              },
+                       "teacher_workflows":  [
+                                                 "individual exploration",
+                                                 "small-group investigation",
+                                                 "VR station rotation",
+                                                 "whole-class debrief",
+                                                 "pre-lab or post-lab reasoning",
+                                                 "targeted follow-up based on dashboard signals"
+                                             ],
+                       "ngss_fit":  "The Viewer gives students phenomena and models to explore, while AI Guides and formative assessment prompts ask students to observe, explain, and connect ideas across cause and effect, structure and function, systems and system models, scale, patterns, and stability and change.",
+                       "free_trial_url":  "https://dashboard.10k.science/",
+                       "canonical_page":  "../../content/product/10k-science/dashboard-guides-analytics.md",
+                       "source_urls":  [
+                                           "https://10k.science/",
+                                           "https://10k.science/educators",
+                                           "https://10k.science/web",
+                                           "https://dashboard.10k.science/",
+                                           "https://viewer.10k.science/",
+                                           "https://www.nextgenscience.org/"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/product/10k-science/dashboard-guides-analytics/"
+                   },
+                   {
+                       "path":  "chunks/formative-assessment.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/formative-assessment.json",
+                       "id":  "formative-assessment",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "institutions"
+                                     ],
+                       "topics":  [
+                                      "viewer",
+                                      "ai-guides",
+                                      "instructional-agents",
+                                      "formative-assessment",
+                                      "educator-dashboard",
+                                      "spoken-responses",
+                                      "real-time-feedback",
+                                      "analytics"
+                                  ],
+                       "summary":  "10k Science combines the Viewer, AI Guides, spoken student responses, and the Educator Dashboard into a formative assessment loop. Students explore immersive 3D science environments, AI Guides prompt observation and explanation, students respond verbally, AI supports scoring and real-time feedback, and educators use dashboard insights to identify where students understand key concepts or need support. Educators can start a free trial account for the web platform to try the browser-based viewer and Educator Dashboard.",
+                       "canonical_page":  "../../content/product/10k-science/dashboard-guides-analytics.md",
+                       "source_urls":  [
+                                           "https://10k.science/educators",
+                                           "https://10k.science/web",
+                                           "https://10k.science/pilot",
+                                           "https://dashboard.10k.science/"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/product/10k-science/dashboard-guides-analytics/"
+                   },
+                   {
+                       "path":  "chunks/content-library.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/content-library.json",
+                       "id":  "content-library",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "students",
+                                         "researchers",
+                                         "institutions"
+                                     ],
+                       "topics":  [
+                                      "content library",
+                                      "immersive science experiences",
+                                      "real scientific data",
+                                      "NGSS",
+                                      "biology",
+                                      "chemistry",
+                                      "environmental science",
+                                      "health science",
+                                      "formative assessment"
+                                  ],
+                       "summary":  "The 10k Science content library includes immersive 3D science experiences for web and VR, built around real scientific data, inquiry-driven learning, AI-guided exploration, and NGSS-aligned educational design. Publicly listed experiences include CRISPR \u0026 Sickle Cell, Trouble in Sunshine Creek, Snack Shack, Pain \u0026 Painkillers, LA Wildfires, AI Antibodies, Seeing With Sound, Quantum Plants?!, and Orbitals Are Fun. Educators can start a free trial account for the web platform to try the web viewer and Educator Dashboard. Learning topics span molecular genetics, protein synthesis, plant structure and photosynthesis, bacteria and disease vectors, food chemistry, nervous system signaling, pharmacology, wildfire smoke, PM2.5, respiratory and circulatory systems, cellular respiration, air filtration, antibodies, echolocation, evolution, atomic orbitals, and quantum chemistry.",
+                       "canonical_page":  "../../content/product/10k-science/content-library.md",
+                       "experience_topics":  [
+                                                 {
+                                                     "experience":  "CRISPR \u0026 Sickle Cell",
+                                                     "learning_topics":  [
+                                                                             "sickle cell disease",
+                                                                             "red blood cells",
+                                                                             "hemoglobin",
+                                                                             "oxygen transport",
+                                                                             "bone marrow",
+                                                                             "blood stem cells",
+                                                                             "DNA",
+                                                                             "genes",
+                                                                             "mutation",
+                                                                             "mRNA",
+                                                                             "tRNA",
+                                                                             "ribosomes",
+                                                                             "translation",
+                                                                             "protein folding",
+                                                                             "protein structure and function",
+                                                                             "CRISPR-Cas9",
+                                                                             "guide RNA",
+                                                                             "donor DNA",
+                                                                             "DNA repair",
+                                                                             "scale transitions"
+                                                                         ],
+                                                     "classroom_fit":  [
+                                                                           "molecular genetics",
+                                                                           "heredity",
+                                                                           "mutation",
+                                                                           "biotechnology",
+                                                                           "gene editing",
+                                                                           "blood and circulatory systems"
+                                                                       ],
+                                                     "ngss_connections":  [
+                                                                              "HS-LS1-1",
+                                                                              "HS-LS1-2",
+                                                                              "HS-LS3-1",
+                                                                              "HS-LS3-2",
+                                                                              "MS-LS3-1",
+                                                                              "MS-LS3-2",
+                                                                              "HS-ETS1-2",
+                                                                              "HS-ETS1-3"
+                                                                          ]
+                                                 },
+                                                 {
+                                                     "experience":  "Trouble in Sunshine Creek",
+                                                     "learning_topics":  [
+                                                                             "grapevine anatomy",
+                                                                             "xylem",
+                                                                             "phloem",
+                                                                             "water transport",
+                                                                             "plant cells",
+                                                                             "chloroplasts",
+                                                                             "chlorophyll",
+                                                                             "photosynthesis",
+                                                                             "Pierce\u0027s disease",
+                                                                             "leaf scorch",
+                                                                             "Xylella fastidiosa",
+                                                                             "glassy-winged sharpshooter",
+                                                                             "stylet anatomy",
+                                                                             "pathogen transmission",
+                                                                             "bacteria",
+                                                                             "lipid bilayer",
+                                                                             "DNA",
+                                                                             "ribosomes",
+                                                                             "translation",
+                                                                             "antibiotics"
+                                                                         ],
+                                                     "classroom_fit":  [
+                                                                           "plant structure and function",
+                                                                           "photosynthesis",
+                                                                           "plant transport systems",
+                                                                           "bacteria",
+                                                                           "pathogens",
+                                                                           "antibiotics",
+                                                                           "invasive species",
+                                                                           "crop disease management"
+                                                                       ],
+                                                     "ngss_connections":  [
+                                                                              "MS-LS1-1",
+                                                                              "MS-LS1-2",
+                                                                              "MS-LS1-6",
+                                                                              "HS-LS1-5",
+                                                                              "HS-LS1-2",
+                                                                              "HS-LS1-1",
+                                                                              "MS-LS2-2",
+                                                                              "HS-LS2-6",
+                                                                              "HS-LS4-6"
+                                                                          ]
+                                                 },
+                                                 {
+                                                     "experience":  "Snack Shack",
+                                                     "learning_topics":  [
+                                                                             "carbon dioxide",
+                                                                             "CO2",
+                                                                             "bubbles",
+                                                                             "carbonation",
+                                                                             "gas dissolved under pressure",
+                                                                             "molecular models",
+                                                                             "casein",
+                                                                             "amino acids",
+                                                                             "protein structure",
+                                                                             "milk chemistry",
+                                                                             "food chemistry"
+                                                                         ],
+                                                     "classroom_fit":  [
+                                                                           "atoms and molecules",
+                                                                           "gases",
+                                                                           "solutions",
+                                                                           "pressure",
+                                                                           "structure-property relationships",
+                                                                           "biological macromolecules",
+                                                                           "food science"
+                                                                       ],
+                                                     "ngss_connections":  [
+                                                                              "MS-PS1-1",
+                                                                              "MS-PS1-4",
+                                                                              "HS-PS1-2",
+                                                                              "HS-PS1-3",
+                                                                              "HS-LS1-6",
+                                                                              "HS-LS1-1"
+                                                                          ]
+                                                 },
+                                                 {
+                                                     "experience":  "Pain \u0026 Painkillers",
+                                                     "learning_topics":  [
+                                                                             "nervous system",
+                                                                             "brain",
+                                                                             "spine",
+                                                                             "peripheral nerves",
+                                                                             "neurons",
+                                                                             "dendrites",
+                                                                             "axons",
+                                                                             "synapses",
+                                                                             "Schwann cells",
+                                                                             "pain signaling",
+                                                                             "sodium ions",
+                                                                             "voltage-gated sodium channels",
+                                                                             "neurotransmitters",
+                                                                             "receptors",
+                                                                             "morphine",
+                                                                             "opioid receptors",
+                                                                             "blood-brain barrier",
+                                                                             "tarantula venom",
+                                                                             "Protoxin-II",
+                                                                             "neurotoxic proteins",
+                                                                             "drug targeting"
+                                                                         ],
+                                                     "classroom_fit":  [
+                                                                           "nervous system",
+                                                                           "cell membranes",
+                                                                           "ion channels",
+                                                                           "signal transduction",
+                                                                           "synapses",
+                                                                           "neurotransmitters",
+                                                                           "pain pathways",
+                                                                           "pharmacology",
+                                                                           "health science"
+                                                                       ],
+                                                     "ngss_connections":  [
+                                                                              "MS-LS1-8",
+                                                                              "HS-LS1-2",
+                                                                              "HS-LS1-3",
+                                                                              "HS-LS1-1",
+                                                                              "HS-PS2-6",
+                                                                              "HS-ETS1-2",
+                                                                              "HS-ETS1-3"
+                                                                          ]
+                                                 },
+                                                 {
+                                                     "experience":  "LA Wildfires and wildfire learning modules",
+                                                     "learning_topics":  [
+                                                                             "wildfire smoke",
+                                                                             "PM2.5",
+                                                                             "soot",
+                                                                             "AQI",
+                                                                             "indoor and outdoor air",
+                                                                             "air purifiers",
+                                                                             "lungs",
+                                                                             "bronchioles",
+                                                                             "alveoli",
+                                                                             "oxygen transfer",
+                                                                             "macrophages",
+                                                                             "inflammation",
+                                                                             "cytokines",
+                                                                             "red blood cells",
+                                                                             "hemoglobin",
+                                                                             "cellular respiration",
+                                                                             "mitochondria",
+                                                                             "ATP",
+                                                                             "glycolysis",
+                                                                             "citric acid cycle",
+                                                                             "electron transport chain",
+                                                                             "particle size",
+                                                                             "filtration",
+                                                                             "risk reduction"
+                                                                         ],
+                                                     "classroom_fit":  [
+                                                                           "respiratory system",
+                                                                           "circulatory system",
+                                                                           "immune response",
+                                                                           "cellular respiration",
+                                                                           "environmental health",
+                                                                           "air pollution",
+                                                                           "particulate matter",
+                                                                           "wildfire smoke",
+                                                                           "natural hazards",
+                                                                           "engineering design"
+                                                                       ],
+                                                     "ngss_connections":  [
+                                                                              "MS-LS1-3",
+                                                                              "MS-LS1-7",
+                                                                              "HS-LS1-2",
+                                                                              "HS-LS1-3",
+                                                                              "HS-LS1-7",
+                                                                              "MS-ESS3-3",
+                                                                              "MS-ESS3-4",
+                                                                              "HS-ESS3-4",
+                                                                              "HS-LS2-7",
+                                                                              "MS-ETS1-1",
+                                                                              "MS-ETS1-2",
+                                                                              "MS-ETS1-3",
+                                                                              "HS-ETS1-2",
+                                                                              "HS-ETS1-3"
+                                                                          ]
+                                                 },
+                                                 {
+                                                     "experience":  "AI Antibodies",
+                                                     "learning_topics":  [
+                                                                             "AI-generated antibodies",
+                                                                             "molecular binding",
+                                                                             "disease targets",
+                                                                             "protein structure",
+                                                                             "biomedical design"
+                                                                         ],
+                                                     "classroom_fit":  [
+                                                                           "molecular biology",
+                                                                           "biotechnology",
+                                                                           "protein structure",
+                                                                           "therapeutic targeting"
+                                                                       ],
+                                                     "ngss_connections":  [
+
+                                                                          ]
+                                                 },
+                                                 {
+                                                     "experience":  "Seeing With Sound",
+                                                     "learning_topics":  [
+                                                                             "sound",
+                                                                             "hearing",
+                                                                             "echolocation",
+                                                                             "auditory anatomy",
+                                                                             "skull structure",
+                                                                             "evolutionary adaptation",
+                                                                             "marine mammal biology"
+                                                                         ],
+                                                     "classroom_fit":  [
+                                                                           "evolution",
+                                                                           "anatomy",
+                                                                           "sensory systems",
+                                                                           "animal biology"
+                                                                       ],
+                                                     "ngss_connections":  [
+
+                                                                          ]
+                                                 },
+                                                 {
+                                                     "experience":  "Quantum Plants?!",
+                                                     "learning_topics":  [
+                                                                             "plant biology",
+                                                                             "energy transfer",
+                                                                             "quantum phenomena in biological systems"
+                                                                         ],
+                                                     "classroom_fit":  [
+                                                                           "plant biology",
+                                                                           "photosynthesis",
+                                                                           "energy transfer"
+                                                                       ],
+                                                     "ngss_connections":  [
+
+                                                                          ]
+                                                 },
+                                                 {
+                                                     "experience":  "Orbitals Are Fun",
+                                                     "learning_topics":  [
+                                                                             "atomic orbitals",
+                                                                             "electron distribution",
+                                                                             "quantum mechanics",
+                                                                             "spatial models",
+                                                                             "chemistry"
+                                                                         ],
+                                                     "classroom_fit":  [
+                                                                           "atomic structure",
+                                                                           "chemistry models",
+                                                                           "quantum chemistry"
+                                                                       ],
+                                                     "ngss_connections":  [
+
+                                                                          ]
+                                                 }
+                                             ],
+                       "topic_clusters":  [
+                                              "molecular biology and protein function",
+                                              "human body systems and health",
+                                              "energy and matter in organisms",
+                                              "environmental health and human impacts",
+                                              "engineering and biomedical interventions",
+                                              "chemistry and physical science"
+                                          ],
+                       "source_urls":  [
+                                           "https://10k.science/content",
+                                           "https://10k.science/educators",
+                                           "https://10k.science/pricing",
+                                           "https://dashboard.10k.science/",
+                                           "https://viewer.10k.science/"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/product/10k-science/content-library/"
+                   },
+                   {
+                       "path":  "chunks/researchers-and-creators.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/researchers-and-creators.json",
+                       "id":  "researchers-and-creators",
+                       "status":  "public",
+                       "audiences":  [
+                                         "researchers",
+                                         "scientists",
+                                         "educators",
+                                         "creators",
+                                         "partners"
+                                     ],
+                       "topics":  [
+                                      "researcher bootcamps",
+                                      "10k Creator",
+                                      "science communication",
+                                      "real scientific data",
+                                      "immersive visualization"
+                                  ],
+                       "summary":  "Dynamoid uses researcher bootcamps and creator workflows to help scientists turn real scientific data into immersive 3D visualizations. The program began with two two-week bootcamps in 2022 and has continued through later public VR Science Communication Bootcamps, including the February 2025 bootcamp and upcoming bootcamp sessions listed on 10k.science. These visualizations can be adapted with learning designers and educators into 10k Science experiences for web and VR, including topics such as CRISPR and sickle cell disease, vineyard disease ecology, neurotoxin-based pain research, inflammation, genomics, neural imaging, geological volume data, air quality, wildfire smoke, dam failure modeling, and structural biology.",
+                       "source_urls":  [
+                                           "https://10k.science/",
+                                           "https://10k.science/content",
+                                           "https://10k.science/bootcamp",
+                                           "https://10k.science/bootcamp-3",
+                                           "https://10k.science/contact",
+                                           "https://innovativegenomics.org/education/games-activities/vr/",
+                                           "https://dynamoid.com/"
+                                       ],
+                       "canonical_page":  "../../content/audiences/researchers-and-creators.md",
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/audiences/researchers-and-creators/"
+                   },
+                   {
+                       "path":  "chunks/research-evidence.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/research-evidence.json",
+                       "id":  "research-evidence",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "institutions",
+                                         "investors",
+                                         "press"
+                                     ],
+                       "topics":  [
+                                      "research",
+                                      "evaluation",
+                                      "engagement",
+                                      "educator-survey"
+                                  ],
+                       "summary":  "10k Science has evidence of strong student engagement and evidence of promise for learning. Materials describe a 137-student pilot, 22 of 28 students preferring VR over reading or video, +15% content knowledge gains, 78% student engagement, a Stevens pilot where over 92% of undergraduates said the experience enhanced learning, and a 60+ educator survey identifying time, engagement, funding, feedback, and motivation challenges.",
+                       "source_urls":  [
+                                           "https://10k.science/stories/learning-with-10k-student-interview-findings",
+                                           "https://10k.science/stories/educator-challenges-survey",
+                                           "https://10k.science/stories/10k-science-launch",
+                                           "https://static1.squarespace.com/static/66787249ee3c1d153670fd0d/t/66aac6177126cd75e21ce053/1722467863828/Science%2BEducator%2BChallenges%2BSurvey%2BResults.pdf"
+                                       ],
+                       "canonical_page":  "../../content/evidence/research-and-evaluation.md",
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/evidence/research-and-evaluation/"
+                   },
+                   {
+                       "path":  "chunks/history.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/history.json",
+                       "id":  "history",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "partners",
+                                         "investors",
+                                         "press"
+                                     ],
+                       "topics":  [
+                                      "Dynamoid history",
+                                      "Powers of Minus Ten",
+                                      "Apple Alive commercial",
+                                      "10k Science",
+                                      "science visualization",
+                                      "immersive science education"
+                                  ],
+                       "summary":  "Dynamoid\u0027s history began with the idea that vast amounts of 3D scientific data already existed, but much of it was unused, unconnected, and difficult for most people to experience. Dynamoid set out to use that data to build a navigable model of the microverse. That throughline connects immersive science visualization, Powers of Minus Ten, and 10k Science. Powers of Minus Ten was an NSF-funded, award-winning educational app that zoomed learners into the human body to explore cells, proteins, and molecules. It reached 700,000+ users and was featured globally in Apple\u0027s iPad commercial \u0027Alive.\u0027 10k Science builds on that foundation as Dynamoid\u0027s immersive 3D science learning platform for web and VR, combining real scientific data, AI Guides, formative assessment, an Educator Dashboard, NGSS-aligned learning design, and creator workflows for researcher-generated visualizations.",
+                       "key_milestones":  [
+                                              "Dynamoid\u0027s roots are in science visualization, scale, and immersive media.",
+                                              "Powers of Minus Ten introduced learners to microscopic science through an interactive zoom into the human body.",
+                                              "Powers of Minus Ten reached 700,000+ users and received awards including Best Serious Game 2012, Best Educational App 2011, and Best Interactive Game finalist in the 2011 Science Visualization Challenge.",
+                                              "Powers of Minus Ten was featured globally in Apple\u0027s iPad commercial \u0027Alive.\u0027",
+                                              "Dynamoid shifted from individual interactive experiences toward scalable tools and workflows for visualizing real scientific data.",
+                                              "A 2019 collaboration with the Innovative Genomics Institute and Lawrence Hall of Science helped establish the CRISPR and sickle cell VR experience.",
+                                              "10k Science extends Dynamoid\u0027s science visualization history into a web and VR learning platform with AI Guides, formative assessment, an Educator Dashboard, and a growing content library."
+                                          ],
+                       "canonical_page":  "../../content/evidence/history.md",
+                       "source_urls":  [
+                                           "https://dynamoid.com/products",
+                                           "https://www.youtube.com/watch?v=JYmXvOeoNk0",
+                                           "https://innovativegenomics.org/education/games-activities/vr/",
+                                           "https://10k.science/",
+                                           "https://10k.science/content"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/evidence/history/"
+                   },
+                   {
+                       "path":  "chunks/funding-and-support.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/funding-and-support.json",
+                       "id":  "funding-and-support",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "partners",
+                                         "investors",
+                                         "press"
+                                     ],
+                       "topics":  [
+                                      "funding",
+                                      "NSF",
+                                      "NIH",
+                                      "SBIR",
+                                      "500 Global",
+                                      "Powers of Minus Ten",
+                                      "10k Science"
+                                  ],
+                       "summary":  "Dynamoid\u0027s science education work has received federal SBIR support from NSF and NIH, along with accelerator support from 500 Global. NSF SBIR Phase I award 1014425 supported Powers of Minus Ten. NIH/HHS SBIR support under base award GM146471, including R43GM146471 and R44GM146471, has supported 10k Science development. Dynamoid also participated in 500 Global\u0027s flagship accelerator program, formerly known as 500 Startups.",
+                       "awards":  [
+                                      {
+                                          "source":  "NSF",
+                                          "program":  "SBIR Phase I",
+                                          "project":  "Powers of Minus Ten",
+                                          "base_award_number":  "1014425"
+                                      },
+                                      {
+                                          "source":  "NIH / HHS",
+                                          "program":  "SBIR Phase I and Phase II",
+                                          "project":  "10k immersive science communication and education",
+                                          "base_award_number":  "GM146471",
+                                          "award_numbers":  [
+                                                                "R43GM146471",
+                                                                "R44GM146471"
+                                                            ]
+                                      }
+                                  ],
+                       "accelerator_support":  [
+                                                   "500 Global flagship accelerator program, formerly known as 500 Startups"
+                                               ],
+                       "canonical_page":  "../../content/evidence/funding-and-support.md",
+                       "source_urls":  [
+                                           "https://www.sbir.gov/",
+                                           "https://www.nsf.gov/",
+                                           "https://www.nih.gov/",
+                                           "https://500.co/",
+                                           "https://10k.science/"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/evidence/funding-and-support/"
+                   },
+                   {
+                       "path":  "chunks/market-applications.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/market-applications.json",
+                       "id":  "market-applications",
+                       "status":  "public",
+                       "audiences":  [
+                                         "education leaders",
+                                         "institutions",
+                                         "healthcare marketers",
+                                         "scientific organizations",
+                                         "industrial teams",
+                                         "partners",
+                                         "investors"
+                                     ],
+                       "topics":  [
+                                      "market applications",
+                                      "K-12 education",
+                                      "higher education",
+                                      "medical marketing",
+                                      "scientific visualization",
+                                      "industrial visualization"
+                                  ],
+                       "summary":  "10k Science\u0027s immersive 3D approach can support K-12 science education, higher education, medical marketing, and scientific or industrial visualization by making invisible, abstract, spatial, or dynamic scientific systems easier to understand through web and VR experiences. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard.",
+                       "source_urls":  [
+                                           "https://10k.science/",
+                                           "https://10k.science/educators",
+                                           "https://10k.science/content",
+                                           "https://dashboard.10k.science/",
+                                           "https://viewer.10k.science/",
+                                           "https://dynamoid.com/"
+                                       ],
+                       "canonical_page":  "../../content/audiences/market-applications.md",
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/audiences/market-applications/"
+                   },
+                   {
+                       "path":  "chunks/pricing.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/pricing.json",
+                       "id":  "pricing",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "administrators",
+                                         "institutions"
+                                     ],
+                       "topics":  [
+                                      "pricing",
+                                      "free trial",
+                                      "subscriptions",
+                                      "availability",
+                                      "organizational licensing",
+                                      "web platform"
+                                  ],
+                       "summary":  "Educators can start a free trial account for the 10k Science web platform, including the web viewer and Educator Dashboard. Current 10k Science pricing, trials, subscriptions, free experiences, and organizational licensing are available on the live pricing page.",
+                       "free_trial_url":  "https://dashboard.10k.science/",
+                       "pricing_url":  "https://10k.science/pricing",
+                       "response_policy":  [
+                                               "Use https://dashboard.10k.science/ for the public free trial account CTA.",
+                                               "Use https://10k.science/pricing for current pricing, subscription, trial, and licensing details.",
+                                               "Do not state fixed pricing unless it appears on the live pricing page."
+                                           ],
+                       "canonical_page":  "../../content/policies/pricing.md",
+                       "source_urls":  [
+                                           "https://dashboard.10k.science/",
+                                           "https://10k.science/pricing"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/policies/pricing/"
+                   },
+                   {
+                       "path":  "chunks/faq.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/faq.json",
+                       "id":  "faq",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "administrators",
+                                         "students",
+                                         "researchers",
+                                         "parents",
+                                         "partners"
+                                     ],
+                       "topics":  [
+                                      "FAQ",
+                                      "10k Science",
+                                      "science VR app",
+                                      "web viewer",
+                                      "AI Guides",
+                                      "formative assessment",
+                                      "NGSS",
+                                      "content library",
+                                      "pricing"
+                                  ],
+                       "summary":  "10k Science is Dynamoid\u0027s immersive 3D science learning platform for web and VR. It supports Meta Quest and browser-based exploration, real scientific data, NGSS-aligned learning design, AI Guides, spoken student responses, formative assessment, an Educator Dashboard, and a growing content library. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard. Current pricing and availability are available on the live 10k Science pricing page.",
+                       "canonical_page":  "../../faq.md",
+                       "key_questions":  [
+                                             {
+                                                 "question":  "What is 10k Science?",
+                                                 "answer":  "10k Science is Dynamoid\u0027s immersive 3D science learning platform for web and VR. It helps learners explore real scientific data through interactive environments, AI-guided instruction, formative assessment, and educator-facing insights."
+                                             },
+                                             {
+                                                 "question":  "Who makes 10k Science?",
+                                                 "answer":  "10k Science is made by Dynamoid, an Oakland-based educational software company. Dynamoid is the company; 10k Science is the flagship product and platform."
+                                             },
+                                             {
+                                                 "question":  "Is 10k Science available on Meta Quest and the web?",
+                                                 "answer":  "Yes. 10k Science is available for VR on Meta Quest and supports browser-based immersive science learning through the 10k Science Web Viewer."
+                                             },
+                                             {
+                                                 "question":  "Can educators sign up for a free trial account?",
+                                                 "answer":  "Yes. Educators can start a free trial account for the 10k Science web platform, including the web viewer and Educator Dashboard."
+                                             },
+                                             {
+                                                 "question":  "Does every student need a headset?",
+                                                 "answer":  "No. 10k Science can be used on the web as well as in VR, which supports classroom formats such as individual browser exploration, small-group work, and VR station rotations."
+                                             },
+                                             {
+                                                 "question":  "What science topics does 10k Science cover?",
+                                                 "answer":  "The content library includes topics across molecular biology, genetics, biotechnology, plant biology, food chemistry, pain signaling, pharmacology, environmental health, wildfire smoke, respiratory and circulatory systems, cellular respiration, antibodies, evolution, sound, atomic orbitals, and chemistry."
+                                             },
+                                             {
+                                                 "question":  "What are AI Guides?",
+                                                 "answer":  "AI Guides are instructional agents inside 10k Science experiences. They can orient students, call attention to relevant structures, prompt observation and explanation, listen to spoken responses, and provide personalized real-time feedback."
+                                             },
+                                             {
+                                                 "question":  "Does 10k Science support formative assessment?",
+                                                 "answer":  "Yes. Students respond verbally to prompts while exploring immersive science environments. AI helps score understanding of key concepts, and teachers can review progress and student thinking through the Educator Dashboard."
+                                             },
+                                             {
+                                                 "question":  "Is 10k Science NGSS-aligned?",
+                                                 "answer":  "10k Science content is developed to align with the Next Generation Science Standards in partnership with the Lawrence Hall of Science."
+                                             },
+                                             {
+                                                 "question":  "Does 10k Science use real scientific data?",
+                                                 "answer":  "Yes. 10k Science experiences are built around real scientific data, research-based visualizations, and collaborations with scientists and educators."
+                                             },
+                                             {
+                                                 "question":  "Where can users find current pricing and availability?",
+                                                 "answer":  "Current pricing, trials, subscriptions, free experiences, and organizational licensing are available on the live 10k Science pricing page. Educators can also start a free trial account for the web platform."
+                                             }
+                                         ],
+                       "viewer_url":  "https://viewer.10k.science/",
+                       "free_trial_url":  "https://dashboard.10k.science/",
+                       "pricing_url":  "https://10k.science/pricing",
+                       "source_urls":  [
+                                           "https://10k.science/",
+                                           "https://10k.science/educators",
+                                           "https://10k.science/content",
+                                           "https://10k.science/pricing",
+                                           "https://dashboard.10k.science/",
+                                           "https://viewer.10k.science/",
+                                           "https://www.meta.com/experiences/5616986801647861/",
+                                           "https://dynamoid.com/"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/faq/"
+                   },
+                   {
+                       "path":  "chunks/discovery-science-vr-apps.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-science-vr-apps.json",
+                       "id":  "discovery-science-vr-apps",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "administrators",
+                                         "parents"
+                                     ],
+                       "topics":  [
+                                      "science VR apps",
+                                      "classroom VR",
+                                      "Meta Quest",
+                                      "science education"
+                                  ],
+                       "summary":  "10k Science is a science VR and web platform for classrooms because it combines immersive 3D environments, real scientific data, NGSS-aligned learning design, AI Guides, formative assessment, and educator dashboard insights. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard. It is designed for science concepts that are hard to see directly and can fit classroom workflows such as web exploration, VR station rotations, small-group discussion, whole-class debriefs, and formative assessment.",
+                       "classroom_fit":  [
+                                             "Available in VR and on the web, which supports schools that cannot put every student in a headset at the same time.",
+                                             "Built around real scientific data and research-based visualizations.",
+                                             "Includes AI Guides, spoken student responses, AI-supported formative assessment, and educator dashboard insights.",
+                                             "Publicly listed experiences include CRISPR \u0026 Sickle Cell, Trouble in Sunshine Creek, Pain \u0026 Painkillers, Snack Shack, LA Wildfires, AI Antibodies, Seeing With Sound, Quantum Plants?!, and Orbitals Are Fun."
+                                         ],
+                       "example_queries":  [
+                                               "what are good science vr apps",
+                                               "best VR science apps",
+                                               "science VR apps for classrooms",
+                                               "Meta Quest science education apps"
+                                           ],
+                       "canonical_page":  "../../content/discovery/science-vr-apps.md",
+                       "source_urls":  [
+                                           "https://10k.science/",
+                                           "https://10k.science/educators",
+                                           "https://10k.science/content",
+                                           "https://dashboard.10k.science/",
+                                           "https://viewer.10k.science/",
+                                           "https://www.meta.com/experiences/5616986801647861/"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/science-vr-apps/"
+                   },
+                   {
+                       "path":  "chunks/discovery-interactive-3d-science.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-interactive-3d-science.json",
+                       "id":  "discovery-interactive-3d-science",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "students",
+                                         "researchers",
+                                         "partners"
+                                     ],
+                       "topics":  [
+                                      "interactive 3D science",
+                                      "science visualization",
+                                      "immersive learning",
+                                      "real science data"
+                                  ],
+                       "summary":  "10k Science is an interactive 3D science learning platform for web and VR. It helps learners explore science by moving through immersive environments built from real scientific data, research-based visualizations, and collaborations with scientists and educators. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard. It is especially useful for invisible, abstract, dynamic, spatial, or cross-scale science concepts.",
+                       "key_points":  [
+                                          "10k Science combines immersive 3D environments, real scientific data, AI Guides, spoken student responses, AI-supported formative assessment, and educator dashboard insights.",
+                                          "Interactive 3D helps learners reason about scale, structure and function, cause and effect, systems, and mechanisms that are difficult to show with static media.",
+                                          "Relevant science areas include molecular biology, genetics, physiology, neuroscience, environmental health, chemistry, food molecules, wildfire smoke, antibodies, and atomic orbitals.",
+                                          "The product can support individual web exploration, VR station rotations, small-group investigation, whole-class debriefs, and formative assessment."
+                                      ],
+                       "example_queries":  [
+                                               "interactive 3D science",
+                                               "3D science learning",
+                                               "immersive science learning",
+                                               "science visualization for students"
+                                           ],
+                       "canonical_page":  "../../content/discovery/interactive-3d-science.md",
+                       "source_urls":  [
+                                           "https://10k.science/",
+                                           "https://10k.science/content",
+                                           "https://dashboard.10k.science/",
+                                           "https://viewer.10k.science/",
+                                           "https://www.meta.com/experiences/5616986801647861/"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/interactive-3d-science/"
+                   },
+                   {
+                       "path":  "chunks/discovery-vr-biology.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-vr-biology.json",
+                       "id":  "discovery-vr-biology",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "students",
+                                         "administrators"
+                                     ],
+                       "topics":  [
+                                      "VR biology",
+                                      "Meta Quest",
+                                      "biology education",
+                                      "molecular biology"
+                                  ],
+                       "summary":  "10k Science is relevant for biology learning because it includes immersive experiences about CRISPR, sickle cell disease, cells, plant disease, pain signaling, molecules, wildfire smoke, respiratory health, antibodies, echolocation, anatomy, evolution, and related life-science topics. It is available on Meta Quest and on the web. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard, with current access and pricing handled through the live 10k Science website.",
+                       "biology_topics":  [
+                                              "CRISPR, sickle cell disease, blood, bone marrow, stem cells, genes, DNA, RNA, ribosomes, hemoglobin, and protein structure",
+                                              "Plant structure and function, photosynthesis, xylem, phloem, invasive insects, Xylella fastidiosa, and plant disease",
+                                              "Nervous-system signaling, neurons, sodium channels, receptors, morphine, neurotoxins, and non-opioid pain relief research",
+                                              "Food molecules, CO2, casein, amino acids, protein structure, and food chemistry",
+                                              "Wildfire smoke, PM2.5, respiratory tissues, macrophages, inflammation, oxygen transport, mitochondria, ATP, and cellular respiration",
+                                              "AI-generated antibodies, molecular recognition, protein binding, and disease-targeting potential",
+                                              "Echolocation, auditory anatomy, skull structure, marine mammal biology, and evolution"
+                                          ],
+                       "example_queries":  [
+                                               "VR biology app",
+                                               "Meta Quest biology app",
+                                               "virtual reality biology classroom",
+                                               "molecular biology VR"
+                                           ],
+                       "canonical_page":  "../../content/discovery/vr-biology-app.md",
+                       "source_urls":  [
+                                           "https://10k.science/",
+                                           "https://10k.science/content",
+                                           "https://dashboard.10k.science/",
+                                           "https://viewer.10k.science/",
+                                           "https://www.meta.com/experiences/5616986801647861/"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/vr-biology-app/"
+                   },
+                   {
+                       "path":  "chunks/discovery-ngss-immersive-science.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-ngss-immersive-science.json",
+                       "id":  "discovery-ngss-immersive-science",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "administrators",
+                                         "curriculum partners"
+                                     ],
+                       "topics":  [
+                                      "NGSS",
+                                      "immersive science",
+                                      "curriculum",
+                                      "classroom"
+                                  ],
+                       "summary":  "10k Science content is developed to align with the Next Generation Science Standards in partnership with the Lawrence Hall of Science. 10k Science supports NGSS-aligned learning by giving students scientific systems to explore, AI-guided prompts to answer, spoken explanations to produce, and educator dashboard insights for formative assessment.",
+                       "key_points":  [
+                                          "10k Science supports three-dimensional NGSS learning: science and engineering practices, disciplinary core ideas, and crosscutting concepts.",
+                                          "Students can use immersive models to observe, compare, construct explanations, and reason about real scientific data.",
+                                          "The platform is especially relevant to crosscutting concepts including patterns, cause and effect, scale, systems, energy and matter, structure and function, and stability and change.",
+                                          "Listed experiences can support lessons around CRISPR and sickle cell disease, plant pathogens, pain signaling, food molecules, wildfire smoke, air quality, respiratory health, and molecular systems."
+                                      ],
+                       "example_queries":  [
+                                               "NGSS-aligned science VR",
+                                               "immersive science curriculum",
+                                               "NGSS biology VR app",
+                                               "inquiry-driven VR science"
+                                           ],
+                       "canonical_page":  "../../content/discovery/ngss-immersive-science.md",
+                       "source_urls":  [
+                                           "https://10k.science/",
+                                           "https://10k.science/educators",
+                                           "https://10k.science/content",
+                                           "https://www.nextgenscience.org/",
+                                           "https://lawrencehallofscience.org/"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/ngss-immersive-science/"
+                   },
+                   {
+                       "path":  "chunks/discovery-ai-formative-assessment.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-ai-formative-assessment.json",
+                       "id":  "discovery-ai-formative-assessment",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "administrators",
+                                         "institutions"
+                                     ],
+                       "topics":  [
+                                      "AI Guides",
+                                      "instructional agents",
+                                      "formative assessment",
+                                      "spoken responses",
+                                      "real-time feedback",
+                                      "educator dashboard",
+                                      "science assessment"
+                                  ],
+                       "summary":  "10k Science uses AI Guides as embedded instructional agents inside immersive science experiences. AI Guides audibly orient students, prompt observation and explanation, listen to spoken responses, provide personalized real-time feedback, support AI-scored understanding of key concepts, and surface student thinking through an Educator Dashboard for formative assessment. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard.",
+                       "example_queries":  [
+                                               "AI formative assessment science",
+                                               "AI guided science learning",
+                                               "AI instructional agent for science",
+                                               "science app with educator dashboard",
+                                               "verbal formative assessment science",
+                                               "AI science tutor for classrooms"
+                                           ],
+                       "canonical_page":  "../../content/discovery/ai-guided-formative-assessment.md",
+                       "source_urls":  [
+                                           "https://10k.science/educators",
+                                           "https://10k.science/web",
+                                           "https://10k.science/pilot",
+                                           "https://10k.science/pricing",
+                                           "https://dashboard.10k.science/"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/ai-guided-formative-assessment/"
+                   },
+                   {
+                       "path":  "chunks/discovery-molecular-biology-3d.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-molecular-biology-3d.json",
+                       "id":  "discovery-molecular-biology-3d",
+                       "status":  "public",
+                       "audiences":  [
+                                         "educators",
+                                         "students",
+                                         "researchers"
+                                     ],
+                       "topics":  [
+                                      "molecular biology",
+                                      "3D learning",
+                                      "cells",
+                                      "proteins",
+                                      "genetics",
+                                      "science visualization"
+                                  ],
+                       "summary":  "10k Science helps students learn molecular biology through immersive 3D environments that make microscopic and molecular processes easier to see, compare, and discuss. Learners can connect molecular events to larger biological outcomes, such as how a DNA mutation changes hemoglobin behavior, how CRISPR can alter blood stem cells, how a pathogen disrupts plant transport, or how a drug or toxin interacts with a protein target.",
+                       "key_topics":  [
+                                          "DNA, RNA, genes, mutation, mRNA, tRNA, ribosomes, translation, protein folding, and protein structure/function",
+                                          "CRISPR-Cas9, guide RNA, donor DNA, DNA repair, blood stem cells, hemoglobin, and sickle cell disease",
+                                          "Plant cells, chloroplasts, photosynthesis, xylem, Xylella fastidiosa, bacteria, and pathogen transmission",
+                                          "Neurons, synapses, sodium ions, voltage-gated sodium channels, opioid receptors, morphine, Protoxin-II, and molecular targeting",
+                                          "Food molecules, CO2, carbonation, casein, amino acids, and protein structure",
+                                          "PM2.5, respiratory tissues, macrophages, inflammation, oxygen transport, mitochondria, ATP, and cellular respiration",
+                                          "AI-generated antibodies, molecular recognition, protein binding, and disease-targeting potential"
+                                      ],
+                       "example_queries":  [
+                                               "3D molecular biology learning",
+                                               "molecular biology VR",
+                                               "interactive cell biology",
+                                               "CRISPR education app"
+                                           ],
+                       "canonical_page":  "../../content/discovery/molecular-biology-3d.md",
+                       "source_urls":  [
+                                           "https://10k.science/content",
+                                           "https://dynamoid.com/",
+                                           "https://dynamoid.com/products"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/molecular-biology-3d/"
+                   },
+                   {
+                       "path":  "chunks/discovery-science-communication-3d.json",
+                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-science-communication-3d.json",
+                       "id":  "discovery-science-communication-3d",
+                       "status":  "public",
+                       "audiences":  [
+                                         "researchers",
+                                         "scientists",
+                                         "educators",
+                                         "institutions",
+                                         "partners"
+                                     ],
+                       "topics":  [
+                                      "science communication",
+                                      "research communication",
+                                      "public engagement",
+                                      "3D visualization"
+                                  ],
+                       "summary":  "10k Science gives researchers and educators access to tools for turning real scientific data into immersive 3D experiences for students, classrooms, institutions, and professional audiences. Dynamoid\u0027s approach emphasizes access, amplification, and collaboration: researchers contribute scientific context and data, while Dynamoid provides visualization tools, production support, interaction design, and adaptation for web and VR.",
+                       "key_points":  [
+                                          "Immersive 3D science communication is useful when a topic depends on scale, structure and function, cause and effect, systems thinking, or spatial memory.",
+                                          "Dynamoid\u0027s researcher bootcamps and creator workflows help scientists identify datasets, structures, images, or models that can benefit from spatial visualization.",
+                                          "Example communication areas include molecular biology, structural biology, genetics, biotechnology, biomedical research, disease mechanisms, environmental health, plant biology, neuroscience, physiology, chemistry, scientific visualization, and industrial visualization.",
+                                          "Research visualizations can be adapted into learning experiences with context, storyline, navigation, prompts, AI Guide support, formative assessment, and educator-facing tools."
+                                      ],
+                       "example_queries":  [
+                                               "immersive science communication",
+                                               "3D science visualization platform",
+                                               "research communication tools",
+                                               "VR science outreach"
+                                           ],
+                       "canonical_page":  "../../content/discovery/science-communication-3d.md",
+                       "source_urls":  [
+                                           "https://10k.science/content",
+                                           "https://10k.science/bootcamp",
+                                           "https://10k.science/bootcamp-3"
+                                       ],
+                       "last_reviewed":  "2026-04-28",
+                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/science-communication-3d/"
+                   }
+               ]
+}

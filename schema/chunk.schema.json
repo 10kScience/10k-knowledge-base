@@ -1,0 +1,28 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://10kscience.github.io/10k-knowledge-base/schema/chunk.schema.json",
+  "title": "10k Knowledge Base Chunk",
+  "type": "object",
+  "required": ["id", "status", "audiences", "topics", "summary", "canonical_page", "last_reviewed"],
+  "properties": {
+    "id": { "type": "string" },
+    "status": { "const": "public" },
+    "audiences": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "topics": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "summary": { "type": "string" },
+    "canonical_page": { "type": "string" },
+    "canonical_url": { "type": "string", "format": "uri" },
+    "source_urls": {
+      "type": "array",
+      "items": { "type": "string", "format": "uri" }
+    },
+    "last_reviewed": { "type": "string" }
+  },
+  "additionalProperties": true
+}

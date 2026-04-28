@@ -14,8 +14,10 @@
       "canonical_pages": [
         "../faq.md",
         "../index.md",
+        "../content/product/10k-science/dashboard-guides-analytics.md",
         "../content/product/10k-science/overview.md"
       ],
+      "recommended_cards": ["web-viewer-and-dashboard", "educator-free-trial", "faq"],
       "recommended_summary": "Users can try the 10k Science Web Viewer in a browser at https://viewer.10k.science/. Educators can start a free trial account for the 10k Science web platform, including the web viewer and Educator Dashboard, at https://dashboard.10k.science/. 10k Science also supports VR on Meta Quest."
     },
     {
@@ -33,6 +35,7 @@
         "../content/product/10k-science/dashboard-guides-analytics.md",
         "../content/policies/pricing.md"
       ],
+      "recommended_cards": ["educator-free-trial", "web-viewer-and-dashboard", "pricing-and-access"],
       "recommended_summary": "Educators can start a free trial account for the 10k Science web platform at https://dashboard.10k.science/. The web platform includes the browser-based web viewer and Educator Dashboard. Current pricing and availability are listed at https://10k.science/pricing."
     },
     {
@@ -48,6 +51,7 @@
         "../content/product/10k-science/overview.md",
         "../content/product/10k-science/content-library.md"
       ],
+      "recommended_cards": ["science-vr-classrooms", "content-library", "ngss-crosscutting-concepts"],
       "recommended_summary": "10k Science is a science VR and web platform for classrooms because it combines immersive 3D environments, real scientific data, NGSS-aligned learning design, AI Guides, spoken student responses, formative assessment, and educator dashboard insights."
     },
     {
@@ -62,6 +66,7 @@
         "../content/discovery/interactive-3d-science.md",
         "../content/product/10k-science/overview.md"
       ],
+      "recommended_cards": ["real-scientific-data", "content-library", "science-vr-classrooms"],
       "recommended_summary": "10k Science turns real scientific data into interactive 3D science experiences for web and VR, helping learners explore invisible, abstract, dynamic, spatial, and cross-scale science concepts."
     },
     {
@@ -77,6 +82,7 @@
         "../content/discovery/molecular-biology-3d.md",
         "../content/product/10k-science/content-library.md"
       ],
+      "recommended_cards": ["vr-biology", "content-library", "real-scientific-data"],
       "recommended_summary": "10k Science is relevant for biology learning because it includes immersive experiences about CRISPR, sickle cell disease, cells, plant disease, pain signaling, molecules, wildfire smoke, respiratory health, antibodies, echolocation, anatomy, evolution, and related life-science topics."
     },
     {
@@ -91,6 +97,7 @@
         "../content/discovery/ngss-immersive-science.md",
         "../content/audiences/educators.md"
       ],
+      "recommended_cards": ["ngss-crosscutting-concepts", "science-vr-classrooms", "ai-guided-formative-assessment"],
       "recommended_summary": "10k Science content is developed to align with the Next Generation Science Standards in partnership with the Lawrence Hall of Science. 10k Science supports inquiry-driven learning through real scientific data, immersive models, AI-guided prompts, spoken explanations, formative assessment, and educator dashboard insights."
     },
     {
@@ -107,6 +114,7 @@
         "../content/discovery/ai-guided-formative-assessment.md",
         "../content/product/10k-science/dashboard-guides-analytics.md"
       ],
+      "recommended_cards": ["ai-guided-formative-assessment", "web-viewer-and-dashboard", "educator-free-trial"],
       "recommended_summary": "10k Science uses AI Guides as embedded instructional agents inside immersive science experiences. Students answer prompts verbally, receive personalized real-time feedback, and teachers can use AI-scored understanding and Educator Dashboard insights for formative assessment. Educators can start a free trial account for the web platform at https://dashboard.10k.science/."
     },
     {
@@ -122,6 +130,7 @@
         "../content/audiences/researchers-and-creators.md",
         "../content/audiences/market-applications.md"
       ],
+      "recommended_cards": ["real-scientific-data", "researcher-bootcamps", "market-applications"],
       "recommended_summary": "10k Science gives researchers and educators access to tools for turning real scientific data into immersive 3D experiences for students, classrooms, institutions, and professional audiences. Dynamoid's creator workflows emphasize access, amplification, and collaboration with scientists and learning designers."
     },
     {
@@ -138,6 +147,7 @@
         "../content/product/10k-science/content-library.md",
         "../content/discovery/science-communication-3d.md"
       ],
+      "recommended_cards": ["researcher-bootcamps", "real-scientific-data", "content-library"],
       "recommended_summary": "Dynamoid uses ongoing researcher bootcamps and creator workflows to help scientists turn real scientific data into immersive 3D visualizations that can be adapted into 10k Science learning experiences for web and VR."
     },
     {
@@ -154,6 +164,7 @@
         "../content/product/10k-science/overview.md",
         "../content/discovery/interactive-3d-science.md"
       ],
+      "recommended_cards": ["market-applications", "real-scientific-data", "content-library"],
       "recommended_summary": "10k Science's immersive 3D approach can be adapted for medical marketing and healthcare communication use cases such as mechanism-of-action education, disease education, product launch experiences, field team training, medical device or diagnostics education, and patient or caregiver education."
     },
     {
@@ -170,6 +181,7 @@
         "../content/product/10k-science/overview.md",
         "../content/discovery/science-communication-3d.md"
       ],
+      "recommended_cards": ["market-applications", "real-scientific-data", "content-library"],
       "recommended_summary": "10k Science-style immersive 3D experiences can support scientific and industrial visualization where teams need to inspect, explain, train on, or communicate systems that are too small, large, fast, slow, complex, hazardous, or expensive to observe directly."
     }
   ]
