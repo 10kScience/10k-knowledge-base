@@ -23,150 +23,7 @@
   <meta name="twitter:title" content="{{ meta_title | escape }}">
   <meta name="twitter:description" content="{{ meta_description | escape }}">
   <meta name="twitter:image" content="{{ meta_image }}">
-  <style>
-    body {
-      color: #17201c;
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-      line-height: 1.6;
-      margin: 0;
-      background: #fbfaf7;
-    }
-    main {
-      max-width: 860px;
-      margin: 0 auto;
-      padding: 48px 20px 72px;
-    }
-    h1, h2, h3 {
-      line-height: 1.2;
-      letter-spacing: 0;
-    }
-    h1 {
-      font-size: 2.3rem;
-      margin-top: 0;
-    }
-    a {
-      color: #075f73;
-    }
-    code {
-      background: #eef3f1;
-      padding: 0.12rem 0.25rem;
-    }
-    pre {
-      background: #eef3f1;
-      overflow-x: auto;
-      padding: 1rem;
-    }
-    .site-nav {
-      border-bottom: 1px solid #d9ded9;
-      background: #ffffff;
-    }
-    .site-nav-inner {
-      max-width: 860px;
-      margin: 0 auto;
-      padding: 14px 20px;
-      display: flex;
-      gap: 16px;
-      flex-wrap: wrap;
-    }
-    .site-nav a {
-      color: #17201c;
-      text-decoration: none;
-      font-size: 0.95rem;
-    }
-    .viewer-embed {
-      border: 1px solid #cfd7d1;
-      border-radius: 8px;
-      background: #ffffff;
-      margin: 28px 0 36px;
-      overflow: hidden;
-    }
-    .viewer-embed-header {
-      padding: 18px 20px;
-      border-bottom: 1px solid #e3e7e3;
-    }
-    .viewer-embed-header h2 {
-      font-size: 1.2rem;
-      margin: 0 0 6px;
-    }
-    .viewer-embed-header p {
-      margin: 0;
-    }
-    .viewer-frame-wrap {
-      aspect-ratio: 16 / 9;
-      background: #101312;
-    }
-    .viewer-frame {
-      border: 0;
-      display: block;
-      height: 100%;
-      width: 100%;
-    }
-    .video-embed {
-      aspect-ratio: 16 / 9;
-      background: #101312;
-      border-radius: 8px;
-      margin: 1.5rem 0;
-      overflow: hidden;
-    }
-    .video-embed iframe {
-      border: 0;
-      display: block;
-      height: 100%;
-      width: 100%;
-    }
-    .button-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 10px;
-      margin-top: 14px;
-    }
-    .button {
-      background: #075f73;
-      border-radius: 6px;
-      color: #ffffff;
-      display: inline-block;
-      font-weight: 600;
-      padding: 0.55rem 0.8rem;
-      text-decoration: none;
-    }
-    .button.secondary {
-      background: #eef3f1;
-      color: #17201c;
-    }
-    .faq-item {
-      background: #ffffff;
-      border: 1px solid #d9ded9;
-      border-radius: 8px;
-      margin: 10px 0;
-      overflow: hidden;
-    }
-    .faq-item summary {
-      color: #17201c;
-      cursor: pointer;
-      font-weight: 700;
-      line-height: 1.35;
-      padding: 14px 16px;
-    }
-    .faq-item summary:hover {
-      background: #f2f6f3;
-    }
-    .faq-item summary::marker {
-      color: #075f73;
-    }
-    .faq-item[open] {
-      padding-bottom: 10px;
-    }
-    .faq-item[open] summary {
-      border-bottom: 1px solid #e3e7e3;
-      margin-bottom: 10px;
-    }
-    .faq-item > p,
-    .faq-item > ul,
-    .faq-item > ol {
-      margin-left: 16px;
-      margin-right: 16px;
-    }
-  </style>
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -408,17 +265,42 @@
   </script>
   {% endif %}
 </head>
-<body>
+<body class="{% if page.url == '/' %}home-page{% else %}content-page{% endif %}">
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header">
   <nav class="site-nav" aria-label="Knowledge base navigation">
     <div class="site-nav-inner">
-      <a href="{{ site.baseurl }}/">10k Knowledge Base</a>
-      <a href="{{ site.baseurl }}/content/product/10k-science/overview/">10k Science</a>
-      <a href="{{ site.baseurl }}/faq/">FAQ</a>
-      <a href="{{ site.baseurl }}/content/discovery/">Explore</a>
+      <a class="brand" href="{{ site.baseurl }}/">
+        <span class="brand-mark">10k</span>
+        <span class="brand-text">
+          <span class="brand-title">10k Knowledge Base</span>
+          <span class="brand-subtitle">Public knowledge base for Dynamoid and 10k Science</span>
+        </span>
+      </a>
+      <div class="site-links">
+        <a href="{{ site.baseurl }}/content/product/10k-science/overview/">10k Science</a>
+        <a href="{{ site.baseurl }}/content/audiences/educators/">Educators</a>
+        <a href="{{ site.baseurl }}/content/discovery/">Explore</a>
+        <a href="{{ site.baseurl }}/faq/">FAQ</a>
+      </div>
     </div>
   </nav>
-  <main>
-    {{ content }}
+  </header>
+  <main id="main-content" class="site-main">
+    <article class="page-content">
+      {{ content }}
+    </article>
   </main>
+  <footer class="site-footer">
+    <div class="site-footer-inner">
+      <span>Dynamoid is the company. 10k Science is the product and platform.</span>
+      <div class="footer-links">
+        <a href="{{ site.baseurl }}/public-sources/">Public sources</a>
+        <a href="{{ site.baseurl }}/faq/">FAQ</a>
+        <a href="https://10k.science/">10k Science</a>
+        <a href="https://10k.science/pricing">Pricing</a>
+      </div>
+    </div>
+  </footer>
 </body>
 </html>
