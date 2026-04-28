@@ -412,50 +412,56 @@ blockquote {
 }
 
 .fact-band {
-  background: #17201c;
+  background: linear-gradient(135deg, #17201c 0%, #102720 100%);
   border-radius: 8px;
+  box-shadow: 0 18px 40px rgba(23, 32, 28, 0.12);
   color: #ffffff;
-  display: grid;
-  gap: 18px;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  display: block;
   margin: 34px 0 46px;
-  padding: 24px 26px 28px;
+  padding: 28px;
+}
+
+.fact-band-header {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.18);
+  margin-bottom: 18px;
+  padding-bottom: 14px;
 }
 
 .fact-band h2 {
   border: 0;
   color: #ffffff;
-  grid-column: 1 / -1;
+  font-size: clamp(1.45rem, 2.5vw, 1.9rem);
   margin: 0;
   padding: 0;
 }
 
-.fact-band p {
+.fact-grid {
+  display: grid;
+  gap: 14px;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
+.fact-card {
+  background: rgba(255, 255, 255, 0.055);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 8px;
+  min-width: 0;
+  padding: 18px;
+}
+
+.fact-card h3 {
+  color: #ffffff;
+  font-size: 0.9rem;
+  letter-spacing: 0.05em;
+  margin: 0 0 8px;
+  text-transform: uppercase;
+}
+
+.fact-card p {
   color: #d7dfda;
   font-size: 0.98rem;
   line-height: 1.5;
   margin: 0;
-}
-
-.fact-band a {
-  color: #9ddde3;
-}
-
-.fact-band a:hover {
-  color: #ffffff;
-}
-
-.fact-band strong {
-  color: #ffffff;
-  display: block;
-  font-size: 0.96rem;
-  letter-spacing: 0.04em;
-  margin-bottom: 6px;
-  text-transform: uppercase;
-}
-
-.fact-band strong a {
-  color: #ffffff;
 }
 
 .video-embed {
@@ -566,7 +572,7 @@ blockquote {
 
   .link-grid,
   .resource-grid,
-  .fact-band {
+  .fact-grid {
     grid-template-columns: 1fr;
   }
 

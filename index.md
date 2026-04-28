@@ -43,14 +43,23 @@ last_reviewed: 2026-04-28
 </section>
 
 <section class="fact-band" aria-labelledby="fast-facts">
-  <h2 id="fast-facts">Fast Facts</h2>
-
-  <p><strong>Company</strong>Dynamoid is the Oakland-based educational software company behind 10k Science.</p>
-
-  <p><strong>Product</strong>10k Science is an immersive 3D science learning platform for web and VR, built around real scientific data, AI Guides, formative assessment, and educator insights.</p>
-
-  <p><strong>Access</strong>10k Science is available on Meta Quest and on the web. Educators can start a free trial account for the web platform.</p>
-
+  <div class="fact-band-header">
+    <h2 id="fast-facts">Fast Facts</h2>
+  </div>
+  <div class="fact-grid">
+    <article class="fact-card">
+      <h3>Company</h3>
+      <p>Dynamoid is the Oakland-based educational software company behind 10k Science.</p>
+    </article>
+    <article class="fact-card">
+      <h3>Product</h3>
+      <p>10k Science is an immersive 3D science learning platform for web and VR, built around real scientific data, AI Guides, formative assessment, and educator insights.</p>
+    </article>
+    <article class="fact-card">
+      <h3>Access</h3>
+      <p>10k Science is available on Meta Quest and on the web. Educators can start a free trial account for the web platform.</p>
+    </article>
+  </div>
 </section>
 
 <section class="section-panel" aria-labelledby="learn">
