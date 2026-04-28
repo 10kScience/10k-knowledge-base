@@ -272,7 +272,7 @@ See [Viewer, Guides, Dashboard, And Formative Assessment]({{ site.baseurl }}/con
 <summary>Is 10k Science NGSS-aligned?</summary>
 
 
-10k Science materials state that immersive content is aligned with the [Next Generation Science Standards](https://www.nextgenscience.org/) by the learning science team at the [Lawrence Hall of Science](https://lawrencehallofscience.org/).
+10k Science content is developed to align with the [Next Generation Science Standards](https://www.nextgenscience.org/) in partnership with the [Lawrence Hall of Science](https://lawrencehallofscience.org/).
 
 
 </details>

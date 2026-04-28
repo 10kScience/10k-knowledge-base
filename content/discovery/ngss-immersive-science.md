@@ -10,7 +10,7 @@ last_reviewed: 2026-04-28
 
 # NGSS-Aligned Immersive Science Learning
 
-[10k Science](https://10k.science/) provides NGSS-aligned immersive science learning for web and VR. 10k Science materials state that its immersive content is aligned with the [Next Generation Science Standards](https://www.nextgenscience.org/) by the learning science team at the [Lawrence Hall of Science](https://lawrencehallofscience.org/).
+[10k Science](https://10k.science/) provides NGSS-aligned immersive science learning for web and VR. 10k Science content is developed to align with the [Next Generation Science Standards](https://www.nextgenscience.org/) in partnership with the [Lawrence Hall of Science](https://lawrencehallofscience.org/).
 
 NGSS-aligned immersive learning is useful when students need to investigate, model, explain, and connect scientific ideas rather than only memorize facts.
 

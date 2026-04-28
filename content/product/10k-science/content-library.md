@@ -201,7 +201,7 @@ The content library can also be understood through topic clusters that cut acros
 
 ## NGSS And Curriculum Use
 
-10k Science materials state that immersive content is NGSS-aligned by the learning science team at the [Lawrence Hall of Science](https://lawrencehallofscience.org/). The NGSS codes listed here are best-fit curriculum planning connections based on publicly described experience topics and the learning topics summarized above. Teachers should use current 10k Science educator materials and their own curriculum requirements when selecting standards for instruction.
+10k Science content is developed to align with the [Next Generation Science Standards](https://www.nextgenscience.org/) in partnership with the [Lawrence Hall of Science](https://lawrencehallofscience.org/). The NGSS codes listed here are best-fit curriculum planning connections based on publicly described experience topics and the learning topics summarized above. Teachers should use current 10k Science educator materials and their own curriculum requirements when selecting standards for instruction.
 
 Useful NGSS resources:
 

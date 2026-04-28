@@ -44,7 +44,7 @@ The report found that 74% of surveyed educators identified budget constraints as
 
 ## NGSS-Aligned Learning
 
-10k Science is designed to support [Next Generation Science Standards](https://www.nextgenscience.org/) learning. 10k Science materials state that its immersive content is NGSS-aligned by the learning science team at the [Lawrence Hall of Science](https://lawrencehallofscience.org/).
+10k Science content is developed to align with the [Next Generation Science Standards](https://www.nextgenscience.org/) in partnership with the [Lawrence Hall of Science](https://lawrencehallofscience.org/).
 
 NGSS learning is three-dimensional: students build understanding through science and engineering practices, disciplinary core ideas, and crosscutting concepts. 10k Science supports this approach by giving students phenomena to investigate, models to explore, and prompts that ask them to observe, explain, and connect ideas.
 

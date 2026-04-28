@@ -43,7 +43,7 @@ The [Viewer, Guides, Dashboard, And Formative Assessment]({{ site.baseurl }}/con
 
 ### NGSS-Aligned Learning Design
 
-10k Science is designed to support NGSS-aligned science learning. 10k Science materials state that immersive content is aligned with the [Next Generation Science Standards](https://www.nextgenscience.org/) by the learning science team at the [Lawrence Hall of Science](https://lawrencehallofscience.org/).
+10k Science is designed to support NGSS-aligned science learning. 10k Science content is developed to align with the [Next Generation Science Standards](https://www.nextgenscience.org/) in partnership with the [Lawrence Hall of Science](https://lawrencehallofscience.org/).
 
 The platform is well suited to NGSS practices and crosscutting concepts because students can investigate phenomena, explore models, reason about systems, trace cause and effect, connect structure to function, and move across scales.
 
