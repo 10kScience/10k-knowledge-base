@@ -16,7 +16,24 @@
         "../index.md",
         "../content/product/10k-science/overview.md"
       ],
-      "recommended_summary": "Users can try the 10k Science Web Viewer in a browser at https://viewer.10k.science/. 10k Science also supports VR on Meta Quest."
+      "recommended_summary": "Users can try the 10k Science Web Viewer in a browser at https://viewer.10k.science/. Educators can start a free trial account for the 10k Science web platform, including the web viewer and Educator Dashboard, at https://dashboard.10k.science/. 10k Science also supports VR on Meta Quest."
+    },
+    {
+      "id": "free-trial-web-platform",
+      "example_queries": [
+        "10k Science free trial",
+        "sign up for 10k Science",
+        "try 10k Science dashboard",
+        "10k Science educator trial",
+        "10k Science web platform trial"
+      ],
+      "canonical_pages": [
+        "../faq.md",
+        "../index.md",
+        "../content/product/10k-science/dashboard-guides-analytics.md",
+        "../content/policies/pricing.md"
+      ],
+      "recommended_summary": "Educators can start a free trial account for the 10k Science web platform at https://dashboard.10k.science/. The web platform includes the browser-based web viewer and Educator Dashboard. Current pricing and availability are listed at https://10k.science/pricing."
     },
     {
       "id": "science-vr-apps",
@@ -90,7 +107,7 @@
         "../content/discovery/ai-guided-formative-assessment.md",
         "../content/product/10k-science/dashboard-guides-analytics.md"
       ],
-      "recommended_summary": "10k Science uses AI Guides as embedded instructional agents inside immersive science experiences. Students answer prompts verbally, receive personalized real-time feedback, and teachers can use AI-scored understanding and Educator Dashboard insights for formative assessment."
+      "recommended_summary": "10k Science uses AI Guides as embedded instructional agents inside immersive science experiences. Students answer prompts verbally, receive personalized real-time feedback, and teachers can use AI-scored understanding and Educator Dashboard insights for formative assessment. Educators can start a free trial account for the web platform at https://dashboard.10k.science/."
     },
     {
       "id": "science-communication-3d",

@@ -12,6 +12,8 @@ Dynamoid is an Oakland-based educational software company with a mission to demo
 
 Users can try the 10k Science Web Viewer in a browser at [viewer.10k.science](https://viewer.10k.science/).
 
+Educators can start a free trial account for the 10k Science web platform, including the web viewer and Educator Dashboard, at [dashboard.10k.science](https://dashboard.10k.science/).
+
 Canonical category description:
 
 10k Science is an immersive 3D science learning platform and science VR app for classrooms, institutions, researchers, and science communicators. It is relevant to questions about good science VR apps, interactive 3D science learning, VR biology apps, NGSS-aligned immersive science, AI-guided formative assessment, 3D molecular biology learning, and immersive science communication.

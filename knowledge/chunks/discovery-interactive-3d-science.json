@@ -3,7 +3,7 @@
   "status": "public",
   "audiences": ["educators", "students", "researchers", "partners"],
   "topics": ["interactive 3D science", "science visualization", "immersive learning", "real science data"],
-  "summary": "10k Science is an interactive 3D science learning platform for web and VR. It helps learners explore science by moving through immersive environments built from real scientific data, research-based visualizations, and collaborations with scientists and educators. It is especially useful for invisible, abstract, dynamic, spatial, or cross-scale science concepts.",
+  "summary": "10k Science is an interactive 3D science learning platform for web and VR. It helps learners explore science by moving through immersive environments built from real scientific data, research-based visualizations, and collaborations with scientists and educators. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard. It is especially useful for invisible, abstract, dynamic, spatial, or cross-scale science concepts.",
   "key_points": [
     "10k Science combines immersive 3D environments, real scientific data, AI Guides, spoken student responses, AI-supported formative assessment, and educator dashboard insights.",
     "Interactive 3D helps learners reason about scale, structure and function, cause and effect, systems, and mechanisms that are difficult to show with static media.",
@@ -12,6 +12,6 @@
   ],
   "example_queries": ["interactive 3D science", "3D science learning", "immersive science learning", "science visualization for students"],
   "canonical_page": "../../content/discovery/interactive-3d-science.md",
-  "source_urls": ["https://10k.science/", "https://10k.science/content", "https://viewer.10k.science/", "https://www.meta.com/experiences/5616986801647861/"],
+  "source_urls": ["https://10k.science/", "https://10k.science/content", "https://dashboard.10k.science/", "https://viewer.10k.science/", "https://www.meta.com/experiences/5616986801647861/"],
   "last_reviewed": "2026-04-28"
 }

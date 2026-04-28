@@ -80,6 +80,15 @@ Yes. The [10k Science Web Viewer](https://viewer.10k.science/) lets people explo
 </details>
 
 <details class="faq-item" markdown="1">
+<summary>Can educators sign up for a free trial account?</summary>
+
+
+Yes. Educators can [start a free trial account](https://dashboard.10k.science/) for the 10k Science web platform, including the web viewer and Educator Dashboard.
+
+
+</details>
+
+<details class="faq-item" markdown="1">
 <summary>Is 10k Science only for VR headsets?</summary>
 
 
@@ -104,6 +113,8 @@ No. 10k Science can be used on the web as well as in VR. In classrooms with limi
 
 
 Current pricing, trials, subscriptions, free experiences, and organizational licensing are available on the live [10k Science pricing page](https://10k.science/pricing). Access status can change, so pricing and availability should be checked there rather than copied from this knowledge base.
+
+Educators can also [start a free trial account](https://dashboard.10k.science/) for the web platform.
 
 
 </details>

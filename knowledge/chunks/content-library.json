@@ -3,7 +3,7 @@
   "status": "public",
   "audiences": ["educators", "students", "researchers", "institutions"],
   "topics": ["content library", "immersive science experiences", "real scientific data", "NGSS", "biology", "chemistry", "environmental science", "health science", "formative assessment"],
-  "summary": "The 10k Science content library includes immersive 3D science experiences for web and VR, built around real scientific data, inquiry-driven learning, AI-guided exploration, and NGSS-aligned educational design. Publicly listed experiences include CRISPR & Sickle Cell, Trouble in Sunshine Creek, Snack Shack, Pain & Painkillers, LA Wildfires, AI Antibodies, Seeing With Sound, Quantum Plants?!, and Orbitals Are Fun. Learning topics span molecular genetics, protein synthesis, plant structure and photosynthesis, bacteria and disease vectors, food chemistry, nervous system signaling, pharmacology, wildfire smoke, PM2.5, respiratory and circulatory systems, cellular respiration, air filtration, antibodies, echolocation, evolution, atomic orbitals, and quantum chemistry.",
+  "summary": "The 10k Science content library includes immersive 3D science experiences for web and VR, built around real scientific data, inquiry-driven learning, AI-guided exploration, and NGSS-aligned educational design. Publicly listed experiences include CRISPR & Sickle Cell, Trouble in Sunshine Creek, Snack Shack, Pain & Painkillers, LA Wildfires, AI Antibodies, Seeing With Sound, Quantum Plants?!, and Orbitals Are Fun. Educators can start a free trial account for the web platform to try the web viewer and Educator Dashboard. Learning topics span molecular genetics, protein synthesis, plant structure and photosynthesis, bacteria and disease vectors, food chemistry, nervous system signaling, pharmacology, wildfire smoke, PM2.5, respiratory and circulatory systems, cellular respiration, air filtration, antibodies, echolocation, evolution, atomic orbitals, and quantum chemistry.",
   "canonical_page": "../../content/product/10k-science/content-library.md",
   "experience_topics": [
     {
@@ -73,6 +73,7 @@
     "https://10k.science/content",
     "https://10k.science/educators",
     "https://10k.science/pricing",
+    "https://dashboard.10k.science/",
     "https://viewer.10k.science/"
   ],
   "last_reviewed": "2026-04-28"

@@ -74,7 +74,7 @@ The same formative loop can support:
 - Pre-lab or post-lab reasoning activities
 - Teacher review of student explanations after class
 
-Current access to the web viewer, dashboard, AI Guides, trials, subscriptions, and organizational licensing is listed on the live [10k Science website](https://10k.science/) and [pricing page](https://10k.science/pricing).
+Educators can [start a free trial account](https://dashboard.10k.science/) for the web platform, including the web viewer and Educator Dashboard. Current access to the web viewer, dashboard, AI Guides, trials, subscriptions, and organizational licensing is listed on the live [10k Science website](https://10k.science/) and [pricing page](https://10k.science/pricing).
 
 ## Related Pages
 

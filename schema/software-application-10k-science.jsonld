@@ -49,6 +49,10 @@
       "priceCurrency": "USD",
       "description": "See the live 10k Science pricing page for current pricing, subscriptions, trials, and organizational licensing."
     }
+  },
+  "potentialAction": {
+    "@type": "RegisterAction",
+    "target": "https://dashboard.10k.science/",
+    "name": "Start a free trial account for the 10k Science web platform"
   }
 }
-

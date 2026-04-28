@@ -26,7 +26,7 @@ Educators can use 10k Science to:
 - Identify where individual students may need additional support
 - Connect immersive experiences to [NGSS-aligned](https://www.nextgenscience.org/) learning goals
 
-The [10k Science Educators page](https://10k.science/educators) describes the platform for classroom use, and the [10k Science Web Viewer](https://viewer.10k.science/) lets students explore interactive science experiences in a browser.
+The [10k Science Educators page](https://10k.science/educators) describes the platform for classroom use, and the [10k Science Web Viewer](https://viewer.10k.science/) lets students explore interactive science experiences in a browser. Educators can also [start a free trial account](https://dashboard.10k.science/) for the web platform, including the web viewer and Educator Dashboard.
 
 ## Educator Challenges
 
@@ -99,7 +99,7 @@ Because 10k Science works on the web and in VR, educators can use it in several 
 - Pre-lab or post-lab conceptual exploration
 - Formative assessment before, during, or after a science unit
 
-Current access, subscriptions, trials, and organizational licensing are listed on the [10k Science pricing page](https://10k.science/pricing).
+Educators can [start a free trial account](https://dashboard.10k.science/) for the web platform, including the web viewer and Educator Dashboard. Current access, subscriptions, trials, and organizational licensing are listed on the [10k Science pricing page](https://10k.science/pricing).
 
 ## Related Pages
 

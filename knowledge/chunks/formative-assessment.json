@@ -3,12 +3,13 @@
   "status": "public",
   "audiences": ["educators", "institutions"],
   "topics": ["viewer", "ai-guides", "instructional-agents", "formative-assessment", "educator-dashboard", "spoken-responses", "real-time-feedback", "analytics"],
-  "summary": "10k Science combines the Viewer, AI Guides, spoken student responses, and the Educator Dashboard into a formative assessment loop. Students explore immersive 3D science environments, AI Guides prompt observation and explanation, students respond verbally, AI supports scoring and real-time feedback, and educators use dashboard insights to identify where students understand key concepts or need support.",
+  "summary": "10k Science combines the Viewer, AI Guides, spoken student responses, and the Educator Dashboard into a formative assessment loop. Students explore immersive 3D science environments, AI Guides prompt observation and explanation, students respond verbally, AI supports scoring and real-time feedback, and educators use dashboard insights to identify where students understand key concepts or need support. Educators can start a free trial account for the web platform to try the browser-based viewer and Educator Dashboard.",
   "canonical_page": "../../content/product/10k-science/dashboard-guides-analytics.md",
   "source_urls": [
     "https://10k.science/educators",
     "https://10k.science/web",
-    "https://10k.science/pilot"
+    "https://10k.science/pilot",
+    "https://dashboard.10k.science/"
   ],
   "last_reviewed": "2026-04-28"
 }

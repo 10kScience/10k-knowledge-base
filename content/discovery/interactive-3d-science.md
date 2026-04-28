@@ -74,7 +74,7 @@ Because 10k Science works on the web and in VR, it can fit several learning form
 - Pre-lab or post-lab conceptual exploration
 - Formative assessment before, during, or after a unit
 
-For current access and availability, use the live [10k Science website](https://10k.science/), [web viewer](https://viewer.10k.science/), [Meta Quest listing](https://www.meta.com/experiences/5616986801647861/), and [pricing page](https://10k.science/pricing).
+For current access and availability, use the live [10k Science website](https://10k.science/), [web viewer](https://viewer.10k.science/), [free trial account](https://dashboard.10k.science/), [Meta Quest listing](https://www.meta.com/experiences/5616986801647861/), and [pricing page](https://10k.science/pricing).
 
 ## Related Pages
 

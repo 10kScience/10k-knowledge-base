@@ -3,11 +3,12 @@
   "status": "public",
   "audiences": ["education leaders", "institutions", "healthcare marketers", "scientific organizations", "industrial teams", "partners", "investors"],
   "topics": ["market applications", "K-12 education", "higher education", "medical marketing", "scientific visualization", "industrial visualization"],
-  "summary": "10k Science's immersive 3D approach can support K-12 science education, higher education, medical marketing, and scientific or industrial visualization by making invisible, abstract, spatial, or dynamic scientific systems easier to understand through web and VR experiences.",
+  "summary": "10k Science's immersive 3D approach can support K-12 science education, higher education, medical marketing, and scientific or industrial visualization by making invisible, abstract, spatial, or dynamic scientific systems easier to understand through web and VR experiences. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard.",
   "source_urls": [
     "https://10k.science/",
     "https://10k.science/educators",
     "https://10k.science/content",
+    "https://dashboard.10k.science/",
     "https://viewer.10k.science/",
     "https://dynamoid.com/"
   ],

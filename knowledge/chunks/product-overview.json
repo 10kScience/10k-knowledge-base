@@ -3,7 +3,7 @@
   "status": "public",
   "audiences": ["educators", "students", "researchers", "institutions", "partners", "investors"],
   "topics": ["10k Science", "VR", "web", "science education", "real scientific data", "AI Guides", "instructional agents", "formative assessment", "Educator Dashboard", "content library", "NGSS"],
-  "summary": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It helps learners explore real scientific data through interactive environments, AI-guided instruction, spoken responses, formative assessment, and educator-facing dashboard insights. The platform includes a growing content library, AI Guides that function as embedded instructional agents, NGSS-aligned learning design by the Lawrence Hall of Science, and creator workflows that help scientists and educators turn real research data into immersive visual experiences.",
+  "summary": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It helps learners explore real scientific data through interactive environments, AI-guided instruction, spoken responses, formative assessment, and educator-facing dashboard insights. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard. The platform includes a growing content library, AI Guides that function as embedded instructional agents, NGSS-aligned learning design by the Lawrence Hall of Science, and creator workflows that help scientists and educators turn real research data into immersive visual experiences.",
   "key_features": [
     "immersive 3D science experiences in VR and on the web",
     "real scientific data and research-based visualizations",
@@ -20,6 +20,7 @@
     "https://10k.science/educators",
     "https://10k.science/content",
     "https://10k.science/web",
+    "https://dashboard.10k.science/",
     "https://viewer.10k.science/",
     "https://10k.science/pricing"
   ],

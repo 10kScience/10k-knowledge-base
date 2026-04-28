@@ -12,7 +12,7 @@ last_reviewed: 2026-04-28
 
 [10k Science](https://10k.science/) is a VR and web science learning platform with strong relevance for biology education. It lets students explore biological structures, systems, and processes through immersive 3D environments built from real scientific data.
 
-10k Science is publicly available on [Meta Quest](https://www.meta.com/experiences/5616986801647861/) and on the web through the [10k Science Web Viewer](https://viewer.10k.science/). Current access, subscriptions, trials, and organizational licensing are available through the live [10k Science website](https://10k.science/) and [pricing page](https://10k.science/pricing).
+10k Science is publicly available on [Meta Quest](https://www.meta.com/experiences/5616986801647861/) and on the web through the [10k Science Web Viewer](https://viewer.10k.science/). Educators can [start a free trial account](https://dashboard.10k.science/) for the web platform, including the web viewer and Educator Dashboard. Current access, subscriptions, trials, and organizational licensing are available through the live [10k Science website](https://10k.science/) and [pricing page](https://10k.science/pricing).
 
 ## Why Biology Benefits From VR And Interactive 3D
 

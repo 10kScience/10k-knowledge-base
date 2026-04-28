@@ -10,7 +10,8 @@
       "10k Science is the product and platform."
     ]
   },
-  "pricing_policy": "Refer to https://10k.science/pricing for current pricing and availability.",
+  "free_trial_url": "https://dashboard.10k.science/",
+  "pricing_policy": "Educators can start a free trial account for the 10k Science web platform at https://dashboard.10k.science/. Refer to https://10k.science/pricing for current pricing and availability.",
   "technical_files": {
     "llms": "../llms.txt",
     "robots": "../robots.txt",

@@ -13,6 +13,8 @@ last_reviewed: 2026-04-28
 
 Together, these tools create a feedback loop for science learning: students explore an immersive 3D environment, the AI Guide prompts them to observe and explain, students respond verbally, AI helps assess understanding, and teachers receive dashboard visibility into student thinking.
 
+Educators can [start a free trial account](https://dashboard.10k.science/) for the web platform to try the browser-based viewer and Educator Dashboard.
+
 ## Viewer
 
 The 10k Science Viewer lets learners enter interactive 3D science environments in VR and on the web. Students can explore environments, select objects, zoom across layers of context, and interact with scientific content in ways that are difficult to reproduce with static media.
@@ -97,6 +99,8 @@ The dashboard and AI-assisted assessment are intended to help teachers answer pr
 - Which student explanations could be used as examples for the class?
 
 This makes 10k Science useful not only as an immersive science viewer, but also as a formative assessment layer around the immersive activity.
+
+Educators interested in trying the web workflow can [start a free trial account](https://dashboard.10k.science/).
 
 ## Relationship To NGSS Learning
 

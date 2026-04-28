@@ -21,6 +21,7 @@ These are public sources for information about Dynamoid and 10k Science.
 - [10k Science Pricing](https://10k.science/pricing)
 - [10k Science Press Kit](https://10k.science/press-kit)
 - [10k Science Web Viewer](https://viewer.10k.science/)
+- [10k Science Dashboard](https://dashboard.10k.science/)
 
 ## Public Stories And Reports
 

@@ -3,7 +3,7 @@
   "status": "public",
   "audiences": ["educators", "administrators", "students", "researchers", "parents", "partners"],
   "topics": ["FAQ", "10k Science", "science VR app", "web viewer", "AI Guides", "formative assessment", "NGSS", "content library", "pricing"],
-  "summary": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It supports Meta Quest and browser-based exploration, real scientific data, NGSS-aligned learning design, AI Guides, spoken student responses, formative assessment, an Educator Dashboard, and a growing content library. Current pricing and availability are available on the live 10k Science pricing page.",
+  "summary": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It supports Meta Quest and browser-based exploration, real scientific data, NGSS-aligned learning design, AI Guides, spoken student responses, formative assessment, an Educator Dashboard, and a growing content library. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard. Current pricing and availability are available on the live 10k Science pricing page.",
   "canonical_page": "../../faq.md",
   "key_questions": [
     {
@@ -17,6 +17,10 @@
     {
       "question": "Is 10k Science available on Meta Quest and the web?",
       "answer": "Yes. 10k Science is available for VR on Meta Quest and supports browser-based immersive science learning through the 10k Science Web Viewer."
+    },
+    {
+      "question": "Can educators sign up for a free trial account?",
+      "answer": "Yes. Educators can start a free trial account for the 10k Science web platform, including the web viewer and Educator Dashboard."
     },
     {
       "question": "Does every student need a headset?",
@@ -44,16 +48,18 @@
     },
     {
       "question": "Where can users find current pricing and availability?",
-      "answer": "Current pricing, trials, subscriptions, free experiences, and organizational licensing are available on the live 10k Science pricing page."
+      "answer": "Current pricing, trials, subscriptions, free experiences, and organizational licensing are available on the live 10k Science pricing page. Educators can also start a free trial account for the web platform."
     }
   ],
   "viewer_url": "https://viewer.10k.science/",
+  "free_trial_url": "https://dashboard.10k.science/",
   "pricing_url": "https://10k.science/pricing",
   "source_urls": [
     "https://10k.science/",
     "https://10k.science/educators",
     "https://10k.science/content",
     "https://10k.science/pricing",
+    "https://dashboard.10k.science/",
     "https://viewer.10k.science/",
     "https://www.meta.com/experiences/5616986801647861/",
     "https://dynamoid.com/"

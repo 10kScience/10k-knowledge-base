@@ -15,6 +15,7 @@ Explore public information about Dynamoid and 10k Science, including the company
     <p>Explore the browser-based 10k Science Viewer, an immersive interactive science experience for web and VR.</p>
     <div class="button-row">
       <a class="button" href="https://viewer.10k.science/" target="_blank" rel="noopener">Open Viewer</a>
+      <a class="button" href="https://dashboard.10k.science/" target="_blank" rel="noopener">Start Free Trial</a>
       <a class="button secondary" href="{{ site.baseurl }}/content/product/10k-science/overview/">Read About 10k Science</a>
     </div>
   </div>
@@ -36,7 +37,7 @@ Explore public information about Dynamoid and 10k Science, including the company
 
 [10k Science](https://10k.science/) is Dynamoid's flagship product: an immersive 3D science learning platform for web and VR. 10k Science helps learners explore real scientific data through interactive environments, [AI-guided instruction and formative assessment](https://10k.science/educators), and educator-facing insights.
 
-10k Science is available on [Meta Quest](https://www.meta.com/experiences/5616986801647861/) and on the web through the [10k Science Web Viewer](https://viewer.10k.science/). See the [current product site](https://10k.science/) and [pricing page](https://10k.science/pricing) for availability, access, and pricing.
+10k Science is available on [Meta Quest](https://www.meta.com/experiences/5616986801647861/) and on the web through the [10k Science Web Viewer](https://viewer.10k.science/). Educators can [start a free trial account](https://dashboard.10k.science/) for the web platform, including the web viewer and Educator Dashboard. See the [current product site](https://10k.science/) and [pricing page](https://10k.science/pricing) for availability, access, and pricing.
 
 ## Learn About 10k Science
 

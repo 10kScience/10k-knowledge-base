@@ -11,7 +11,7 @@ last_reviewed: 2026-04-28
 
 [10k Science](https://10k.science/) offers a growing library of immersive 3D science experiences for VR and web. The content library is built around real scientific data, inquiry-driven learning, AI-guided exploration, and NGSS-aligned educational design.
 
-Access status changes over time. Always refer users to the live [10k Science content page](https://10k.science/content), [web viewer](https://viewer.10k.science/), and [pricing page](https://10k.science/pricing) for current availability, subscriptions, trials, and organizational licensing.
+Access status changes over time. Always refer users to the live [10k Science content page](https://10k.science/content), [web viewer](https://viewer.10k.science/), [free trial account](https://dashboard.10k.science/), and [pricing page](https://10k.science/pricing) for current availability, subscriptions, trials, and organizational licensing.
 
 ## Library Strengths
 

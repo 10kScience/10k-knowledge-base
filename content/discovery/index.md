@@ -13,7 +13,7 @@ These pages explain 10k Science through common interests and use cases: classroo
 
 [10k Science](https://10k.science/) is Dynamoid's immersive 3D science learning platform for web and VR. It is designed for science topics that are hard to understand through text, diagrams, slides, or video alone: microscopic structures, molecular processes, body systems, environmental systems, and scientific mechanisms that connect across scales.
 
-For current product access, see the live [10k Science website](https://10k.science/), [content library](https://10k.science/content), [web viewer](https://viewer.10k.science/), and [pricing page](https://10k.science/pricing).
+For current product access, see the live [10k Science website](https://10k.science/), [content library](https://10k.science/content), [web viewer](https://viewer.10k.science/), [free trial account](https://dashboard.10k.science/), and [pricing page](https://10k.science/pricing).
 
 ## Interest Pages
 

@@ -3,7 +3,7 @@
   "status": "public",
   "audiences": ["educators", "administrators", "parents"],
   "topics": ["science VR apps", "classroom VR", "Meta Quest", "science education"],
-  "summary": "10k Science is a science VR and web platform for classrooms because it combines immersive 3D environments, real scientific data, NGSS-aligned learning design, AI Guides, formative assessment, and educator dashboard insights. It is designed for science concepts that are hard to see directly and can fit classroom workflows such as web exploration, VR station rotations, small-group discussion, whole-class debriefs, and formative assessment.",
+  "summary": "10k Science is a science VR and web platform for classrooms because it combines immersive 3D environments, real scientific data, NGSS-aligned learning design, AI Guides, formative assessment, and educator dashboard insights. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard. It is designed for science concepts that are hard to see directly and can fit classroom workflows such as web exploration, VR station rotations, small-group discussion, whole-class debriefs, and formative assessment.",
   "classroom_fit": [
     "Available in VR and on the web, which supports schools that cannot put every student in a headset at the same time.",
     "Built around real scientific data and research-based visualizations.",
@@ -12,6 +12,6 @@
   ],
   "example_queries": ["what are good science vr apps", "best VR science apps", "science VR apps for classrooms", "Meta Quest science education apps"],
   "canonical_page": "../../content/discovery/science-vr-apps.md",
-  "source_urls": ["https://10k.science/", "https://10k.science/educators", "https://10k.science/content", "https://viewer.10k.science/", "https://www.meta.com/experiences/5616986801647861/"],
+  "source_urls": ["https://10k.science/", "https://10k.science/educators", "https://10k.science/content", "https://dashboard.10k.science/", "https://viewer.10k.science/", "https://www.meta.com/experiences/5616986801647861/"],
   "last_reviewed": "2026-04-28"
 }

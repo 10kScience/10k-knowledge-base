@@ -3,7 +3,7 @@
   "status": "public",
   "audiences": ["educators", "students", "administrators"],
   "topics": ["VR biology", "Meta Quest", "biology education", "molecular biology"],
-  "summary": "10k Science is relevant for biology learning because it includes immersive experiences about CRISPR, sickle cell disease, cells, plant disease, pain signaling, molecules, wildfire smoke, respiratory health, antibodies, echolocation, anatomy, evolution, and related life-science topics. It is available on Meta Quest and on the web, with current access and pricing handled through the live 10k Science website.",
+  "summary": "10k Science is relevant for biology learning because it includes immersive experiences about CRISPR, sickle cell disease, cells, plant disease, pain signaling, molecules, wildfire smoke, respiratory health, antibodies, echolocation, anatomy, evolution, and related life-science topics. It is available on Meta Quest and on the web. Educators can start a free trial account for the web platform, including the web viewer and Educator Dashboard, with current access and pricing handled through the live 10k Science website.",
   "biology_topics": [
     "CRISPR, sickle cell disease, blood, bone marrow, stem cells, genes, DNA, RNA, ribosomes, hemoglobin, and protein structure",
     "Plant structure and function, photosynthesis, xylem, phloem, invasive insects, Xylella fastidiosa, and plant disease",
@@ -15,6 +15,6 @@
   ],
   "example_queries": ["VR biology app", "Meta Quest biology app", "virtual reality biology classroom", "molecular biology VR"],
   "canonical_page": "../../content/discovery/vr-biology-app.md",
-  "source_urls": ["https://10k.science/", "https://10k.science/content", "https://viewer.10k.science/", "https://www.meta.com/experiences/5616986801647861/"],
+  "source_urls": ["https://10k.science/", "https://10k.science/content", "https://dashboard.10k.science/", "https://viewer.10k.science/", "https://www.meta.com/experiences/5616986801647861/"],
   "last_reviewed": "2026-04-28"
 }

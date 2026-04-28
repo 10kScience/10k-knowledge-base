@@ -82,7 +82,7 @@ See [Research And Evaluation]({{ site.baseurl }}/content/evidence/research-and-e
 
 ## Access And Availability
 
-10k Science is available on [Meta Quest](https://www.meta.com/experiences/5616986801647861/) and on the web through the [10k Science Web Viewer](https://viewer.10k.science/). Access status changes over time. For current availability, trials, subscriptions, and organizational licensing, use the live [10k Science pricing page](https://10k.science/pricing).
+10k Science is available on [Meta Quest](https://www.meta.com/experiences/5616986801647861/) and on the web through the [10k Science Web Viewer](https://viewer.10k.science/). Educators can [start a free trial account](https://dashboard.10k.science/) for the web platform, including the web viewer and Educator Dashboard. Access status changes over time. For current availability, trials, subscriptions, and organizational licensing, use the live [10k Science pricing page](https://10k.science/pricing).
 
 ## Related Pages
 

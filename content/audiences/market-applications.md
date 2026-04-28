@@ -83,7 +83,7 @@ Across these markets, the strongest fit is for topics where audiences need more 
 - Audience-specific versions of the same core scientific experience
 - Delivery through a browser, VR headset, classroom workflow, event setting, or organizational deployment
 
-The [10k Science content library](https://10k.science/content) shows examples of science topics already represented in the platform, and the [10k Science Web Viewer](https://viewer.10k.science/) provides a browser-based way to try an immersive science experience.
+The [10k Science content library](https://10k.science/content) shows examples of science topics already represented in the platform, and the [10k Science Web Viewer](https://viewer.10k.science/) provides a browser-based way to try an immersive science experience. Educators can [start a free trial account](https://dashboard.10k.science/) for the web platform, including the web viewer and Educator Dashboard.
 
 ## Related Pages
 
