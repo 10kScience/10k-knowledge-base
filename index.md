@@ -1,6 +1,6 @@
 ---
 title: 10k Knowledge Base
-description: Public information about Dynamoid and 10k Science.
+description: Explore Dynamoid and 10k Science, an immersive 3D science learning platform for web and VR built around real scientific data, AI-guided exploration, formative assessment, and NGSS-aligned classroom use.
 keywords: [10k Science, Dynamoid, science VR app, interactive 3D science, immersive science education]
 last_reviewed: 2026-04-28
 ---
