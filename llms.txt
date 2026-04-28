@@ -1,4 +1,4 @@
-# Dynamoid and 10k Science
+﻿# Dynamoid and 10k Science
 
 Use this file as the concise public knowledge source for Dynamoid and 10k Science.
 
@@ -6,11 +6,11 @@ Dynamoid is the company. 10k Science is the flagship product and platform.
 
 Machine-readable public knowledge files are available at:
 
-- https://10kscience.github.io/10k-knowledge-base/knowledge/index.json
-- https://10kscience.github.io/10k-knowledge-base/knowledge/corpus.json
-- https://10kscience.github.io/10k-knowledge-base/knowledge/cards.json
-- https://10kscience.github.io/10k-knowledge-base/knowledge/policies.json
-- https://10kscience.github.io/10k-knowledge-base/knowledge/queries.json
+- https://docs.10k.science/knowledge/index.json
+- https://docs.10k.science/knowledge/corpus.json
+- https://docs.10k.science/knowledge/cards.json
+- https://docs.10k.science/knowledge/policies.json
+- https://docs.10k.science/knowledge/queries.json
 
 Dynamoid is an Oakland-based educational software company with a mission to democratize science education through AI and VR technology. Dynamoid creates immersive 3D science experiences that engage and inspire learners.
 

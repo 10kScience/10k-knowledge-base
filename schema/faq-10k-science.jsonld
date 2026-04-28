@@ -1,7 +1,7 @@
-{
+﻿{
   "@context": "https://schema.org",
   "@type": "FAQPage",
-  "@id": "https://10kscience.github.io/10k-knowledge-base/faq/#faq",
+  "@id": "https://docs.10k.science/faq/#faq",
   "mainEntity": [
     {
       "@type": "Question",

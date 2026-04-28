@@ -3,7 +3,7 @@
     "version":  "2026-04-28",
     "status":  "public",
     "description":  "Combined public knowledge chunks for Dynamoid and 10k Science, generated from knowledge/index.json.",
-    "base_url":  "https://10kscience.github.io/10k-knowledge-base/",
+    "base_url":  "https://docs.10k.science/",
     "generated_from":  [
                            "knowledge/index.json",
                            "knowledge/chunks/*.json"
@@ -12,7 +12,7 @@
     "chunks":  [
                    {
                        "path":  "chunks/company-dynamoid.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/company-dynamoid.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/company-dynamoid.json",
                        "id":  "company-dynamoid",
                        "status":  "public",
                        "audiences":  [
@@ -34,11 +34,11 @@
                                        ],
                        "canonical_page":  "../../content/company/dynamoid.md",
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/company/dynamoid/"
+                       "canonical_url":  "https://docs.10k.science/content/company/dynamoid/"
                    },
                    {
                        "path":  "chunks/educators.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/educators.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/educators.json",
                        "id":  "educators",
                        "status":  "public",
                        "audiences":  [
@@ -110,11 +110,11 @@
                                            "https://lawrencehallofscience.org/"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/audiences/educators/"
+                       "canonical_url":  "https://docs.10k.science/content/audiences/educators/"
                    },
                    {
                        "path":  "chunks/product-overview.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/product-overview.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/product-overview.json",
                        "id":  "product-overview",
                        "status":  "public",
                        "audiences":  [
@@ -160,11 +160,11 @@
                                            "https://10k.science/pricing"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/product/10k-science/overview/"
+                       "canonical_url":  "https://docs.10k.science/content/product/10k-science/overview/"
                    },
                    {
                        "path":  "chunks/dashboard-guides-analytics.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/dashboard-guides-analytics.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/dashboard-guides-analytics.json",
                        "id":  "dashboard-guides-analytics",
                        "status":  "public",
                        "audiences":  [
@@ -248,11 +248,11 @@
                                            "https://www.nextgenscience.org/"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/product/10k-science/dashboard-guides-analytics/"
+                       "canonical_url":  "https://docs.10k.science/content/product/10k-science/dashboard-guides-analytics/"
                    },
                    {
                        "path":  "chunks/formative-assessment.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/formative-assessment.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/formative-assessment.json",
                        "id":  "formative-assessment",
                        "status":  "public",
                        "audiences":  [
@@ -278,11 +278,11 @@
                                            "https://dashboard.10k.science/"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/product/10k-science/dashboard-guides-analytics/"
+                       "canonical_url":  "https://docs.10k.science/content/product/10k-science/dashboard-guides-analytics/"
                    },
                    {
                        "path":  "chunks/content-library.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/content-library.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/content-library.json",
                        "id":  "content-library",
                        "status":  "public",
                        "audiences":  [
@@ -621,11 +621,11 @@
                                            "https://viewer.10k.science/"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/product/10k-science/content-library/"
+                       "canonical_url":  "https://docs.10k.science/content/product/10k-science/content-library/"
                    },
                    {
                        "path":  "chunks/researchers-and-creators.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/researchers-and-creators.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/researchers-and-creators.json",
                        "id":  "researchers-and-creators",
                        "status":  "public",
                        "audiences":  [
@@ -654,11 +654,11 @@
                                        ],
                        "canonical_page":  "../../content/audiences/researchers-and-creators.md",
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/audiences/researchers-and-creators/"
+                       "canonical_url":  "https://docs.10k.science/content/audiences/researchers-and-creators/"
                    },
                    {
                        "path":  "chunks/research-evidence.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/research-evidence.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/research-evidence.json",
                        "id":  "research-evidence",
                        "status":  "public",
                        "audiences":  [
@@ -682,11 +682,11 @@
                                        ],
                        "canonical_page":  "../../content/evidence/research-and-evaluation.md",
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/evidence/research-and-evaluation/"
+                       "canonical_url":  "https://docs.10k.science/content/evidence/research-and-evaluation/"
                    },
                    {
                        "path":  "chunks/history.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/history.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/history.json",
                        "id":  "history",
                        "status":  "public",
                        "audiences":  [
@@ -722,11 +722,11 @@
                                            "https://10k.science/content"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/evidence/history/"
+                       "canonical_url":  "https://docs.10k.science/content/evidence/history/"
                    },
                    {
                        "path":  "chunks/funding-and-support.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/funding-and-support.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/funding-and-support.json",
                        "id":  "funding-and-support",
                        "status":  "public",
                        "audiences":  [
@@ -775,11 +775,11 @@
                                            "https://10k.science/"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/evidence/funding-and-support/"
+                       "canonical_url":  "https://docs.10k.science/content/evidence/funding-and-support/"
                    },
                    {
                        "path":  "chunks/market-applications.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/market-applications.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/market-applications.json",
                        "id":  "market-applications",
                        "status":  "public",
                        "audiences":  [
@@ -810,11 +810,11 @@
                                        ],
                        "canonical_page":  "../../content/audiences/market-applications.md",
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/audiences/market-applications/"
+                       "canonical_url":  "https://docs.10k.science/content/audiences/market-applications/"
                    },
                    {
                        "path":  "chunks/pricing.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/pricing.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/pricing.json",
                        "id":  "pricing",
                        "status":  "public",
                        "audiences":  [
@@ -844,11 +844,11 @@
                                            "https://10k.science/pricing"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/policies/pricing/"
+                       "canonical_url":  "https://docs.10k.science/content/policies/pricing/"
                    },
                    {
                        "path":  "chunks/faq.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/faq.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/faq.json",
                        "id":  "faq",
                        "status":  "public",
                        "audiences":  [
@@ -932,11 +932,11 @@
                                            "https://dynamoid.com/"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/faq/"
+                       "canonical_url":  "https://docs.10k.science/faq/"
                    },
                    {
                        "path":  "chunks/discovery-science-vr-apps.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-science-vr-apps.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/discovery-science-vr-apps.json",
                        "id":  "discovery-science-vr-apps",
                        "status":  "public",
                        "audiences":  [
@@ -973,11 +973,11 @@
                                            "https://www.meta.com/experiences/5616986801647861/"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/science-vr-apps/"
+                       "canonical_url":  "https://docs.10k.science/content/discovery/science-vr-apps/"
                    },
                    {
                        "path":  "chunks/discovery-interactive-3d-science.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-interactive-3d-science.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/discovery-interactive-3d-science.json",
                        "id":  "discovery-interactive-3d-science",
                        "status":  "public",
                        "audiences":  [
@@ -1014,11 +1014,11 @@
                                            "https://www.meta.com/experiences/5616986801647861/"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/interactive-3d-science/"
+                       "canonical_url":  "https://docs.10k.science/content/discovery/interactive-3d-science/"
                    },
                    {
                        "path":  "chunks/discovery-vr-biology.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-vr-biology.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/discovery-vr-biology.json",
                        "id":  "discovery-vr-biology",
                        "status":  "public",
                        "audiences":  [
@@ -1057,11 +1057,11 @@
                                            "https://www.meta.com/experiences/5616986801647861/"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/vr-biology-app/"
+                       "canonical_url":  "https://docs.10k.science/content/discovery/vr-biology-app/"
                    },
                    {
                        "path":  "chunks/discovery-ngss-immersive-science.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-ngss-immersive-science.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/discovery-ngss-immersive-science.json",
                        "id":  "discovery-ngss-immersive-science",
                        "status":  "public",
                        "audiences":  [
@@ -1097,11 +1097,11 @@
                                            "https://lawrencehallofscience.org/"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/ngss-immersive-science/"
+                       "canonical_url":  "https://docs.10k.science/content/discovery/ngss-immersive-science/"
                    },
                    {
                        "path":  "chunks/discovery-ai-formative-assessment.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-ai-formative-assessment.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/discovery-ai-formative-assessment.json",
                        "id":  "discovery-ai-formative-assessment",
                        "status":  "public",
                        "audiences":  [
@@ -1136,11 +1136,11 @@
                                            "https://dashboard.10k.science/"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/ai-guided-formative-assessment/"
+                       "canonical_url":  "https://docs.10k.science/content/discovery/ai-guided-formative-assessment/"
                    },
                    {
                        "path":  "chunks/discovery-molecular-biology-3d.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-molecular-biology-3d.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/discovery-molecular-biology-3d.json",
                        "id":  "discovery-molecular-biology-3d",
                        "status":  "public",
                        "audiences":  [
@@ -1179,11 +1179,11 @@
                                            "https://dynamoid.com/products"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/molecular-biology-3d/"
+                       "canonical_url":  "https://docs.10k.science/content/discovery/molecular-biology-3d/"
                    },
                    {
                        "path":  "chunks/discovery-science-communication-3d.json",
-                       "url":  "https://10kscience.github.io/10k-knowledge-base/knowledge/chunks/discovery-science-communication-3d.json",
+                       "url":  "https://docs.10k.science/knowledge/chunks/discovery-science-communication-3d.json",
                        "id":  "discovery-science-communication-3d",
                        "status":  "public",
                        "audiences":  [
@@ -1219,7 +1219,7 @@
                                            "https://10k.science/bootcamp-3"
                                        ],
                        "last_reviewed":  "2026-04-28",
-                       "canonical_url":  "https://10kscience.github.io/10k-knowledge-base/content/discovery/science-communication-3d/"
+                       "canonical_url":  "https://docs.10k.science/content/discovery/science-communication-3d/"
                    }
                ]
 }

@@ -1,8 +1,8 @@
 title: 10k Knowledge Base
 description: Public knowledge base for Dynamoid and 10k Science, an immersive 3D science learning platform for web and VR built with real scientific data, AI Guides, formative assessment, and educator insights.
-url: "https://10kscience.github.io"
-baseurl: "/10k-knowledge-base"
-image: "https://10kscience.github.io/10k-knowledge-base/assets/images/10k-science-landscape.png"
+url: "https://docs.10k.science"
+baseurl: ""
+image: "https://docs.10k.science/assets/images/10k-science-landscape.png"
 timezone: America/Los_Angeles
 lang: en-US
 markdown: kramdown
@@ -16,4 +16,4 @@ defaults:
       path: ""
     values:
       layout: default
-      image: "https://10kscience.github.io/10k-knowledge-base/assets/images/10k-science-landscape.png"
+      image: "https://docs.10k.science/assets/images/10k-science-landscape.png"

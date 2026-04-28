@@ -1,6 +1,6 @@
-{
+﻿{
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://10kscience.github.io/10k-knowledge-base/schema/card.schema.json",
+  "$id": "https://docs.10k.science/schema/card.schema.json",
   "title": "10k Adaptive Homepage Cards",
   "type": "object",
   "required": ["name", "version", "status", "base_url", "cards"],
