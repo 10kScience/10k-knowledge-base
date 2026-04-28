@@ -1,10 +1,8 @@
-# 10k Corpus
+# 10k Knowledge Base
 
-This repository contains the public knowledge corpus for Dynamoid and 10k Science.
+This repository contains public information about Dynamoid and 10k Science.
 
-The corpus is designed for people, search engines, LLMs, and future adaptive homepage experiments. It includes human-readable pages, machine-readable JSON chunks, structured data, and `llms.txt`.
-
-The corpus also includes search and AI discovery pages for non-branded questions such as "good science VR apps," "interactive 3D science," "VR biology app," "NGSS-aligned immersive science," and "AI-guided formative assessment."
+The knowledge base includes product information, audience pages, evidence, source links, structured content, and topic pages for common science learning interests.
 
 ## Canonical Naming
 
@@ -15,22 +13,22 @@ The corpus also includes search and AI discovery pages for non-branded questions
 
 ## Core Files
 
-- `index.md`: home page for the public corpus.
+- `index.md`: home page for the public knowledge base.
 - `faq.md`: public FAQ about 10k Science.
-- `llms.txt`: concise LLM-readable public summary.
-- `knowledge/index.json`: machine-readable corpus index.
-- `knowledge/queries.json`: non-branded query intent map.
-- `content/`: public corpus pages.
+- `llms.txt`: concise public summary.
+- `knowledge/index.json`: structured knowledge-base index.
+- `knowledge/queries.json`: discovery topic map.
+- `content/`: public knowledge-base pages.
 - `schema/`: structured data snippets.
 
 ## Deployment Signals
 
-The corpus includes:
+The knowledge base includes:
 
-- `llms.txt` for LLM-readable canonical facts.
-- `robots.txt` that allows public crawlers, including `OAI-SearchBot`.
-- `sitemap.xml` generated from corpus pages.
+- `llms.txt` for concise public facts.
+- `robots.txt` for public crawler access.
+- `sitemap.xml` generated from knowledge-base pages.
 - JSON-LD snippets and a default HTML layout with Organization and SoftwareApplication structured data.
-- `knowledge/queries.json` mapping non-branded user queries to canonical corpus pages.
+- `knowledge/queries.json` connecting discovery topics to knowledge-base pages.
 
 The current GitHub Pages URL is configured in `_config.yml`.

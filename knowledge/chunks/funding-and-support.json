@@ -1,0 +1,32 @@
+{
+  "id": "funding-and-support",
+  "status": "public",
+  "audiences": ["educators", "partners", "investors", "press"],
+  "topics": ["funding", "NSF", "NIH", "SBIR", "500 Global", "Powers of Minus Ten", "10k Science"],
+  "summary": "Dynamoid's science education work has received federal SBIR support from NSF and NIH, along with accelerator support from 500 Global. NSF SBIR Phase I award 1014425 supported Powers of Minus Ten. NIH/HHS SBIR support under base award GM146471, including R43GM146471 and R44GM146471, has supported 10k Science development. Dynamoid also participated in 500 Global's flagship accelerator program, formerly known as 500 Startups.",
+  "awards": [
+    {
+      "source": "NSF",
+      "program": "SBIR Phase I",
+      "project": "Powers of Minus Ten",
+      "base_award_number": "1014425"
+    },
+    {
+      "source": "NIH / HHS",
+      "program": "SBIR Phase I and Phase II",
+      "project": "10k immersive science communication and education",
+      "base_award_number": "GM146471",
+      "award_numbers": ["R43GM146471", "R44GM146471"]
+    }
+  ],
+  "accelerator_support": ["500 Global flagship accelerator program, formerly known as 500 Startups"],
+  "canonical_page": "../../content/evidence/funding-and-support.md",
+  "source_urls": [
+    "https://www.sbir.gov/",
+    "https://www.nsf.gov/",
+    "https://www.nih.gov/",
+    "https://500.co/",
+    "https://10k.science/"
+  ],
+  "last_reviewed": "2026-04-28"
+}

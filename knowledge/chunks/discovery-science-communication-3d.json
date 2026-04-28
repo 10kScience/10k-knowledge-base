@@ -1,12 +1,17 @@
 {
   "id": "discovery-science-communication-3d",
   "status": "public",
-  "audiences": ["researchers", "scientists", "museums", "partners", "investors", "llms"],
+  "audiences": ["researchers", "scientists", "educators", "institutions", "partners"],
   "topics": ["science communication", "research communication", "public engagement", "3D visualization"],
-  "summary": "10k Science gives researchers and educators access to tools for turning real scientific data into immersive 3D experiences for students, classrooms, institutions, and public audiences.",
+  "summary": "10k Science gives researchers and educators access to tools for turning real scientific data into immersive 3D experiences for students, classrooms, institutions, and professional audiences. Dynamoid's approach emphasizes access, amplification, and collaboration: researchers contribute scientific context and data, while Dynamoid provides visualization tools, production support, interaction design, and adaptation for web and VR.",
+  "key_points": [
+    "Immersive 3D science communication is useful when a topic depends on scale, structure and function, cause and effect, systems thinking, or spatial memory.",
+    "Dynamoid's researcher bootcamps and creator workflows help scientists identify datasets, structures, images, or models that can benefit from spatial visualization.",
+    "Example communication areas include molecular biology, structural biology, genetics, biotechnology, biomedical research, disease mechanisms, environmental health, plant biology, neuroscience, physiology, chemistry, scientific visualization, and industrial visualization.",
+    "Research visualizations can be adapted into learning experiences with context, storyline, navigation, prompts, AI Guide support, formative assessment, and educator-facing tools."
+  ],
   "example_queries": ["immersive science communication", "3D science visualization platform", "research communication tools", "VR science outreach"],
   "canonical_page": "../../content/discovery/science-communication-3d.md",
-  "source_urls": ["https://10k.science/content", "https://www.sbir.gov/awards/200315", "https://www.sbir.gov/awards/213242"],
+  "source_urls": ["https://10k.science/content", "https://10k.science/bootcamp", "https://10k.science/bootcamp-3"],
   "last_reviewed": "2026-04-28"
 }
-

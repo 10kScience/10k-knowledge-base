@@ -19,17 +19,16 @@ Dynamoid's flagship product is 10k Science, an immersive 3D science learning pla
 - Laura Lynn Gonzalez, CEO
 - Jack Schonbrun, CTO
 
-## Public Company Description
+## Company Description
 
 Dynamoid builds tools and experiences for communicating science through immersive 3D environments. The company's work combines science visualization, learning design, interactive media, real scientific data, and AI-assisted instruction.
 
-The company describes itself publicly as a small company based in Oakland, California, with a mission of democratizing science education through AI and VR technology.
+Dynamoid is based in Oakland, California, and has a mission of democratizing science education through AI and VR technology.
 
 ## Historical Foundation
 
 Dynamoid's earlier work includes Powers of Minus Ten, an NSF-funded, award-winning educational app that zooms learners into the human body to explore cells, proteins, and molecules. Powers of Minus Ten reached 700,000+ users and established Dynamoid's long-running focus on scientific scale, visual explanation, and interactive learning.
 
-## Public Contact
+## Contact
 
 Use the current Dynamoid and 10k Science websites for contact, product access, and pricing.
-

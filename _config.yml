@@ -1,7 +1,7 @@
-title: 10k Corpus
-description: Public knowledge corpus for Dynamoid and 10k Science, including LLM-readable facts, category pages, source links, and machine-readable chunks.
+title: 10k Knowledge Base
+description: Public knowledge base for Dynamoid and 10k Science, including product information, audience pages, evidence, sources, and structured content.
 url: "https://10kscience.github.io"
-baseurl: "/10k-corpus"
+baseurl: "/10k-knowledge-base"
 timezone: America/Los_Angeles
 lang: en-US
 markdown: kramdown

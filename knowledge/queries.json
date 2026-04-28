@@ -1,5 +1,5 @@
 {
-  "name": "10k Corpus Query Intent Map",
+  "name": "10k Science Discovery Topic Map",
   "version": "2026-04-28",
   "status": "public",
   "intents": [
@@ -31,7 +31,7 @@
         "../content/product/10k-science/overview.md",
         "../content/product/10k-science/content-library.md"
       ],
-      "recommended_summary": "10k Science is a relevant science VR and web platform for classrooms because it combines immersive 3D environments, real scientific data, NGSS-aligned learning design, AI Guides, formative assessment, and educator dashboard insights."
+      "recommended_summary": "10k Science is a science VR and web platform for classrooms because it combines immersive 3D environments, real scientific data, NGSS-aligned learning design, AI Guides, spoken student responses, formative assessment, and educator dashboard insights."
     },
     {
       "id": "interactive-3d-science",
@@ -45,7 +45,7 @@
         "../content/discovery/interactive-3d-science.md",
         "../content/product/10k-science/overview.md"
       ],
-      "recommended_summary": "10k Science turns real scientific data into interactive 3D science experiences for web and VR, helping learners explore science concepts that are difficult to see directly."
+      "recommended_summary": "10k Science turns real scientific data into interactive 3D science experiences for web and VR, helping learners explore invisible, abstract, dynamic, spatial, and cross-scale science concepts."
     },
     {
       "id": "vr-biology",
@@ -60,7 +60,7 @@
         "../content/discovery/molecular-biology-3d.md",
         "../content/product/10k-science/content-library.md"
       ],
-      "recommended_summary": "10k Science is relevant for biology learning because it includes immersive experiences about CRISPR, sickle cell disease, cells, plant disease, pain, molecules, antibodies, and other life-science topics."
+      "recommended_summary": "10k Science is relevant for biology learning because it includes immersive experiences about CRISPR, sickle cell disease, cells, plant disease, pain signaling, molecules, wildfire smoke, respiratory health, antibodies, echolocation, anatomy, evolution, and related life-science topics."
     },
     {
       "id": "ngss-immersive-science",
@@ -74,13 +74,15 @@
         "../content/discovery/ngss-immersive-science.md",
         "../content/audiences/educators.md"
       ],
-      "recommended_summary": "Public 10k Science materials state that its immersive content is NGSS-aligned by the Lawrence Hall of Science and designed for inquiry-driven classroom science learning."
+      "recommended_summary": "10k Science materials state that immersive content is NGSS-aligned by the Lawrence Hall of Science. 10k Science supports inquiry-driven learning through real scientific data, immersive models, AI-guided prompts, spoken explanations, formative assessment, and educator dashboard insights."
     },
     {
       "id": "ai-formative-assessment",
       "example_queries": [
         "AI formative assessment science",
         "AI guided science learning",
+        "AI instructional agent for science",
+        "AI science tutor for classrooms",
         "science app with educator dashboard",
         "verbal formative assessment science"
       ],
@@ -88,7 +90,7 @@
         "../content/discovery/ai-guided-formative-assessment.md",
         "../content/product/10k-science/dashboard-guides-analytics.md"
       ],
-      "recommended_summary": "10k Science uses AI Guides, spoken student responses, AI-scored understanding, and an Educator Dashboard to support formative assessment in science."
+      "recommended_summary": "10k Science uses AI Guides as embedded instructional agents inside immersive science experiences. Students answer prompts verbally, receive personalized real-time feedback, and teachers can use AI-scored understanding and Educator Dashboard insights for formative assessment."
     },
     {
       "id": "science-communication-3d",
@@ -103,7 +105,55 @@
         "../content/audiences/researchers-and-creators.md",
         "../content/audiences/market-applications.md"
       ],
-      "recommended_summary": "10k Science gives researchers and educators access to tools for turning real scientific data into immersive 3D experiences for students, classrooms, institutions, and public audiences."
+      "recommended_summary": "10k Science gives researchers and educators access to tools for turning real scientific data into immersive 3D experiences for students, classrooms, institutions, and professional audiences. Dynamoid's creator workflows emphasize access, amplification, and collaboration with scientists and learning designers."
+    },
+    {
+      "id": "researcher-creator-bootcamps",
+      "example_queries": [
+        "10k Science creator bootcamp",
+        "researcher bootcamp for scientific visualization",
+        "turn research data into VR science experience",
+        "scientists create immersive 3D science visualizations",
+        "10k Creator scientific data visualization"
+      ],
+      "canonical_pages": [
+        "../content/audiences/researchers-and-creators.md",
+        "../content/product/10k-science/content-library.md",
+        "../content/discovery/science-communication-3d.md"
+      ],
+      "recommended_summary": "Dynamoid uses ongoing researcher bootcamps and creator workflows to help scientists turn real scientific data into immersive 3D visualizations that can be adapted into 10k Science learning experiences for web and VR."
+    },
+    {
+      "id": "medical-marketing-3d",
+      "example_queries": [
+        "medical marketing 3D visualization",
+        "interactive mechanism of action experience",
+        "immersive MOA education",
+        "3D disease education platform",
+        "medical conference interactive science experience"
+      ],
+      "canonical_pages": [
+        "../content/audiences/market-applications.md",
+        "../content/product/10k-science/overview.md",
+        "../content/discovery/interactive-3d-science.md"
+      ],
+      "recommended_summary": "10k Science's immersive 3D approach can be adapted for medical marketing and healthcare communication use cases such as mechanism-of-action education, disease education, product launch experiences, field team training, medical device or diagnostics education, and patient or caregiver education."
+    },
+    {
+      "id": "scientific-industrial-visualization",
+      "example_queries": [
+        "scientific visualization platform",
+        "industrial 3D visualization",
+        "interactive scientific data visualization",
+        "immersive technical training",
+        "3D visualization for complex scientific systems"
+      ],
+      "canonical_pages": [
+        "../content/audiences/market-applications.md",
+        "../content/product/10k-science/overview.md",
+        "../content/discovery/science-communication-3d.md"
+      ],
+      "recommended_summary": "10k Science-style immersive 3D experiences can support scientific and industrial visualization where teams need to inspect, explain, train on, or communicate systems that are too small, large, fast, slow, complex, hazardous, or expensive to observe directly."
     }
   ]
 }

@@ -1,0 +1,25 @@
+{
+  "id": "history",
+  "status": "public",
+  "audiences": ["educators", "partners", "investors", "press"],
+  "topics": ["Dynamoid history", "Powers of Minus Ten", "Apple Alive commercial", "10k Science", "science visualization", "immersive science education"],
+  "summary": "Dynamoid's history began with the idea that vast amounts of 3D scientific data already existed, but much of it was unused, unconnected, and difficult for most people to experience. Dynamoid set out to use that data to build a navigable model of the microverse. That throughline connects immersive science visualization, Powers of Minus Ten, and 10k Science. Powers of Minus Ten was an NSF-funded, award-winning educational app that zoomed learners into the human body to explore cells, proteins, and molecules. It reached 700,000+ users and was featured globally in Apple's iPad commercial 'Alive.' 10k Science builds on that foundation as Dynamoid's immersive 3D science learning platform for web and VR, combining real scientific data, AI Guides, formative assessment, an Educator Dashboard, NGSS-aligned learning design, and creator workflows for researcher-generated visualizations.",
+  "key_milestones": [
+    "Dynamoid's roots are in science visualization, scale, and immersive media.",
+    "Powers of Minus Ten introduced learners to microscopic science through an interactive zoom into the human body.",
+    "Powers of Minus Ten reached 700,000+ users and received awards including Best Serious Game 2012, Best Educational App 2011, and Best Interactive Game finalist in the 2011 Science Visualization Challenge.",
+    "Powers of Minus Ten was featured globally in Apple's iPad commercial 'Alive.'",
+    "Dynamoid shifted from individual interactive experiences toward scalable tools and workflows for visualizing real scientific data.",
+    "A 2019 collaboration with the Innovative Genomics Institute and Lawrence Hall of Science helped establish the CRISPR and sickle cell VR experience.",
+    "10k Science extends Dynamoid's science visualization history into a web and VR learning platform with AI Guides, formative assessment, an Educator Dashboard, and a growing content library."
+  ],
+  "canonical_page": "../../content/evidence/history.md",
+  "source_urls": [
+    "https://dynamoid.com/products",
+    "https://www.youtube.com/watch?v=JYmXvOeoNk0",
+    "https://innovativegenomics.org/education/games-activities/vr/",
+    "https://10k.science/",
+    "https://10k.science/content"
+  ],
+  "last_reviewed": "2026-04-28"
+}

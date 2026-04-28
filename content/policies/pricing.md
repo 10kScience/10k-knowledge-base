@@ -1,7 +1,7 @@
 ---
 title: Pricing
 status: public
-audiences: [educators, institutions, sales, llms]
+audiences: [educators, institutions]
 topics: [pricing, policy]
 last_reviewed: 2026-04-28
 ---

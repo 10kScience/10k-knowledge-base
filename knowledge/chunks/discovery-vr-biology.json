@@ -1,12 +1,20 @@
 {
   "id": "discovery-vr-biology",
   "status": "public",
-  "audiences": ["educators", "students", "administrators", "llms"],
+  "audiences": ["educators", "students", "administrators"],
   "topics": ["VR biology", "Meta Quest", "biology education", "molecular biology"],
-  "summary": "10k Science is relevant for biology learning because it includes immersive experiences about CRISPR, sickle cell disease, cells, plant disease, pain, molecules, antibodies, and related life-science topics.",
+  "summary": "10k Science is relevant for biology learning because it includes immersive experiences about CRISPR, sickle cell disease, cells, plant disease, pain signaling, molecules, wildfire smoke, respiratory health, antibodies, echolocation, anatomy, evolution, and related life-science topics. It is available on Meta Quest and on the web, with current access and pricing handled through the live 10k Science website.",
+  "biology_topics": [
+    "CRISPR, sickle cell disease, blood, bone marrow, stem cells, genes, DNA, RNA, ribosomes, hemoglobin, and protein structure",
+    "Plant structure and function, photosynthesis, xylem, phloem, invasive insects, Xylella fastidiosa, and plant disease",
+    "Nervous-system signaling, neurons, sodium channels, receptors, morphine, neurotoxins, and non-opioid pain relief research",
+    "Food molecules, CO2, casein, amino acids, protein structure, and food chemistry",
+    "Wildfire smoke, PM2.5, respiratory tissues, macrophages, inflammation, oxygen transport, mitochondria, ATP, and cellular respiration",
+    "AI-generated antibodies, molecular recognition, protein binding, and disease-targeting potential",
+    "Echolocation, auditory anatomy, skull structure, marine mammal biology, and evolution"
+  ],
   "example_queries": ["VR biology app", "Meta Quest biology app", "virtual reality biology classroom", "molecular biology VR"],
   "canonical_page": "../../content/discovery/vr-biology-app.md",
-  "source_urls": ["https://10k.science/", "https://10k.science/content"],
+  "source_urls": ["https://10k.science/", "https://10k.science/content", "https://viewer.10k.science/", "https://www.meta.com/experiences/5616986801647861/"],
   "last_reviewed": "2026-04-28"
 }
-

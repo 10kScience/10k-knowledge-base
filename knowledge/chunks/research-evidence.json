@@ -3,7 +3,7 @@
   "status": "public",
   "audiences": ["educators", "institutions", "investors", "press"],
   "topics": ["research", "evaluation", "engagement", "educator-survey"],
-  "summary": "10k Science has public evidence of strong student engagement and evidence of promise for learning. Public materials describe a 137-student pilot, 22 of 28 students preferring VR over reading or video, +15% content knowledge gains, 78% student engagement, a Stevens pilot where over 92% of undergraduates said the experience enhanced learning, and a 60+ educator survey identifying time, engagement, funding, feedback, and motivation challenges.",
+  "summary": "10k Science has evidence of strong student engagement and evidence of promise for learning. Materials describe a 137-student pilot, 22 of 28 students preferring VR over reading or video, +15% content knowledge gains, 78% student engagement, a Stevens pilot where over 92% of undergraduates said the experience enhanced learning, and a 60+ educator survey identifying time, engagement, funding, feedback, and motivation challenges.",
   "source_urls": [
     "https://10k.science/stories/learning-with-10k-student-interview-findings",
     "https://10k.science/stories/educator-challenges-survey",
@@ -12,4 +12,3 @@
   ],
   "last_reviewed": "2026-04-28"
 }
-

@@ -1,5 +1,5 @@
 {
-  "name": "10k Corpus",
+  "name": "10k Knowledge Base",
   "version": "2026-04-28",
   "status": "public",
   "canonical_naming": {
@@ -27,7 +27,10 @@
     "chunks/product-overview.json",
     "chunks/formative-assessment.json",
     "chunks/content-library.json",
+    "chunks/researchers-and-creators.json",
     "chunks/research-evidence.json",
+    "chunks/history.json",
+    "chunks/funding-and-support.json",
     "chunks/market-applications.json",
     "chunks/faq.json",
     "chunks/discovery-science-vr-apps.json",

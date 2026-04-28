@@ -1,12 +1,79 @@
 {
   "id": "content-library",
   "status": "public",
-  "audiences": ["educators", "students", "researchers"],
-  "topics": ["content-library", "experiences", "real-science-data"],
-  "summary": "The 10k Science content library includes publicly listed experiences such as CRISPR & Sickle Cell, Trouble in Sunshine Creek, Pain & Painkillers, Snack Shack, LA Wildfires, AI Antibodies, Seeing With Sound, Quantum Plants?!, and Orbitals Are Fun. Current access status is available on the live 10k Science site.",
+  "audiences": ["educators", "students", "researchers", "institutions"],
+  "topics": ["content library", "immersive science experiences", "real scientific data", "NGSS", "biology", "chemistry", "environmental science", "health science", "formative assessment"],
+  "summary": "The 10k Science content library includes immersive 3D science experiences for web and VR, built around real scientific data, inquiry-driven learning, AI-guided exploration, and NGSS-aligned educational design. Publicly listed experiences include CRISPR & Sickle Cell, Trouble in Sunshine Creek, Snack Shack, Pain & Painkillers, LA Wildfires, AI Antibodies, Seeing With Sound, Quantum Plants?!, and Orbitals Are Fun. Learning topics span molecular genetics, protein synthesis, plant structure and photosynthesis, bacteria and disease vectors, food chemistry, nervous system signaling, pharmacology, wildfire smoke, PM2.5, respiratory and circulatory systems, cellular respiration, air filtration, antibodies, echolocation, evolution, atomic orbitals, and quantum chemistry.",
+  "canonical_page": "../../content/product/10k-science/content-library.md",
+  "experience_topics": [
+    {
+      "experience": "CRISPR & Sickle Cell",
+      "learning_topics": ["sickle cell disease", "red blood cells", "hemoglobin", "oxygen transport", "bone marrow", "blood stem cells", "DNA", "genes", "mutation", "mRNA", "tRNA", "ribosomes", "translation", "protein folding", "protein structure and function", "CRISPR-Cas9", "guide RNA", "donor DNA", "DNA repair", "scale transitions"],
+      "classroom_fit": ["molecular genetics", "heredity", "mutation", "biotechnology", "gene editing", "blood and circulatory systems"],
+      "ngss_connections": ["HS-LS1-1", "HS-LS1-2", "HS-LS3-1", "HS-LS3-2", "MS-LS3-1", "MS-LS3-2", "HS-ETS1-2", "HS-ETS1-3"]
+    },
+    {
+      "experience": "Trouble in Sunshine Creek",
+      "learning_topics": ["grapevine anatomy", "xylem", "phloem", "water transport", "plant cells", "chloroplasts", "chlorophyll", "photosynthesis", "Pierce's disease", "leaf scorch", "Xylella fastidiosa", "glassy-winged sharpshooter", "stylet anatomy", "pathogen transmission", "bacteria", "lipid bilayer", "DNA", "ribosomes", "translation", "antibiotics"],
+      "classroom_fit": ["plant structure and function", "photosynthesis", "plant transport systems", "bacteria", "pathogens", "antibiotics", "invasive species", "crop disease management"],
+      "ngss_connections": ["MS-LS1-1", "MS-LS1-2", "MS-LS1-6", "HS-LS1-5", "HS-LS1-2", "HS-LS1-1", "MS-LS2-2", "HS-LS2-6", "HS-LS4-6"]
+    },
+    {
+      "experience": "Snack Shack",
+      "learning_topics": ["carbon dioxide", "CO2", "bubbles", "carbonation", "gas dissolved under pressure", "molecular models", "casein", "amino acids", "protein structure", "milk chemistry", "food chemistry"],
+      "classroom_fit": ["atoms and molecules", "gases", "solutions", "pressure", "structure-property relationships", "biological macromolecules", "food science"],
+      "ngss_connections": ["MS-PS1-1", "MS-PS1-4", "HS-PS1-2", "HS-PS1-3", "HS-LS1-6", "HS-LS1-1"]
+    },
+    {
+      "experience": "Pain & Painkillers",
+      "learning_topics": ["nervous system", "brain", "spine", "peripheral nerves", "neurons", "dendrites", "axons", "synapses", "Schwann cells", "pain signaling", "sodium ions", "voltage-gated sodium channels", "neurotransmitters", "receptors", "morphine", "opioid receptors", "blood-brain barrier", "tarantula venom", "Protoxin-II", "neurotoxic proteins", "drug targeting"],
+      "classroom_fit": ["nervous system", "cell membranes", "ion channels", "signal transduction", "synapses", "neurotransmitters", "pain pathways", "pharmacology", "health science"],
+      "ngss_connections": ["MS-LS1-8", "HS-LS1-2", "HS-LS1-3", "HS-LS1-1", "HS-PS2-6", "HS-ETS1-2", "HS-ETS1-3"]
+    },
+    {
+      "experience": "LA Wildfires and wildfire learning modules",
+      "learning_topics": ["wildfire smoke", "PM2.5", "soot", "AQI", "indoor and outdoor air", "air purifiers", "lungs", "bronchioles", "alveoli", "oxygen transfer", "macrophages", "inflammation", "cytokines", "red blood cells", "hemoglobin", "cellular respiration", "mitochondria", "ATP", "glycolysis", "citric acid cycle", "electron transport chain", "particle size", "filtration", "risk reduction"],
+      "classroom_fit": ["respiratory system", "circulatory system", "immune response", "cellular respiration", "environmental health", "air pollution", "particulate matter", "wildfire smoke", "natural hazards", "engineering design"],
+      "ngss_connections": ["MS-LS1-3", "MS-LS1-7", "HS-LS1-2", "HS-LS1-3", "HS-LS1-7", "MS-ESS3-3", "MS-ESS3-4", "HS-ESS3-4", "HS-LS2-7", "MS-ETS1-1", "MS-ETS1-2", "MS-ETS1-3", "HS-ETS1-2", "HS-ETS1-3"]
+    },
+    {
+      "experience": "AI Antibodies",
+      "learning_topics": ["AI-generated antibodies", "molecular binding", "disease targets", "protein structure", "biomedical design"],
+      "classroom_fit": ["molecular biology", "biotechnology", "protein structure", "therapeutic targeting"],
+      "ngss_connections": []
+    },
+    {
+      "experience": "Seeing With Sound",
+      "learning_topics": ["sound", "hearing", "echolocation", "auditory anatomy", "skull structure", "evolutionary adaptation", "marine mammal biology"],
+      "classroom_fit": ["evolution", "anatomy", "sensory systems", "animal biology"],
+      "ngss_connections": []
+    },
+    {
+      "experience": "Quantum Plants?!",
+      "learning_topics": ["plant biology", "energy transfer", "quantum phenomena in biological systems"],
+      "classroom_fit": ["plant biology", "photosynthesis", "energy transfer"],
+      "ngss_connections": []
+    },
+    {
+      "experience": "Orbitals Are Fun",
+      "learning_topics": ["atomic orbitals", "electron distribution", "quantum mechanics", "spatial models", "chemistry"],
+      "classroom_fit": ["atomic structure", "chemistry models", "quantum chemistry"],
+      "ngss_connections": []
+    }
+  ],
+  "topic_clusters": [
+    "molecular biology and protein function",
+    "human body systems and health",
+    "energy and matter in organisms",
+    "environmental health and human impacts",
+    "engineering and biomedical interventions",
+    "chemistry and physical science"
+  ],
   "source_urls": [
     "https://10k.science/content",
-    "https://10k.science/pricing"
+    "https://10k.science/educators",
+    "https://10k.science/pricing",
+    "https://viewer.10k.science/"
   ],
   "last_reviewed": "2026-04-28"
 }

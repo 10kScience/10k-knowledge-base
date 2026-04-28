@@ -1,6 +1,6 @@
 ---
 title: Public Sources
-description: Public source URLs used by the 10k Corpus for approved information about Dynamoid and 10k Science.
+description: Public source URLs used by the 10k Knowledge Base for information about Dynamoid and 10k Science.
 last_reviewed: 2026-04-28
 ---
 
@@ -32,6 +32,5 @@ These are public sources for information about Dynamoid and 10k Science.
 
 ## Public Award Records
 
-- [NSF SBIR Phase I: Powers of Minus Ten](https://www.sbir.gov/awards/6631)
-- [NIH/HHS SBIR Phase I: 10k](https://www.sbir.gov/awards/200315)
-- [NIH/HHS SBIR Phase II: 10k](https://www.sbir.gov/awards/213242)
+- SBIR.gov award records for NSF award `1014425`.
+- SBIR.gov award records for NIH/HHS base award `GM146471`, including `R43GM146471` and `R44GM146471`.

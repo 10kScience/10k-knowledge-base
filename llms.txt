@@ -54,9 +54,8 @@ Approved historical notes:
 Funding and support:
 
 - NSF SBIR Phase I for Powers of Minus Ten: award/contract number 1014425.
-- NIH/HHS SBIR Phase I for 10k, "A platform for immersive science communication": contract 1R43GM146471-01, agency tracking number R43GM146471.
-- NIH/HHS SBIR Phase II for 10k, "A platform for immersive science education": contract 2R44GM146471-02, agency tracking number R44GM146471.
-- Public Dynamoid and 10k Science pages also identify support from NSF, NIH, and 500.co.
+- NIH/HHS SBIR Phase I and Phase II for 10k: base award number GM146471, including Phase I R43GM146471 and Phase II R44GM146471.
+- Dynamoid participated in 500 Global's flagship accelerator program, formerly known as 500 Startups.
 
 Public research and evaluation signals:
 

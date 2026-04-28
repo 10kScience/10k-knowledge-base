@@ -1,12 +1,11 @@
 {
   "id": "discovery-ai-formative-assessment",
   "status": "public",
-  "audiences": ["educators", "administrators", "institutions", "llms"],
-  "topics": ["AI Guides", "formative assessment", "educator dashboard", "science assessment"],
-  "summary": "10k Science uses AI Guides, spoken student responses, AI-scored understanding, and an Educator Dashboard to support formative assessment in science.",
-  "example_queries": ["AI formative assessment science", "AI guided science learning", "science app with educator dashboard", "verbal formative assessment science"],
+  "audiences": ["educators", "administrators", "institutions"],
+  "topics": ["AI Guides", "instructional agents", "formative assessment", "spoken responses", "real-time feedback", "educator dashboard", "science assessment"],
+  "summary": "10k Science uses AI Guides as embedded instructional agents inside immersive science experiences. AI Guides audibly orient students, prompt observation and explanation, listen to spoken responses, provide personalized real-time feedback, support AI-scored understanding of key concepts, and surface student thinking through an Educator Dashboard for formative assessment.",
+  "example_queries": ["AI formative assessment science", "AI guided science learning", "AI instructional agent for science", "science app with educator dashboard", "verbal formative assessment science", "AI science tutor for classrooms"],
   "canonical_page": "../../content/discovery/ai-guided-formative-assessment.md",
-  "source_urls": ["https://10k.science/educators", "https://10k.science/press-kit"],
+  "source_urls": ["https://10k.science/educators", "https://10k.science/web", "https://10k.science/pilot", "https://10k.science/pricing"],
   "last_reviewed": "2026-04-28"
 }
-

@@ -1,13 +1,14 @@
 {
   "id": "market-applications",
   "status": "public",
-  "audiences": ["partners", "investors", "institutions", "press"],
-  "topics": ["applications", "scale", "education", "research", "outreach"],
-  "summary": "10k Science can apply to K-12 science, higher education, research communication, museums and science centers, public outreach, curriculum partnerships, and professional learning wherever people need to understand scientific or technical systems that are invisible, abstract, dynamic, or hard to observe directly.",
+  "audiences": ["education leaders", "institutions", "healthcare marketers", "scientific organizations", "industrial teams", "partners", "investors"],
+  "topics": ["market applications", "K-12 education", "higher education", "medical marketing", "scientific visualization", "industrial visualization"],
+  "summary": "10k Science's immersive 3D approach can support K-12 science education, higher education, medical marketing, and scientific or industrial visualization by making invisible, abstract, spatial, or dynamic scientific systems easier to understand through web and VR experiences.",
   "source_urls": [
     "https://10k.science/",
     "https://10k.science/educators",
     "https://10k.science/content",
+    "https://viewer.10k.science/",
     "https://dynamoid.com/"
   ],
   "last_reviewed": "2026-04-28"

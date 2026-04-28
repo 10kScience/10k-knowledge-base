@@ -8,13 +8,13 @@ last_reviewed: 2026-04-28
 
 # Research And Evaluation
 
-10k Science has shown strong engagement signals and evidence of promise for science learning in public pilot and survey materials.
+10k Science has shown strong engagement signals and evidence of promise for science learning in pilot and survey materials.
 
 ## Student Pilot
 
-Public 10k Science materials describe a pilot involving 137 students from Oakland School for the Arts. Students were randomly assigned to use a 10k Science VR experience or watch a video with the same content.
+10k Science materials describe a pilot involving 137 students from Oakland School for the Arts. Students were randomly assigned to use a 10k Science VR experience or watch a video with the same content.
 
-Publicly reported student feedback includes:
+Reported student feedback includes:
 
 - 22 out of 28 interviewed or surveyed students said the 10k Science VR experience was better than reading or video.
 - Students cited interactivity, engagement, visualization, spatial information, memorability, motivation, and immersion.
@@ -22,7 +22,7 @@ Publicly reported student feedback includes:
 - Students in the VR condition described more ideas in more detail overall than students in the video condition.
 - More than three times as many students wrote a positive response in the VR condition than in the video condition.
 
-Public launch materials also report:
+Launch materials also report:
 
 - +15% content knowledge gains in Dynamoid pilot studies with high school students
 - 78% student engagement

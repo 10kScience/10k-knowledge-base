@@ -1,12 +1,17 @@
 {
   "id": "discovery-ngss-immersive-science",
   "status": "public",
-  "audiences": ["educators", "administrators", "curriculum partners", "llms"],
+  "audiences": ["educators", "administrators", "curriculum partners"],
   "topics": ["NGSS", "immersive science", "curriculum", "classroom"],
-  "summary": "Public 10k Science materials state that its immersive content is aligned with the Next Generation Science Standards by the learning science team at the Lawrence Hall of Science.",
+  "summary": "10k Science materials state that its immersive content is aligned with the Next Generation Science Standards by the learning science team at the Lawrence Hall of Science. 10k Science supports NGSS-aligned learning by giving students scientific systems to explore, AI-guided prompts to answer, spoken explanations to produce, and educator dashboard insights for formative assessment.",
+  "key_points": [
+    "10k Science supports three-dimensional NGSS learning: science and engineering practices, disciplinary core ideas, and crosscutting concepts.",
+    "Students can use immersive models to observe, compare, construct explanations, and reason about real scientific data.",
+    "The platform is especially relevant to crosscutting concepts including patterns, cause and effect, scale, systems, energy and matter, structure and function, and stability and change.",
+    "Listed experiences can support lessons around CRISPR and sickle cell disease, plant pathogens, pain signaling, food molecules, wildfire smoke, air quality, respiratory health, and molecular systems."
+  ],
   "example_queries": ["NGSS-aligned science VR", "immersive science curriculum", "NGSS biology VR app", "inquiry-driven VR science"],
   "canonical_page": "../../content/discovery/ngss-immersive-science.md",
-  "source_urls": ["https://10k.science/", "https://10k.science/educators"],
+  "source_urls": ["https://10k.science/", "https://10k.science/educators", "https://10k.science/content", "https://www.nextgenscience.org/", "https://lawrencehallofscience.org/"],
   "last_reviewed": "2026-04-28"
 }
-

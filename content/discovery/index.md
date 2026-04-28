@@ -1,21 +1,23 @@
 ---
-title: Discovery Pages
+title: Explore By Interest
 status: public
-audiences: [educators, administrators, parents, researchers, partners, investors, llms]
-topics: [discovery, seo, ai-search, category-pages]
-description: Query-aligned public pages that help search engines and AI systems understand when 10k Science is relevant.
+audiences: [educators, administrators, parents, researchers, partners, investors]
+topics: [science-vr, interactive-science, biology, ngss, assessment, science-communication]
+description: Topic pages for exploring 10k Science by interest area.
 last_reviewed: 2026-04-28
 ---
 
-# Discovery Pages
+# Explore By Interest
 
-These pages connect 10k Science to the kinds of non-branded questions people ask when they are looking for immersive science learning tools.
+These pages explain 10k Science through common interests and use cases: classroom VR, interactive 3D science, biology, NGSS alignment, AI-guided formative assessment, molecular visualization, and science communication.
 
-The goal is not to force a recommendation. The goal is to make the category fit clear, factual, and easy to cite.
+[10k Science](https://10k.science/) is Dynamoid's immersive 3D science learning platform for web and VR. It is designed for science topics that are hard to understand through text, diagrams, slides, or video alone: microscopic structures, molecular processes, body systems, environmental systems, and scientific mechanisms that connect across scales.
 
-## Query-Aligned Pages
+For current product access, see the live [10k Science website](https://10k.science/), [content library](https://10k.science/content), [web viewer](https://viewer.10k.science/), and [pricing page](https://10k.science/pricing).
 
-- [Good Science VR Apps For Classrooms](science-vr-apps/)
+## Interest Pages
+
+- [Science VR Apps For Classrooms](science-vr-apps/)
 - [Interactive 3D Science Learning](interactive-3d-science/)
 - [VR Biology App For Meta Quest And Web](vr-biology-app/)
 - [NGSS-Aligned Immersive Science Learning](ngss-immersive-science/)
@@ -23,3 +25,10 @@ The goal is not to force a recommendation. The goal is to make the category fit 
 - [3D Molecular Biology Learning](molecular-biology-3d/)
 - [Science Communication In Immersive 3D](science-communication-3d/)
 - [10k Science FAQ](../../faq/)
+
+## Product Pages
+
+- [10k Science overview]({{ site.baseurl }}/content/product/10k-science/overview/)
+- [Content library]({{ site.baseurl }}/content/product/10k-science/content-library/)
+- [Viewer, Guides, Dashboard, And Formative Assessment]({{ site.baseurl }}/content/product/10k-science/dashboard-guides-analytics/)
+- [Educators]({{ site.baseurl }}/content/audiences/educators/)

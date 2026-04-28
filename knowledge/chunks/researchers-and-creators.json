@@ -1,0 +1,17 @@
+{
+  "id": "researchers-and-creators",
+  "status": "public",
+  "audiences": ["researchers", "scientists", "educators", "creators", "partners"],
+  "topics": ["researcher bootcamps", "10k Creator", "science communication", "real scientific data", "immersive visualization"],
+  "summary": "Dynamoid uses researcher bootcamps and creator workflows to help scientists turn real scientific data into immersive 3D visualizations. The program began with two two-week bootcamps in 2022 and has continued through later public VR Science Communication Bootcamps, including the February 2025 bootcamp and upcoming bootcamp sessions listed on 10k.science. These visualizations can be adapted with learning designers and educators into 10k Science experiences for web and VR, including topics such as CRISPR and sickle cell disease, vineyard disease ecology, neurotoxin-based pain research, inflammation, genomics, neural imaging, geological volume data, air quality, wildfire smoke, dam failure modeling, and structural biology.",
+  "source_urls": [
+    "https://10k.science/",
+    "https://10k.science/content",
+    "https://10k.science/bootcamp",
+    "https://10k.science/bootcamp-3",
+    "https://10k.science/contact",
+    "https://innovativegenomics.org/education/games-activities/vr/",
+    "https://dynamoid.com/"
+  ],
+  "last_reviewed": "2026-04-28"
+}

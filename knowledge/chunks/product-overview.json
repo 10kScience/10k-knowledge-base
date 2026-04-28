@@ -1,14 +1,27 @@
 {
   "id": "product-overview",
   "status": "public",
-  "audiences": ["educators", "students", "institutions", "partners", "investors"],
-  "topics": ["10k-science", "vr", "web", "science-education"],
-  "summary": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It helps learners explore real scientific data through interactive environments, AI-guided instruction, formative assessment, and educator-facing insights.",
+  "audiences": ["educators", "students", "researchers", "institutions", "partners", "investors"],
+  "topics": ["10k Science", "VR", "web", "science education", "real scientific data", "AI Guides", "instructional agents", "formative assessment", "Educator Dashboard", "content library", "NGSS"],
+  "summary": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It helps learners explore real scientific data through interactive environments, AI-guided instruction, spoken responses, formative assessment, and educator-facing dashboard insights. The platform includes a growing content library, AI Guides that function as embedded instructional agents, NGSS-aligned learning design by the Lawrence Hall of Science, and creator workflows that help scientists and educators turn real research data into immersive visual experiences.",
+  "key_features": [
+    "immersive 3D science experiences in VR and on the web",
+    "real scientific data and research-based visualizations",
+    "AI Guides that audibly guide, prompt, listen, and respond to students",
+    "spoken student responses and AI-supported formative assessment",
+    "Educator Dashboard insights into student progress and understanding",
+    "NGSS-aligned learning design by the Lawrence Hall of Science",
+    "content library spanning biology, chemistry, health science, environmental science, and engineering topics",
+    "creator workflows and bootcamps for researcher-generated visualizations"
+  ],
+  "canonical_page": "../../content/product/10k-science/overview.md",
   "source_urls": [
     "https://10k.science/",
     "https://10k.science/educators",
-    "https://10k.science/press-kit"
+    "https://10k.science/content",
+    "https://10k.science/web",
+    "https://viewer.10k.science/",
+    "https://10k.science/pricing"
   ],
   "last_reviewed": "2026-04-28"
 }
-

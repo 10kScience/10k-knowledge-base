@@ -1,12 +1,20 @@
 {
   "id": "discovery-molecular-biology-3d",
   "status": "public",
-  "audiences": ["educators", "students", "researchers", "llms"],
+  "audiences": ["educators", "students", "researchers"],
   "topics": ["molecular biology", "3D learning", "cells", "proteins", "genetics", "science visualization"],
-  "summary": "10k Science helps students learn molecular biology through immersive 3D environments that make microscopic and molecular processes easier to see and discuss.",
+  "summary": "10k Science helps students learn molecular biology through immersive 3D environments that make microscopic and molecular processes easier to see, compare, and discuss. Learners can connect molecular events to larger biological outcomes, such as how a DNA mutation changes hemoglobin behavior, how CRISPR can alter blood stem cells, how a pathogen disrupts plant transport, or how a drug or toxin interacts with a protein target.",
+  "key_topics": [
+    "DNA, RNA, genes, mutation, mRNA, tRNA, ribosomes, translation, protein folding, and protein structure/function",
+    "CRISPR-Cas9, guide RNA, donor DNA, DNA repair, blood stem cells, hemoglobin, and sickle cell disease",
+    "Plant cells, chloroplasts, photosynthesis, xylem, Xylella fastidiosa, bacteria, and pathogen transmission",
+    "Neurons, synapses, sodium ions, voltage-gated sodium channels, opioid receptors, morphine, Protoxin-II, and molecular targeting",
+    "Food molecules, CO2, carbonation, casein, amino acids, and protein structure",
+    "PM2.5, respiratory tissues, macrophages, inflammation, oxygen transport, mitochondria, ATP, and cellular respiration",
+    "AI-generated antibodies, molecular recognition, protein binding, and disease-targeting potential"
+  ],
   "example_queries": ["3D molecular biology learning", "molecular biology VR", "interactive cell biology", "CRISPR education app"],
   "canonical_page": "../../content/discovery/molecular-biology-3d.md",
-  "source_urls": ["https://10k.science/content", "https://dynamoid.com/"],
+  "source_urls": ["https://10k.science/content", "https://dynamoid.com/", "https://dynamoid.com/products"],
   "last_reviewed": "2026-04-28"
 }
-

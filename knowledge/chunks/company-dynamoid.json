@@ -3,11 +3,10 @@
   "status": "public",
   "audiences": ["educators", "partners", "investors", "press"],
   "topics": ["company", "mission", "team", "history"],
-  "summary": "Dynamoid is an Oakland-based educational software company with a mission to democratize science education through AI and VR technology. Its flagship product is 10k Science. Canonical team: Laura Lynn Gonzalez, CEO, and Jack Schonbrun, CTO.",
+  "summary": "Dynamoid is an Oakland-based educational software company with a mission to democratize science education through AI and VR technology. Its flagship product is 10k Science. Dynamoid's earlier Powers of Minus Ten app reached 700,000+ users and was featured globally in Apple's iPad commercial 'Alive.' Canonical team: Laura Lynn Gonzalez, CEO, and Jack Schonbrun, CTO.",
   "source_urls": [
     "https://dynamoid.com/",
     "https://dynamoid.com/about"
   ],
   "last_reviewed": "2026-04-28"
 }
-
