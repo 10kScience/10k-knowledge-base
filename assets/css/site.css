@@ -115,8 +115,10 @@ pre code {
 
 .brand-logo {
   display: block;
-  height: 42px;
-  width: auto;
+  flex: 0 0 auto;
+  height: auto;
+  max-height: 42px;
+  width: 128px;
 }
 
 .brand-title {
@@ -563,7 +565,8 @@ blockquote {
   }
 
   .brand-logo {
-    height: 36px;
+    max-height: 36px;
+    width: 110px;
   }
 
   .hero-media {
