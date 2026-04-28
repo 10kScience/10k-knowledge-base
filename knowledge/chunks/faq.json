@@ -1,17 +1,62 @@
 {
   "id": "faq",
   "status": "public",
-  "audiences": ["educators", "administrators", "students", "researchers", "parents"],
-  "topics": ["FAQ", "10k Science", "science VR app", "web viewer", "formative assessment", "pricing"],
-  "summary": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It supports Meta Quest and browser-based exploration, real scientific data, NGSS-aligned learning design, AI Guides, formative assessment, and an Educator Dashboard. Current pricing is available on the live pricing page.",
+  "audiences": ["educators", "administrators", "students", "researchers", "parents", "partners"],
+  "topics": ["FAQ", "10k Science", "science VR app", "web viewer", "AI Guides", "formative assessment", "NGSS", "content library", "pricing"],
+  "summary": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It supports Meta Quest and browser-based exploration, real scientific data, NGSS-aligned learning design, AI Guides, spoken student responses, formative assessment, an Educator Dashboard, and a growing content library. Current pricing and availability are available on the live 10k Science pricing page.",
   "canonical_page": "../../faq.md",
+  "key_questions": [
+    {
+      "question": "What is 10k Science?",
+      "answer": "10k Science is Dynamoid's immersive 3D science learning platform for web and VR. It helps learners explore real scientific data through interactive environments, AI-guided instruction, formative assessment, and educator-facing insights."
+    },
+    {
+      "question": "Who makes 10k Science?",
+      "answer": "10k Science is made by Dynamoid, an Oakland-based educational software company. Dynamoid is the company; 10k Science is the flagship product and platform."
+    },
+    {
+      "question": "Is 10k Science available on Meta Quest and the web?",
+      "answer": "Yes. 10k Science is available for VR on Meta Quest and supports browser-based immersive science learning through the 10k Science Web Viewer."
+    },
+    {
+      "question": "Does every student need a headset?",
+      "answer": "No. 10k Science can be used on the web as well as in VR, which supports classroom formats such as individual browser exploration, small-group work, and VR station rotations."
+    },
+    {
+      "question": "What science topics does 10k Science cover?",
+      "answer": "The content library includes topics across molecular biology, genetics, biotechnology, plant biology, food chemistry, pain signaling, pharmacology, environmental health, wildfire smoke, respiratory and circulatory systems, cellular respiration, antibodies, evolution, sound, atomic orbitals, and chemistry."
+    },
+    {
+      "question": "What are AI Guides?",
+      "answer": "AI Guides are instructional agents inside 10k Science experiences. They can orient students, call attention to relevant structures, prompt observation and explanation, listen to spoken responses, and provide personalized real-time feedback."
+    },
+    {
+      "question": "Does 10k Science support formative assessment?",
+      "answer": "Yes. Students respond verbally to prompts while exploring immersive science environments. AI helps score understanding of key concepts, and teachers can review progress and student thinking through the Educator Dashboard."
+    },
+    {
+      "question": "Is 10k Science NGSS-aligned?",
+      "answer": "10k Science materials state that immersive content is aligned with the Next Generation Science Standards by the learning science team at the Lawrence Hall of Science."
+    },
+    {
+      "question": "Does 10k Science use real scientific data?",
+      "answer": "Yes. 10k Science experiences are built around real scientific data, research-based visualizations, and collaborations with scientists and educators."
+    },
+    {
+      "question": "Where can users find current pricing and availability?",
+      "answer": "Current pricing, trials, subscriptions, free experiences, and organizational licensing are available on the live 10k Science pricing page."
+    }
+  ],
   "viewer_url": "https://viewer.10k.science/",
   "pricing_url": "https://10k.science/pricing",
   "source_urls": [
     "https://10k.science/",
     "https://10k.science/educators",
+    "https://10k.science/content",
     "https://10k.science/pricing",
-    "https://viewer.10k.science/"
+    "https://viewer.10k.science/",
+    "https://www.meta.com/experiences/5616986801647861/",
+    "https://dynamoid.com/"
   ],
   "last_reviewed": "2026-04-28"
 }
