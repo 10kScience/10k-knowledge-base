@@ -422,9 +422,25 @@ blockquote {
   padding: 24px;
 }
 
+.fact-band h2 {
+  border: 0;
+  color: #ffffff;
+  grid-column: 1 / -1;
+  margin: 0;
+  padding: 0;
+}
+
 .fact-band p {
   color: #d7dfda;
   margin: 0;
+}
+
+.fact-band a {
+  color: #9ddde3;
+}
+
+.fact-band a:hover {
+  color: #ffffff;
 }
 
 .fact-band strong {
